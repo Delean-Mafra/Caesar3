@@ -1,0 +1,111 @@
+INFO:  Augustus version 4.0.0, x86 build
+INFO:  Running on: Windows (unknown version)
+INFO:  Initializing SDL
+INFO:  SDL initialized, version 2.28.5
+INFO:  Loading game from working directory
+ERROR:  'c3.eng' or 'c3_mm.eng' files not found or too large.
+INFO:  Loading game from base path D:\Jogos\Caesar III\augustus-4.0.0-windows\
+INFO:  Location:  C:\Users\Acer\AppData\Roaming\augustus\augustus\
+INFO:  Loading game from user pref D:\Jogos\Caesar III\Caesar 3 Expanxão
+INFO:  Config key  enable_audio
+INFO:  Config key  master_volume  100
+INFO:  Config key  enable_audio_in_videos
+INFO:  'c3.eng' or 'c3_mm.eng' files not found or too large. (message repeats 1 time)
+INFO:  Config key  video_volume  100
+INFO:  Config key  gameplay_fix_immigration
+INFO:  Config key  gameplay_fix_100y_ghosts
+INFO:  Config key  screen_display_scale  100
+INFO:  Config key  screen_cursor_scale  100
+INFO:  Config key  screen_color_cursors
+INFO:  Config key  ui_sidebar_info  1
+INFO:  Config key  ui_show_intro_video
+INFO:  Config key  ui_smooth_scrolling  1
+INFO:  Config key  ui_disable_mouse_edge_scrolling
+INFO:  Config key  ui_visual_feedback_on_delete
+INFO:  Config key  ui_allow_cycling_temples
+INFO:  Config key  ui_show_water_structure_range  1
+INFO:  Config key  ui_show_water_structure_range_houses
+INFO:  Config key  ui_show_market_range
+INFO:  Config key  ui_show_construction_size  1
+INFO:  Config key  ui_highlight_legions  1
+INFO:  Config key  ui_show_military_sidebar  1
+INFO:  Config key  ui_disable_map_drag
+INFO:  Config key  ui_show_max_prosperity
+INFO:  Config key  ui_digit_separator
+INFO:  Config key  ui_inverse_map_drag
+INFO:  Config key  ui_message_alerts
+INFO:  Config key  ui_show_grid
+INFO:  Config key  ui_show_partial_grid_around_construction
+INFO:  Config key  ui_always_show_rotation_buttons
+INFO:  Config key  ui_show_roaming_path  1
+INFO:  Config key  ui_draw_cloud_shadows
+INFO:  Config key  ui_display_fps
+INFO:  Config key  ui_ask_confirmation_on_file_overwrite
+INFO:  Config key  gameplay_change_max_grand_temples  6
+INFO:  Config key  gameplay_change_jealous_gods  1
+INFO:  Config key  gameplay_change_global_labour  1
+INFO:  Config key  gameplay_change_retire_at_60  1
+INFO:  Config key  gameplay_change_fixed_workers  1
+INFO:  Config key  gameplay_wolves_block
+INFO:  Config key  gameplay_buyers_dont_distribute
+INFO:  Config key  gameplay_change_getting_granaries_go_offroad  1
+INFO:  Config key  gameplay_change_granaries_get_double  1
+INFO:  Config key  gameplay_change_allow_exporting_from_granaries  1
+INFO:  Config key  gameplay_change_tower_sentries_go_offroad  1
+INFO:  Config key  gameplay_change_farms_deliver_close
+INFO:  Config key  gameplay_change_only_deliver_to_accepting_granaries
+INFO:  Config key  gameplay_change_all_houses_merge  1
+INFO:  Config key  gameplay_change_random_mine_or_pit_collapses_take_money  1
+INFO:  Config key  gameplay_change_multiple_barracks  1
+INFO:  Config key  gameplay_change_warehouses_dont_accept
+INFO:  Config key  gameplay_change_houses_dont_expand_into_gardens
+INFO:  Config key  gameplay_change_monuments_boost_culture_rating
+INFO:  Config key  gameplay_change_disable_infinite_wolves_spawning  1
+INFO:  Config key  gameplay_change_romers_dont_skip_corners  1
+INFO:  Config key  gameplay_change_yearly_autosave  1
+INFO:  Config key  gameplay_change_auto_kill_animals  1
+INFO:  Config key  gameplay_change_nonmilitary_gates_allow_walkers  1
+INFO:  Config key  ui_show_speedrun_info
+INFO:  Config key  ui_language_dir
+INFO:  Config value  
+INFO:  Detected language:  Portuguese
+INFO:  Detected encoding:  1252
+INFO:  Translation key not found:  Formal Gardens  1332
+INFO:  Translation key not found:  Overgrown Gardens  1333
+INFO:  Translation key not found:  Altars  1334
+INFO:  Creating screen 1920 x 1080, fullscreen, driver: windows
+INFO:  Creating renderer
+INFO:  Loaded renderer: direct3d
+INFO:  Render texture created (1920 x 1080)
+INFO:  Trying asset path at  D:\Jogos\Caesar III\augustus-4.0.0-windows\/assets
+INFO:  Asset path detected at  D:\Jogos\Caesar III\augustus-4.0.0-windows\/assets
+INFO:  Loading assetlist file  administration.xml
+INFO:  Loading assetlist file  aesthetics.xml
+INFO:  Loading assetlist file  entertainment.xml
+INFO:  Loading assetlist file  flags.xml
+INFO:  Loading assetlist file  health_education.xml
+INFO:  Loading assetlist file  Industry.xml
+INFO:  Loading assetlist file  logistics.xml
+INFO:  Loading assetlist file  military.xml
+INFO:  Loading assetlist file  religion.xml
+INFO:  Loading assetlist file  ui.xml
+INFO:  Loading assetlist file  walkers.xml
+INFO:  Creating atlas texture with size 2633x2633
+INFO:  Creating atlas texture with size 3245x3245
+INFO:  Creating atlas texture with size 756x756
+INFO:  Model loaded
+INFO:  Asset image not found:   Garden_Gate
+INFO:  Asset group is:   Aesthetics
+INFO:  Asset image not found:   Garden_Wall_C
+INFO:  Using default audio driver: directsound
+INFO:  Loading audio files
+INFO:  Window resized to 1920 x 1080
+INFO:  Render texture created (1920 x 1080)
+INFO:  Window 1 shown
+INFO:  Window 1 exposed
+INFO:  Asset group is:   Aesthetics (message repeats 1 time)
+INFO:  Loading saved game  Delean Caesar.svx
+INFO:  Savegame version  155
+INFO:  Creating atlas texture with size 3253x3253
+INFO:  Creating atlas texture with size 870x870
+INFO:  Exiting game
