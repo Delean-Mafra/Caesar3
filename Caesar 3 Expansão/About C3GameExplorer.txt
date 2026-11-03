@@ -1,0 +1,55 @@
+**************
+C3GameExplorer
+**************
+
+v 3.0 (January 2004)
+
+C3GameExplorer is an utility program for Caesar III scenario designers. It runs on a PC with Windows 95 or newer.
+
+C3GameExplorer was programmed by Caesar Jan <jankoll@gmx.net> and beta-tested by Caesar Philon.
+See also my Caesar III website: <http://www.geocities.com/caesar_jan>.
+C3GameExplorer is downloadable here: <http://www.geocities.com/caesar_jan/c3gameexplorer.html>
+
+
+
+
+What can you do with C3GameExplorer?
+====================================
+
+* Edit saved games
+- specify local raw materials
+- disable trade routes
+- edit the costs to open trade routes
+- edit buyer and seller prices
+- edit the present values of the four ratings (culture, favor, etc.)
+- edit personal savings
+
+* Report
+Display a couple of scenario settings.
+
+* Convert saved games between PC and Mac
+C3GameExplorer incorporates the functionality of my Macintosh tool C3Converter.
+
+* Save and load uncompressed saved games
+This is only useful if you want to do low-level editing with a hex editor. If you are familiar with hex editing I can mail you a list with hex offsets.
+
+
+
+
+Usage
+=====
+
+Keep in mind that editing settings may have unpredictable side effects, especially if you enter unusual high numbers for prices etc. or do weird things like disabling an already opened trade route.
+
+PC and Mac saved games use the same extension ".sav". I recommend you choose appropriate file names to make the difference clear if you work with both types. After the Open dialog, C3GameExplorer will report an error if the saved game you have selected doesn't match the type you have specified. But Caesar III will CRASH if you accidentally load a saved gamed from the other platform!
+
+Uncompressed saved games get the extension ".c3u".
+
+The compression algorithms used by C3GameExplorer and Caesar III to generate PC saved games are not entirely identical; you may notice different file sizes. However, the saved games contain 100% the same data. Encoding a PC saved game can take a minute or two on slow computers.
+
+Caesar III for Mac has doubled walker and building sprite limits compared with the PC version. Mac saved games of very large cities that make use of these extended sprite limits can't be converted into PC saved games.
+
+
+For Mac users:
+Special care must be taken when you deal with Mac saved game that were created with C3GameExplorer on Windows: To load such a saved game via the "Load game" menu, make sure the extension is ".sav" (all letters must be lowercase) and not ".SAV" or something. To enable drag & drop, you need to set the file type to "C3mG" and the file creator to "C3mA" with an utility program like ResEdit. Caesar III for Mac can also load uncompressed saved games.
+
