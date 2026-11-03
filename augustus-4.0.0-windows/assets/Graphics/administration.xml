@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Administration">
+    <image id="Upgraded_Forum" width="118" height="114" isometric="true">
+        <layer group="63" image="0"/>
+        <layer src_x="238" y="27" width="118" height="87"/>
+    </image>
+    <image id="Basilica_OFF" width="238" height="161" isometric="true">
+        <layer width="238" height="161"/>
+    </image>
+    <image id="Basilica_ON" width="238" height="161" isometric="true">
+        <layer group="this" image="Basilica_OFF"/>
+        <layer src_y="278" x="45" y="78" width="174" height="73"/>
+    </image>
+    <image id="City_Mint_Construction_02" width="178" height="117" isometric="true">
+        <layer src_y="161" width="178" height="117"/>
+    </image>
+    <image id="City_Mint_OFF" width="178" height="117" isometric="true">
+        <layer src_x="178" src_y="161" width="117" height="178" rotate="90"/>
+    </image>
+    <image id="City_Mint_OFF_Alt" width="178" height="117" isometric="true">
+        <layer group="this" image="City_Mint_OFF"/>
+        <layer src_x="295" src_y="161" x="13" width="82" height="143" rotate="90"/>
+    </image>
+    <image id="City_Mint_ON_01" width="178" height="117">
+        <layer src_x="238" src_y="87" x="54" y="46" width="94" height="63"/>
+        <layer src_x="356" x="59" y="78" width="22" height="11"/>
+    </image>
+    <image id="City_Mint_ON_02" width="178" height="117">
+        <layer src_x="238" src_y="87" x="54" y="46" width="94" height="63"/>
+        <layer src_x="238" src_y="150" x="59" y="78" width="22" height="11"/>
+    </image>
+    <image id="City_Mint_ON_03" width="178" height="117">
+        <layer src_x="238" src_y="87" x="54" y="46" width="94" height="63"/>
+        <layer src_x="260" src_y="150" x="59" y="78" width="22" height="11"/>
+    </image>
+    <image id="City_Mint_ON_04" width="178" height="117">
+        <layer src_x="238" src_y="87" x="54" y="46" width="94" height="63"/>
+        <layer src_x="282" src_y="150" x="59" y="78" width="22" height="11"/>
+    </image>
+    <image id="City_Mint_ON_05" width="178" height="117">
+        <layer src_x="238" src_y="87" x="54" y="46" width="94" height="63"/>
+        <layer src_x="304" src_y="150" x="59" y="78" width="22" height="11"/>
+    </image>
+    <image id="City_Mint_ON" width="178" height="117" isometric="true">
+        <layer group="this" image="City_Mint_OFF"/>
+        <animation speed="6">
+            <frame group="this" image="City_Mint_ON_01"/>
+            <frame group="this" image="City_Mint_ON_02"/>
+            <frame group="this" image="City_Mint_ON_03"/>
+            <frame group="this" image="City_Mint_ON_04"/>
+            <frame group="this" image="City_Mint_ON_05"/>
+        </animation>
+    </image>
+    <image id="City_Mint_ON_Alt" width="178" height="117" isometric="true">
+        <layer group="this" image="City_Mint_OFF_Alt"/>
+        <animation speed="6">
+            <frame group="this" image="City_Mint_ON_01"/>
+            <frame group="this" image="City_Mint_ON_02"/>
+            <frame group="this" image="City_Mint_ON_03"/>
+            <frame group="this" image="City_Mint_ON_04"/>
+            <frame group="this" image="City_Mint_ON_05"/>
+        </animation>
+    </image>
+</assetlist>
