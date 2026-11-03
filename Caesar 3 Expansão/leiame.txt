@@ -1,0 +1,142 @@
+Caesar III
+Versão 1.1
+23/12/99
+
+Este é o Leiame do patch que faz a atualização da versão 1.0 para a versão 1.1 do Caesar III. Ele contém informações sobre novos recursos do jogo e soluções para bugs da versão 1.0. Traz também uma seção sobre mudanças feitas no jogo depois da impressão do manual.
+
+SUMÁRIO
+
+[1] COMO INSTALAR A ATUALIZAÇÃO
+[2] O QUE A ATUALIZAÇÃO CORRIGE
+[3] NOVOS RECURSOS DO JOGO
+[4] INFORMAÇÕES ADICIONAIS
+[5] ERRATA DO MANUAL
+
+
+[1] COMO INSTALAR A ATUALIZAÇÃO
+
+A atualização está contida num arquivo executável chamado C3_patch.exe. Depois de descarregar e descompactar o arquivo, execute-o e siga as instruções que aparecem na tela.
+
+[2] O QUE A ATUALIZAÇÃO CORRIGE
+
+* Agora há um aviso quando o limite de construções é atingido. Uma cidade muito grande pode atingir o número máximo de construções permitido pelo jogo. Quando o limite é alcançado, qualquer tentativa de nova construção resulta no aparecimento de um 'buraco' marrom no lugar onde o prédio deveria ser erguido. Foi acrescentado um aviso indicando que o número máximo foi atingido.
+DICAS PARA CONTORNAR: Aquedutos, jardins, muros, estradas e praças NÃO contam no limite. Todos os outros prédios contam. Experimente substituir estátuas por jardins. Tente encontrar prédios que não estejam sendo usados ou que não sejam necessários e remova-os. Cada casa 1x1 conta como um prédio, então procure criar mais casas 2x2. Tente apagar um quarteirão inteiro e reconstruí-lo de forma mais eficiente.
+
+* Não é mais cobrado um preço pela construção de praças sobre praças.
+
+* Palácios do Governo e oráculos não trazem mais a mensagem de que têm acesso ruim para os empregados (eles não precisam de trabalhadores).
+
+* Há um alerta quando moradias são construídas muito longe de uma estrada (mais de dois espaços).
+
+* Há um alerta quando moradias são isoladas da 'Estrada para Roma'. A vista do mapa é centralizada nas casas que logo irão desaparecer devido a esse isolamento. O intervalo de tempo antes do desaparecimento das moradias aumentou.
+
+* Em alguns casos, moradias com duas estradas de acesso diferentes desapareciam devido à falta de acesso à 'Estrada para Roma' quando apenas uma das estradas em que elas se encontravam não tinha acesso à 'Estrada para Roma'. Isso foi corrigido.
+
+* Prefeitos que passam por um incêndio para o qual não foram designados agora pararão para combater o fogo. A possibilidade de incêndios no deserto foi um pouco reduzida.
+
+* A força de combate dos prefeitos foi um pouco aumentada.
+
+* Uma cidade comercial não quer mais comprar zero fruta por ano no cenário Caesarea. Mármore agora pode ser importado no cenário Damasco.
+
+* O número de lugares onde cais e pesqueiros podiam ser ilegalmente posicionados foi reduzido. A colocação dessas estruturas em certos locais resultava numa mensagem inadequada 'Ponte baixa está bloqueando o acesso'. Na verdade, acidentes do terreno (geralmente ilhas) estavam bloqueando o acesso de navios a uma estrutura.
+
+* A construção de muros ao lado de uma rampa não corrompe mais a rampa (não a faz desaparecer).
+
+* Armazéns que estejam buscando uma mercadoria não vão mais pegar essa mercadoria de outro armazém que esteja buscando o mesmo item.
+
+* O relatório de progresso do conselheiro dos Índices podia, às vezes, afirmar incorretamente que 'O progresso está aumentando' quando isso na verdade não estava acontecendo. Esse erro foi corrigido.
+
+* As mercadorias que o Imperador solicita agora saem por último de armazéns que estiverem 'buscando' esse item.
+
+* Ao enviar mercadorias solicitadas para o Imperador, uma caixa de confirmação aparece com um botão de OK e um botão 'X', para confirmar ou cancelar o envio. Agora, o 'X' cancela corretamente o envio.
+
+* Portões fortificados agora podem ser construídos sobre praças sem corromper graficamente o portão e torná-lo impossível de remover.
+
+* Compradoras do mercado às vezes tentavam comprar uma mercadoria de um armazém próximo que elas não conseguiam alcançar (falta de estrada de acesso). A compradora, então, desaparecia imediatamente após sair do mercado. As compradoras agora só tentam ir para armazéns que podem alcançar.
+
+* As tropas não retornavam a seu forte quando se usava o botão 'Retornar ao Forte' no painel acessado clicando o botão direito do mouse quando a formação da tropa era 'Limpeza'. As tropas agora retornam ao forte.
+
+* Foi corrigido um bug em que uma escola de gladiadores tentava enviar gladiadores para um anfiteatro sem acesso por estrada. Essas escolas de gladiadores, então, não enviavam gladiadores para os prédios que eram acessíveis.
+
+
+[2] NOVOS RECURSOS DO JOGO
+
+* 4 novos níveis de dificuldade foram introduzidos (além do original). A dificuldade pode ser alterada por meio do menu Opções a qualquer momento. (O nível de dificuldade não é armazenado com um jogo gravado. Ele é uma configuração global do jogo, portanto é preciso mudar a dificuldade manualmente sempre que você carregar um jogo gravado e quiser uma dificuldade diferente.)
+Os níveis de dificuldade mudam o seguinte:
+
+Fundos iniciais, empréstimos de socorro e receita de impostos:
+Muito Fácil - 300%
+Fácil - 200%
+Normal - 150%
+Difícil - 100% (configuração original)
+Muito Difícil - 75%
+
+Configurações iniciais de apreço:
+Muito Fácil	70
+Fácil		60
+Normal		50
+Difícil		50
+Muito Difícil	40
+
+* Os lobos não são tão fortes nos níveis de dificuldade mais baixos. A intensidade das invasões inimigas foi adequada ao nível de dificuldade.
+
+* Os eventos dos deuses podem ser desativados e ativados a qualquer momento pelo menu Opções. Os deuses não abençoarão ou amaldiçoarão enquanto esse recurso estiver desativado. A opinião dos deuses sobre você funciona normalmente; eles ainda ficarão zangados (conforme informado pelo Conselheiro da Religião), mas não farão nada quanto a isso. Templos continuam sendo necessários para a evolução das moradias e para aumentar o índice de cultura da cidade.
+
+* Jogos gravados agora podem ser apagados de dentro do jogo. Use a opção Apagar Jogo no menu Jogo.
+
+* As teclas 'Home' e 'End' agora são teclas de atalho para girar o mapa.
+
+* Os lobos agora aparecem como pixels pretos no mapa geral.
+
+* Unidades militares e torres agora podem usadas para matar carneiros e zebras.
+
+* As compradoras do mercado agora indicam qual item estão indo comprar, no painel que aparece quando são clicadas com o botão direito do mouse.
+
+[4] INFORMAÇÕES ADICIONAIS
+
+Informações sobre o Caesar III, juntamente com muitas respostas para problemas, podem ser encontradas em www.sierra.com ou www.caesar3.com (em inglês). Consulte também regularmente o site www.brasoft.com.br (em português) para ficar por dentro de informações sobre o Caesar III e outros jogos.
+
+[5] ERRATA DO MANUAL
+
+Esse item documenta as mudanças no Caesar III que ocorreram depois que o manual foi impresso.
+
+Pg. 17: Observe também que, caso você contraia dívidas várias vezes, o apreço não é prejudicado em cada vez, mas seu índice de progresso diminuirá se você não conseguir manter um saldo positivo.
+
+Pg. 20 & 45: Terrenos elevados não são mais desejáveis. Note que, como aquedutos não podem atravessar rampas ou formações rochosas, a disponibilidade de água será muito limitada em terras mais altas.
+
+Pg. 26: Os cidadãos normalmente caminham por estradas, mas podem cortar caminho por jardins, ruínas ou pela praça de armas de um forte. Se isso se tornar um problema, pequenas estátuas podem ser construídas para bloquear a entrada de jardins. Fortes são altamente indesejáveis e devem ser construídos o mais longe possível das moradias. Ruínas também são indesejáveis e devem ser removidas tão logo quanto possível.
+
+Pg. 27: Nenhuma moradia pode tirar água de rios ou lagos. Elas precisam, no mínimo, de um poço.
+
+Pg. 30: O comércio exterior é algo a se considerar desde cedo e algum comércio já deve ter sido iniciado bem antes de sua cidade atingir 1.000 habitantes. Você não precisa construir uma dúzia de fábricas de uma vez, mas construa instalações em número compatível com os trabalhadores disponíveis e abra logo rotas comerciais.
+
+Pg. 38: Se suas próprias tropas tiverem uma chance de derrotar as legiões de Caesar, lute! Se desistir, você será preso, e se perder a batalha será preso também, portanto, por que não tentar? Embora as legiões de Caesar normalmente esperem por um ano fora dos portões da cidade, elas atacarão se você as atacar (incluem-se nisso ataques de balistas ou de sentinelas!). Você só precisa elevar seu Apreço até 35 nesse ano para evitar uma invasão.
+
+Pg. 64: Sugere-se definir "Segurança e prevenção de incêndios" como prioridade máxima na tela Conselheiro do Trabalho a fim de manter tumultos sob controle. O item a ser priorizado é "Prefeituras", uma vez que "Segurança e prevenção de incêndios" não existe.
+
+Pg. 72-73: Alguns mapas que possibilitam comércio por água não têm resíduos flutuantes. As vias aquáticas que não sejam rios (costa marítima, portos interiores) não têm resíduos flutuantes, mas podem ser utilizadas para comércio marítimo.
+
+Pg. 75: O manual afirma que são necessárias três carroças de madeira para construir um barco de pesca. Na verdade, não há necessidade de nenhuma madeira.
+
+Pg. 108: Residências do Governador têm efeito apenas sobre a atratividade. Ignore todas as informações quanto a pagar com economias pessoais e efeitos sobre o progresso.
+
+Pg. 136-7: Aquedutos não têm nenhum efeito sobre a atratividade.
+
+Pg. 142: Torres precisam ser construídas sobre muros de espessura dupla (unidade de quatro espaços).
+
+Pg. 144: Portões fortificados NÃO precisam de acesso por estrada.
+
+Pg. 145: Soldados NÃO tiram seu pagamento do tesouro da cidade e nem têm nenhum efeito sobre nada (a não ser sobre os inimigos).
+
+Pg. 146: O quartel procura receber 4 carroças de armas para ter à mão.
+
+Erros na Tabela de Resumo das Construções (pp. 206-216)
+Aqueduto: 	Atratividade = N/D, pode conectar qualquer quantidade de reservatórios.
+Ponte alta: 	Comprimento mínimo = 5 unidades
+Fonte:	 	4 trabalhadores necessários
+Portão fortificado:	Não precisa de estrada.
+Residências do Governador (Casa, Palácio e Vila): Não precisam de trabalhadores e não têm efeito sobre progresso.
+Oráculo:		Custo = 200 + 2 unidades de mármore
+Estátuas:	Não têm efeito sobre o progresso.
+Estátua média:	Custo = 80
+Templo grande:	Custo = 150 + 2 unidades de mármore
