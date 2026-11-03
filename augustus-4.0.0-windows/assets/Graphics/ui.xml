@@ -1,0 +1,462 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="UI">
+    <image id="Happy God Icon">
+        <layer src_x="852" src_y="1182" width="19" height="19"/>
+    </image>
+    <image id="Image Border Small">
+        <layer src_x="574" src_y="1201" width="81" height="5"/>
+    </image>
+    <image>
+        <layer src_x="1195" src_y="972" width="5" height="82"/>
+    </image>
+    <image>
+        <layer src_x="485" src_y="1192" width="81" height="4"/>
+    </image>
+    <image>
+        <layer src_x="1200" src_y="972" width="4" height="82"/>
+    </image>
+    <image id="Image Border Medium">
+        <layer src_x="574" src_y="1191" width="110" height="5"/>
+    </image>
+    <image>
+        <layer src_x="829" src_y="1052" width="5" height="85"/>
+    </image>
+    <image>
+        <layer src_x="574" src_y="1196" width="110" height="5"/>
+    </image>
+    <image>
+        <layer src_x="834" src_y="1052" width="5" height="85"/>
+    </image>
+    <image id="Image Border Large">
+        <layer src_x="574" src_y="1182" width="150" height="5"/>
+    </image>
+    <image>
+        <layer src_x="1174" src_y="662" width="5" height="121"/>
+    </image>
+    <image>
+        <layer src_x="574" src_y="1187" width="150" height="4"/>
+    </image>
+    <image>
+        <layer src_x="1179" src_y="662" width="4" height="121"/>
+    </image>
+    <image id="Highlight">
+        <layer src_x="574" src_y="1206" width="72" height="13"/>
+    </image>
+    <image>
+        <layer src_x="842" src_y="1052" width="12" height="56"/>
+    </image>
+    <image>
+        <layer src_x="413" src_y="1192" width="72" height="13"/>
+    </image>
+    <image>
+        <layer src_x="1204" src_y="972" width="12" height="57"/>
+    </image>
+    <image id="Caravanserai Banner">
+        <layer src_x="804" src_y="405" width="391" height="191"/>
+    </image>
+    <image id="Lighthouse Banner">
+        <layer src_x="413" src_y="405" width="391" height="191"/>
+    </image>
+    <image id="Ceres L Banner">
+        <layer src_x="22" src_y="978" width="391" height="191"/>
+    </image>
+    <image id="Mars L Banner">
+        <layer src_x="804" src_y="214" width="391" height="191"/>
+    </image>
+    <image id="Merc L Banner">
+        <layer src_x="22" src_y="23" width="391" height="191"/>
+    </image>
+    <image id="Venus L Banner">
+        <layer src_x="413" src_y="214" width="391" height="191"/>
+    </image>
+    <image id="Nept L Banner">
+        <layer src_x="804" src_y="23" width="391" height="191"/>
+    </image>
+    <image id="Panth L Banner">
+        <layer src_x="22" src_y="787" width="391" height="191"/>
+    </image>
+    <image id="Ceres M Icon">
+        <layer src_x="574" src_y="922" width="150" height="130"/>
+    </image>
+    <image id="Ceres M2 Icon">
+        <layer src_x="574" src_y="1052" width="150" height="130"/>
+    </image>
+    <image id="Mars M Icon">
+        <layer src_x="724" src_y="662" width="150" height="130"/>
+    </image>
+    <image id="Mars M2 Icon">
+        <layer src_x="874" src_y="662" width="150" height="130"/>
+    </image>
+    <image id="Merc M Icon">
+        <layer src_x="1024" src_y="662" width="150" height="130"/>
+    </image>
+    <image id="Merc M2 Icon">
+        <layer src_x="724" src_y="792" width="150" height="130"/>
+    </image>
+    <image id="Nept M Icon">
+        <layer src_x="724" src_y="922" width="150" height="130"/>
+    </image>
+    <image id="Nept M2 Icon">
+        <layer src_x="413" src_y="802" width="150" height="130"/>
+    </image>
+    <image id="Panth M Icon">
+        <layer src_x="574" src_y="662" width="150" height="130"/>
+    </image>
+    <image id="Panth M2 Icon">
+        <layer src_x="413" src_y="1062" width="150" height="130"/>
+    </image>
+    <image id="Venus M Icon">
+        <layer src_x="413" src_y="932" width="150" height="130"/>
+    </image>
+    <image id="Venus M2 Icon">
+        <layer src_x="574" src_y="792" width="150" height="130"/>
+    </image>
+    <image id="Const. Banner 01">
+        <layer src_x="22" src_y="596" width="391" height="191"/>
+    </image>
+    <image id="Const. Banner 02">
+        <layer src_x="22" src_y="405" width="391" height="191"/>
+    </image>
+    <image id="Main Menu Banner">
+        <layer src_x="413" src_y="601" width="284" height="61"/>
+    </image>
+    <image id="Mission Selection Border">
+        <layer src_y="12" width="1024" height="11"/>
+    </image>
+    <image>
+        <layer src_y="23" width="11" height="745"/>
+    </image>
+    <image>
+        <layer width="1024" height="12"/>
+    </image>
+    <image>
+        <layer src_x="11" src_y="23" width="11" height="745"/>
+    </image>
+    <image id="HoldGames Banner" width="126" height="88">
+        <layer group="159" image="47" x="-11" y="-9"/>
+    </image>
+    <image id="HoldGames Banner Border">
+        <layer src_x="979" src_y="1218" width="126" height="2"/>
+    </image>
+    <image>
+        <layer src_x="839" src_y="1052" width="2" height="85"/>
+    </image>
+    <image>
+        <layer src_x="813" src_y="600" width="126" height="1"/>
+    </image>
+    <image>
+        <layer src_x="841" src_y="1052" width="1" height="85"/>
+    </image>
+    <image id="T Pillar BG R" width="10" height="235">
+        <layer group="195" image="0" x="-510"/>
+    </image>
+    <image id="T Pillar BG L" width="9" height="235">
+        <layer group="195" image="0"/>
+    </image>
+    <image id="Tourism Pillar BG" width="91" height="235">
+        <layer group="195" image="0" x="-64"/>
+        <layer group="this" image="T Pillar BG R" x="81"/>
+        <layer group="this" image="T Pillar BG L"/>
+    </image>
+    <image id="Naumachia Icon">
+        <layer src_x="1051" src_y="972" width="72" height="82"/>
+    </image>
+    <image>
+        <layer src_x="1123" src_y="972" width="72" height="82"/>
+    </image>
+    <image>
+        <layer src_x="1051" src_y="1054" width="72" height="82"/>
+    </image>
+    <image id="Circus Banner">
+        <layer src_x="22" src_y="214" width="391" height="191"/>
+    </image>
+    <image id="Colosseum Banner">
+        <layer src_x="413" src_y="23" width="391" height="191"/>
+    </image>
+    <image id="Store Icon">
+        <layer src_x="1174" src_y="783" width="8" height="8"/>
+    </image>
+    <image id="Adv_B_Blank_UH" width="40" height="40">
+        <layer group="128" image="9"/>
+        <layer src_x="821" src_y="1182" width="31" height="36"/>
+    </image>
+    <image id="Adv_B_Blank_H" width="40" height="40">
+        <layer group="128" image="22"/>
+        <layer src_x="1163" src_y="1054" width="31" height="36"/>
+    </image>
+    <image id="Monument Build Icon">
+        <layer src_x="842" src_y="1128" width="14" height="14"/>
+    </image>
+    <image id="Rotate Build Icon">
+        <layer src_x="1204" src_y="1029" width="14" height="14"/>
+    </image>
+    <image id="Hipp_Racing_Button">
+        <layer src_x="874" src_y="882" width="105" height="90"/>
+    </image>
+    <image id="Hipp_Team_Blue">
+        <layer src_x="979" src_y="1054" width="72" height="82"/>
+    </image>
+    <image>
+        <layer src_x="979" src_y="972" width="72" height="82"/>
+    </image>
+    <image>
+        <layer src_x="1051" src_y="1136" width="72" height="82"/>
+    </image>
+    <image>
+        <layer src_x="979" src_y="1136" width="72" height="82"/>
+    </image>
+    <image id="Trade Policy">
+        <layer src_x="874" src_y="792" width="105" height="90"/>
+    </image>
+    <image id="Trade Policy 1">
+        <layer src_x="979" src_y="792" width="105" height="90"/>
+    </image>
+    <image id="Trade Policy 2">
+        <layer src_x="874" src_y="1062" width="105" height="90"/>
+    </image>
+    <image id="Trade Policy 3">
+        <layer src_x="1084" src_y="792" width="105" height="90"/>
+    </image>
+    <image id="Sea Trade Policy">
+        <layer src_x="979" src_y="882" width="105" height="90"/>
+    </image>
+    <image id="Sea Trade Policy 1">
+        <layer src_x="1084" src_y="882" width="105" height="90"/>
+    </image>
+    <image id="Sea Trade Policy 2">
+        <layer src_x="874" src_y="972" width="105" height="90"/>
+    </image>
+    <image id="Sea Trade Policy 3">
+        <layer src_x="724" src_y="1052" width="105" height="90"/>
+    </image>
+    <image id="Sea Trade Policy Off Button">
+        <layer group="179" image="0" mask="grayscale"/>
+    </image>
+    <image id="Land Trade Policy Off Button">
+        <layer group="179" image="1" mask="grayscale"/>
+    </image>
+    <image id="H Sophia Fix">
+        <layer src_x="874" src_y="1152" width="63" height="69"/>
+    </image>
+    <image id="Village" width="40" height="40">
+        <layer src_x="821" src_y="1142" width="40" height="40"/>
+    </image>
+    <image id="Housing Advisor Button" width="40" height="40">
+        <layer group="128" image="9"/>
+        <layer src_x="821" src_y="1182" width="31" height="36"/>
+        <layer src_x="821" src_y="1142" width="40" height="40"/>
+    </image>
+    <image id="Housing Advisor Button Selected" width="40" height="40">
+        <layer group="128" image="22"/>
+        <layer src_x="1163" src_y="1054" width="31" height="36"/>
+        <layer src_x="1123" src_y="1054" width="40" height="40"/>
+    </image>
+    <image id="Mothball_1">
+        <layer src_x="1179" src_y="1188" width="24" height="24"/>
+    </image>
+    <image id="Mothball_2">
+        <layer src_x="1179" src_y="1164" width="24" height="24"/>
+    </image>
+    <image id="Mothball_3">
+        <layer src_x="1155" src_y="1188" width="24" height="24"/>
+    </image>
+    <image id="Mothball_4">
+        <layer src_x="1155" src_y="1164" width="24" height="24"/>
+    </image>
+    <image id="Unmothball_1">
+        <layer src_x="1179" src_y="1140" width="24" height="24"/>
+    </image>
+    <image id="Unmothball_2">
+        <layer src_x="1155" src_y="1140" width="24" height="24"/>
+    </image>
+    <image id="Unmothball_3">
+        <layer src_x="1123" src_y="1176" width="24" height="24"/>
+    </image>
+    <image id="Unmothball_4">
+        <layer src_x="1194" src_y="1054" width="24" height="24"/>
+    </image>
+    <image id="Allowed_Walker_Check">
+        <layer src_x="856" src_y="1128" width="12" height="12"/>
+    </image>
+    <image id="Warehousing">
+        <layer src_x="46" src_y="1208" width="12" height="12"/>
+    </image>
+    <image id="Maintain_1">
+        <layer src_x="1183" src_y="742" width="31" height="20"/>
+    </image>
+    <image id="Maintain_2">
+        <layer src_x="1183" src_y="662" width="31" height="20"/>
+    </image>
+    <image id="Maintain_3">
+        <layer src_x="1123" src_y="1120" width="31" height="20"/>
+    </image>
+    <image id="Maintain_4">
+        <layer src_x="842" src_y="1108" width="31" height="20"/>
+    </image>
+    <image id="Stop_Maintain_1">
+        <layer src_x="1183" src_y="762" width="31" height="20"/>
+    </image>
+    <image id="Stop_Maintain_2">
+        <layer src_x="1183" src_y="682" width="31" height="20"/>
+    </image>
+    <image id="Stop_Maintain_3">
+        <layer src_x="1183" src_y="702" width="31" height="20"/>
+    </image>
+    <image id="Stop_Maintain_4">
+        <layer src_x="1183" src_y="722" width="31" height="20"/>
+    </image>
+    <image id="Victory_Banner">
+        <layer src_x="724" src_y="1142" width="39" height="50"/>
+    </image>
+    <image id="Grid_Full">
+        <layer src_x="763" src_y="1142" width="58" height="30"/>
+    </image>
+    <image id="Play Button">
+        <layer src_x="1162" src_y="1094" width="39" height="26"/>
+    </image>
+    <image>
+        <layer src_x="1162" src_y="1094" width="39" height="26"/>
+    </image>
+    <image>
+        <layer src_x="1123" src_y="1094" width="39" height="26"/>
+    </image>
+    <image id="Pause Button">
+        <layer src_x="724" src_y="1192" width="39" height="26"/>
+    </image>
+    <image>
+        <layer src_x="724" src_y="1192" width="39" height="26"/>
+    </image>
+    <image>
+        <layer src_x="684" src_y="1191" width="39" height="26"/>
+    </image>
+    <image id="Toggle Grid Button">
+        <layer src_x="763" src_y="1199" width="33" height="22"/>
+    </image>
+    <image>
+        <layer src_x="485" src_y="1196" width="33" height="22"/>
+    </image>
+    <image>
+        <layer src_x="518" src_y="1196" width="33" height="22"/>
+    </image>
+    <image id="Grand Festival Wine Disabled">
+        <layer group="129" image="7" mask="grayscale"/>
+    </image>
+    <image id="Top_UI_Panel" width="20" height="24">
+        <layer group="11" image="14"/>
+    </image>
+    <image width="20" height="24">
+        <layer group="11" image="14" x="-20"/>
+    </image>
+    <image width="20" height="24">
+        <layer group="11" image="14" x="-40"/>
+    </image>
+    <image width="20" height="24">
+        <layer group="11" image="14" x="-60"/>
+    </image>
+    <image width="20" height="24">
+        <layer group="11" image="14" x="-80"/>
+    </image>
+    <image width="20" height="24">
+        <layer group="11" image="14" x="-100"/>
+    </image>
+    <image id="Large_Banner_Border">
+        <layer src_x="413" src_y="596" width="400" height="5"/>
+    </image>
+    <image>
+        <layer src_x="563" src_y="802" width="5" height="191"/>
+    </image>
+    <image>
+        <layer src_x="813" src_y="596" width="400" height="4"/>
+    </image>
+    <image>
+        <layer src_x="568" src_y="802" width="4" height="191"/>
+    </image>
+    <image id="Panelling_Bricks_01">
+        <layer src_x="796" src_y="1199" width="22" height="22"/>
+    </image>
+    <image id="Panelling_Bricks_02">
+        <layer src_x="1189" src_y="792" width="24" height="24"/>
+    </image>
+    <image id="Panelling_Gold_01">
+        <layer src_x="46" src_y="1193" width="23" height="15"/>
+    </image>
+    <image id="Panelling_Gold_02">
+        <layer src_x="1189" src_y="840" width="24" height="24"/>
+    </image>
+    <image id="Panelling_Sand_01">
+        <layer src_x="852" src_y="1201" width="19" height="17"/>
+    </image>
+    <image id="Panelling_Sand_02">
+        <layer src_x="1189" src_y="888" width="24" height="24"/>
+    </image>
+    <image id="Panelling_Silver_01">
+        <layer src_x="1123" src_y="1200" width="23" height="15"/>
+    </image>
+    <image id="Panelling_Silver_02">
+        <layer src_x="1189" src_y="936" width="24" height="24"/>
+    </image>
+    <image id="Panelling_Stone_01">
+        <layer src_x="1201" src_y="1094" width="20" height="22"/>
+    </image>
+    <image id="Panelling_Stone_02">
+        <layer src_x="22" src_y="1193" width="24" height="24"/>
+    </image>
+    <image id="Panelling_Concrete_01">
+        <layer src_x="551" src_y="1196" width="19" height="22"/>
+    </image>
+    <image id="Panelling_Concrete_02">
+        <layer src_x="46" src_y="1169" width="24" height="24"/>
+    </image>
+    <image id="11Legion_Elephants">
+        <layer src_x="1186" src_y="1120" width="32" height="18"/>
+    </image>
+    <image id="12Legion_Thunder_Bolts">
+        <layer src_x="1123" src_y="1158" width="32" height="18"/>
+    </image>
+    <image id="13Legion_Bulls">
+        <layer src_x="1154" src_y="1120" width="32" height="18"/>
+    </image>
+    <image id="14Legion_Centaurs">
+        <layer src_x="655" src_y="1201" width="24" height="18"/>
+    </image>
+    <image id="15Legion_Octopi">
+        <layer src_x="1123" src_y="1140" width="32" height="18"/>
+    </image>
+    <image id="LandRouteDot" width="5" height="5">
+        <layer group="181" image="7"/>
+    </image>
+    <image id="SeaRouteDot" width="5" height="5">
+        <layer group="182" image="7"/>
+    </image>
+    <image id="GoldShield">
+        <layer src_x="646" src_y="1206" width="7" height="7"/>
+    </image>
+    <image id="First Ornament">
+        <layer src_x="413" src_y="662" width="161" height="140"/>
+    </image>
+    <image>
+        <layer src_x="763" src_y="1172" width="55" height="27"/>
+    </image>
+    <image>
+        <layer src_x="937" src_y="1152" width="42" height="65"/>
+    </image>
+    <image id="Center Camera Button">
+        <layer src_x="1194" src_y="1078" width="26" height="16"/>
+    </image>
+    <image id="Risk_Widget_Collapse">
+        <layer src_x="22" src_y="1169" width="24" height="24"/>
+    </image>
+    <image id="Risk_Widget_Fire">
+        <layer src_x="1189" src_y="864" width="24" height="24"/>
+    </image>
+    <image id="Risk_Widget_Health">
+        <layer src_x="1189" src_y="912" width="24" height="24"/>
+    </image>
+    <image id="Risk_Widget_Cross">
+        <layer src_x="1189" src_y="816" width="24" height="24"/>
+    </image>
+</assetlist>
