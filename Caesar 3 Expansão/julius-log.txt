@@ -1,0 +1,39 @@
+INFO: Julius version 1.8.0
+INFO: Initializing SDL
+INFO: SDL initialized
+INFO: Loading game from working directory
+INFO: Config key  gameplay_fix_immigration
+INFO: Config key  gameplay_fix_100y_ghosts
+INFO: Config key  screen_display_scale  100
+INFO: Config key  screen_cursor_scale  100
+INFO: Config key  ui_sidebar_info
+INFO: Config key  ui_show_intro_video
+INFO: Config key  ui_smooth_scrolling
+INFO: Config key  ui_disable_mouse_edge_scrolling
+INFO: Config key  ui_disable_map_drag
+INFO: Config key  ui_inverse_map_drag
+INFO: Config key  ui_visual_feedback_on_delete
+INFO: Config key  ui_allow_cycling_temples
+INFO: Config key  ui_show_water_structure_range
+INFO: Config key  ui_show_construction_size
+INFO: Config key  ui_highlight_legions
+INFO: Config key  ui_show_military_sidebar
+INFO: Config key  ui_show_speedrun_info
+INFO: Config key  ui_language_dir
+INFO: Config value  
+INFO: Detected language:  Portuguese
+INFO: Detected encoding:  1252
+INFO: Creating screen 1920 x 1080 on display 0, fullscreen, driver: windows
+INFO: Creating renderer
+INFO: Texture created: 1920 x 1080
+INFO: Model loaded
+INFO: Loading audio files
+INFO: Window resized to 1920 x 1080
+INFO: Window 1 shown
+INFO: Detected language:  English
+INFO: Detected encoding:  1252
+INFO: Detected language:  Portuguese
+INFO: Detected encoding:  1252
+INFO: Loading saved game  Delean Caesar.sav
+INFO: Loading saved game  Caesar.sav
+INFO: Exiting game
