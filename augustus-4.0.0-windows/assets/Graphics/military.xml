@@ -1,0 +1,772 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Military">
+    <image id="Mess OFF Central" isometric="true">
+        <layer width="178" height="121"/>
+    </image>
+    <image id="Mess OFF North" isometric="true">
+        <layer group="this" image="Mess OFF Central"/>
+        <layer src_y="175" y="70" width="178" height="51"/>
+    </image>
+    <image id="Mess OFF South" isometric="true">
+        <layer group="this" image="Mess OFF Central"/>
+        <layer src_y="226" y="70" width="178" height="51"/>
+    </image>
+    <image id="Mess_Hall_Anim_01" width="178" height="121">
+        <layer src_x="178" src_y="77" x="12" y="62" width="126" height="41"/>
+        <layer src_x="489" src_y="308" x="70" y="48" width="25" height="65"/>
+        <layer src_x="151" src_y="510" x="129" y="67" width="8" height="13"/>
+        <layer src_x="151" src_y="510" x="169" y="48" width="8" height="13"/>
+    </image>
+    <image id="Mess_Hall_Anim_02" width="178" height="121">
+        <layer src_x="178" src_y="77" x="12" y="62" width="126" height="41"/>
+        <layer src_x="439" src_y="308" x="70" y="48" width="25" height="65"/>
+        <layer src_x="513" src_y="414" x="129" y="67" width="8" height="13"/>
+        <layer src_x="513" src_y="414" x="169" y="48" width="8" height="13"/>
+    </image>
+    <image id="Mess_Hall_Anim_03" width="178" height="121">
+        <layer src_x="178" src_y="77" x="12" y="62" width="126" height="41"/>
+        <layer src_x="414" src_y="308" x="70" y="48" width="25" height="65"/>
+        <layer src_x="505" src_y="414" x="129" y="67" width="8" height="13"/>
+        <layer src_x="505" src_y="414" x="169" y="48" width="8" height="13"/>
+    </image>
+    <image id="Mess_Hall_Anim_04" width="178" height="121">
+        <layer src_x="178" src_y="77" x="12" y="62" width="126" height="41"/>
+        <layer src_x="153" src_y="277" x="70" y="48" width="25" height="65"/>
+        <layer src_x="159" src_y="510" x="129" y="67" width="8" height="13"/>
+        <layer src_x="159" src_y="510" x="169" y="48" width="8" height="13"/>
+    </image>
+    <image id="Mess_Hall_Anim_05" width="178" height="121">
+        <layer src_x="178" src_y="77" x="12" y="62" width="126" height="41"/>
+        <layer src_x="464" src_y="308" x="70" y="48" width="25" height="65"/>
+        <layer src_x="167" src_y="510" x="129" y="67" width="8" height="13"/>
+        <layer src_x="167" src_y="510" x="169" y="48" width="8" height="13"/>
+    </image>
+    <image id="Mess ON Central" isometric="true">
+        <layer group="this" image="Mess OFF Central"/>
+        <animation speed="6">
+            <frame group="this" image="Mess_Hall_Anim_01"/>
+            <frame group="this" image="Mess_Hall_Anim_02"/>
+            <frame group="this" image="Mess_Hall_Anim_03"/>
+            <frame group="this" image="Mess_Hall_Anim_04"/>
+            <frame group="this" image="Mess_Hall_Anim_05"/>
+        </animation>
+    </image>
+    <image id="Mess ON North" isometric="true">
+        <layer group="this" image="Mess OFF North"/>
+        <animation speed="6">
+            <frame group="this" image="Mess_Hall_Anim_01"/>
+            <frame group="this" image="Mess_Hall_Anim_02"/>
+            <frame group="this" image="Mess_Hall_Anim_03"/>
+            <frame group="this" image="Mess_Hall_Anim_04"/>
+            <frame group="this" image="Mess_Hall_Anim_05"/>
+        </animation>
+    </image>
+    <image id="Mess ON South" isometric="true">
+        <layer group="this" image="Mess OFF South"/>
+        <animation speed="6">
+            <frame group="this" image="Mess_Hall_Anim_01"/>
+            <frame group="this" image="Mess_Hall_Anim_02"/>
+            <frame group="this" image="Mess_Hall_Anim_03"/>
+            <frame group="this" image="Mess_Hall_Anim_04"/>
+            <frame group="this" image="Mess_Hall_Anim_05"/>
+        </animation>
+    </image>
+    <image id="Watchtower_ON_01" width="118" height="106">
+        <layer src_x="450" src_y="473" x="82" y="49" width="31" height="33"/>
+        <layer src_x="151" src_y="510" x="56" y="66" width="8" height="13"/>
+    </image>
+    <image id="Watchtower_ON_02" width="118" height="106">
+        <layer src_x="450" src_y="473" x="82" y="49" width="31" height="33"/>
+        <layer src_x="513" src_y="414" x="56" y="66" width="8" height="13"/>
+    </image>
+    <image id="Watchtower_ON_03" width="118" height="106">
+        <layer src_x="450" src_y="473" x="82" y="49" width="31" height="33"/>
+        <layer src_x="505" src_y="414" x="56" y="66" width="8" height="13"/>
+    </image>
+    <image id="Watchtower_ON_04" width="118" height="106">
+        <layer src_x="450" src_y="473" x="82" y="49" width="31" height="33"/>
+        <layer src_x="159" src_y="510" x="56" y="66" width="8" height="13"/>
+    </image>
+    <image id="Watchtower_ON_05" width="118" height="106">
+        <layer src_x="450" src_y="473" x="82" y="49" width="31" height="33"/>
+        <layer src_x="167" src_y="510" x="56" y="66" width="8" height="13"/>
+    </image>
+    <image id="Watchtower_ON_01_r" width="118" height="106">
+        <layer src_x="450" src_y="473" x="7" y="49" width="31" height="33"/>
+        <layer src_x="151" src_y="510" x="54" y="66" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="Watchtower_ON_02_r" width="118" height="106">
+        <layer src_x="450" src_y="473" x="7" y="49" width="31" height="33"/>
+        <layer src_x="513" src_y="414" x="54" y="66" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="Watchtower_ON_03_r" width="118" height="106">
+        <layer src_x="450" src_y="473" x="7" y="49" width="31" height="33"/>
+        <layer src_x="505" src_y="414" x="54" y="66" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="Watchtower_ON_04_r" width="118" height="106">
+        <layer src_x="450" src_y="473" x="7" y="49" width="31" height="33"/>
+        <layer src_x="159" src_y="510" x="54" y="66" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="Watchtower_ON_05_r" width="118" height="106">
+        <layer src_x="450" src_y="473" x="7" y="49" width="31" height="33"/>
+        <layer src_x="167" src_y="510" x="54" y="66" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="Watchtower C OFF" isometric="true">
+        <layer src_x="178" src_y="281" width="118" height="106"/>
+    </image>
+    <image id="Watchtower C ON" isometric="true">
+        <layer group="this" image="Watchtower C OFF"/>
+        <animation speed="8">
+            <frame group="this" image="Watchtower_ON_01"/>
+            <frame group="this" image="Watchtower_ON_02"/>
+            <frame group="this" image="Watchtower_ON_03"/>
+            <frame group="this" image="Watchtower_ON_04"/>
+            <frame group="this" image="Watchtower_ON_05"/>
+        </animation>
+    </image>
+    <image id="Watchtower N OFF" isometric="true">
+        <layer src_x="296" src_y="175" width="118" height="106"/>
+    </image>
+    <image id="Watchtower N ON" isometric="true">
+        <layer group="this" image="Watchtower N OFF"/>
+        <animation speed="8">
+            <frame group="this" image="Watchtower_ON_01"/>
+            <frame group="this" image="Watchtower_ON_02"/>
+            <frame group="this" image="Watchtower_ON_03"/>
+            <frame group="this" image="Watchtower_ON_04"/>
+            <frame group="this" image="Watchtower_ON_05"/>
+        </animation>
+    </image>
+    <image id="Watchtower S OFF" isometric="true">
+        <layer src_x="178" src_y="175" width="118" height="106"/>
+    </image>
+    <image id="Watchtower S ON" isometric="true">
+        <layer group="this" image="Watchtower S OFF"/>
+        <animation speed="8">
+            <frame group="this" image="Watchtower_ON_01"/>
+            <frame group="this" image="Watchtower_ON_02"/>
+            <frame group="this" image="Watchtower_ON_03"/>
+            <frame group="this" image="Watchtower_ON_04"/>
+            <frame group="this" image="Watchtower_ON_05"/>
+        </animation>
+    </image>
+    <image id="Watchtower C OFF R" isometric="true">
+        <layer src_y="383" width="118" height="106"/>
+    </image>
+    <image id="Watchtower C ON R" isometric="true">
+        <layer group="this" image="Watchtower C OFF R"/>
+        <animation speed="8">
+            <frame group="this" image="Watchtower_ON_01_r"/>
+            <frame group="this" image="Watchtower_ON_02_r"/>
+            <frame group="this" image="Watchtower_ON_03_r"/>
+            <frame group="this" image="Watchtower_ON_04_r"/>
+            <frame group="this" image="Watchtower_ON_05_r"/>
+        </animation>
+    </image>
+    <image id="Watchtower N OFF R" isometric="true">
+        <layer src_y="277" width="118" height="106"/>
+    </image>
+    <image id="Watchtower N ON R" isometric="true">
+        <layer group="this" image="Watchtower N OFF R"/>
+        <animation speed="8">
+            <frame group="this" image="Watchtower_ON_01_r"/>
+            <frame group="this" image="Watchtower_ON_02_r"/>
+            <frame group="this" image="Watchtower_ON_03_r"/>
+            <frame group="this" image="Watchtower_ON_04_r"/>
+            <frame group="this" image="Watchtower_ON_05_r"/>
+        </animation>
+    </image>
+    <image id="Watchtower S OFF R" isometric="true">
+        <layer src_x="356" width="118" height="106"/>
+    </image>
+    <image id="Watchtower S ON R" isometric="true">
+        <layer group="this" image="Watchtower S OFF R"/>
+        <animation speed="8">
+            <frame group="this" image="Watchtower_ON_01_r"/>
+            <frame group="this" image="Watchtower_ON_02_r"/>
+            <frame group="this" image="Watchtower_ON_03_r"/>
+            <frame group="this" image="Watchtower_ON_04_r"/>
+            <frame group="this" image="Watchtower_ON_05_r"/>
+        </animation>
+    </image>
+    <image id="WT_W_ON_01" width="118" height="97">
+        <layer src_x="450" src_y="473" x="39" y="57" width="31" height="33"/>
+        <layer src_x="151" src_y="510" x="96" y="37" width="8" height="13"/>
+    </image>
+    <image id="WT_W_ON_02" width="118" height="97">
+        <layer src_x="450" src_y="473" x="39" y="57" width="31" height="33"/>
+        <layer src_x="513" src_y="414" x="96" y="37" width="8" height="13"/>
+    </image>
+    <image id="WT_W_ON_03" width="118" height="97">
+        <layer src_x="450" src_y="473" x="39" y="57" width="31" height="33"/>
+        <layer src_x="505" src_y="414" x="96" y="37" width="8" height="13"/>
+    </image>
+    <image id="WT_W_ON_04" width="118" height="97">
+        <layer src_x="450" src_y="473" x="39" y="57" width="31" height="33"/>
+        <layer src_x="159" src_y="510" x="96" y="37" width="8" height="13"/>
+    </image>
+    <image id="WT_W_ON_05" width="118" height="97">
+        <layer src_x="450" src_y="473" x="39" y="57" width="31" height="33"/>
+        <layer src_x="167" src_y="510" x="96" y="37" width="8" height="13"/>
+    </image>
+    <image id="WT_W_ON_01_r" width="118" height="97">
+        <layer src_x="450" src_y="473" x="50" y="57" width="31" height="33"/>
+        <layer src_x="151" src_y="510" x="14" y="37" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="WT_W_ON_02_r" width="118" height="97">
+        <layer src_x="450" src_y="473" x="50" y="57" width="31" height="33"/>
+        <layer src_x="513" src_y="414" x="14" y="37" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="WT_W_ON_03_r" width="118" height="97">
+        <layer src_x="450" src_y="473" x="50" y="57" width="31" height="33"/>
+        <layer src_x="505" src_y="414" x="14" y="37" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="WT_W_ON_04_r" width="118" height="97">
+        <layer src_x="450" src_y="473" x="50" y="57" width="31" height="33"/>
+        <layer src_x="159" src_y="510" x="14" y="37" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="WT_W_ON_05_r" width="118" height="97">
+        <layer src_x="450" src_y="473" x="50" y="57" width="31" height="33"/>
+        <layer src_x="167" src_y="510" x="14" y="37" width="8" height="13" invert="horizontal"/>
+    </image>
+    <image id="Watchtower_W_C_OFF" width="118" height="97" isometric="true">
+        <layer src_x="454" src_y="250" y="52" width="58" height="30"/>
+        <layer src_x="454" src_y="250" x="30" y="67" width="58" height="30"/>
+        <layer src_x="454" src_y="250" x="60" y="52" width="58" height="30"/>
+        <layer src_x="178" src_y="387" width="118" height="97"/>
+    </image>
+    <image id="Watchtower_W_C_ON" width="118" height="97" isometric="true">
+        <layer group="this" image="Watchtower_W_C_OFF"/>
+        <animation speed="8">
+            <frame group="this" image="WT_W_ON_01"/>
+            <frame group="this" image="WT_W_ON_02"/>
+            <frame group="this" image="WT_W_ON_03"/>
+            <frame group="this" image="WT_W_ON_04"/>
+            <frame group="this" image="WT_W_ON_05"/>
+        </animation>
+    </image>
+    <image id="Watchtower_W_N_OFF" width="118" height="97" isometric="true">
+        <layer src_x="414" src_y="403" y="52" width="58" height="30"/>
+        <layer src_x="414" src_y="403" x="30" y="67" width="58" height="30"/>
+        <layer src_x="414" src_y="403" x="60" y="52" width="58" height="30"/>
+        <layer src_x="178" src_y="387" width="118" height="97"/>
+    </image>
+    <image id="Watchtower_W_N_ON" width="118" height="97" isometric="true">
+        <layer group="this" image="Watchtower_W_N_OFF"/>
+        <animation speed="8">
+            <frame group="this" image="WT_W_ON_01"/>
+            <frame group="this" image="WT_W_ON_02"/>
+            <frame group="this" image="WT_W_ON_03"/>
+            <frame group="this" image="WT_W_ON_04"/>
+            <frame group="this" image="WT_W_ON_05"/>
+        </animation>
+    </image>
+    <image id="Watchtower_W_S_OFF" width="118" height="97" isometric="true">
+        <layer src_x="414" src_y="373" y="52" width="58" height="30"/>
+        <layer src_x="414" src_y="373" x="30" y="67" width="58" height="30"/>
+        <layer src_x="414" src_y="373" x="60" y="52" width="58" height="30"/>
+        <layer src_x="178" src_y="387" width="118" height="97"/>
+    </image>
+    <image id="Watchtower_W_S_ON" width="118" height="97" isometric="true">
+        <layer group="this" image="Watchtower_W_S_OFF"/>
+        <animation speed="8">
+            <frame group="this" image="WT_W_ON_01"/>
+            <frame group="this" image="WT_W_ON_02"/>
+            <frame group="this" image="WT_W_ON_03"/>
+            <frame group="this" image="WT_W_ON_04"/>
+            <frame group="this" image="WT_W_ON_05"/>
+        </animation>
+    </image>
+    <image id="Watchtower_W_C_OFF_R" width="118" height="97" isometric="true">
+        <layer src_x="454" src_y="250" y="52" width="58" height="30"/>
+        <layer src_x="454" src_y="250" x="30" y="67" width="58" height="30"/>
+        <layer src_x="454" src_y="250" x="60" y="52" width="58" height="30"/>
+        <layer src_x="296" src_y="281" width="118" height="97"/>
+    </image>
+    <image id="Watchtower_W_C_ON_R" width="118" height="97" isometric="true">
+        <layer group="this" image="Watchtower_W_C_OFF_R"/>
+        <animation speed="8">
+            <frame group="this" image="WT_W_ON_01_r"/>
+            <frame group="this" image="WT_W_ON_02_r"/>
+            <frame group="this" image="WT_W_ON_03_r"/>
+            <frame group="this" image="WT_W_ON_04_r"/>
+            <frame group="this" image="WT_W_ON_05_r"/>
+        </animation>
+    </image>
+    <image id="Watchtower_W_N_OFF_R" width="118" height="97" isometric="true">
+        <layer src_x="414" src_y="403" y="52" width="58" height="30"/>
+        <layer src_x="414" src_y="403" x="30" y="67" width="58" height="30"/>
+        <layer src_x="414" src_y="403" x="60" y="52" width="58" height="30"/>
+        <layer src_x="296" src_y="281" width="118" height="97"/>
+    </image>
+    <image id="Watchtower_W_N_ON_R" width="118" height="97" isometric="true">
+        <layer group="this" image="Watchtower_W_N_OFF_R"/>
+        <animation speed="8">
+            <frame group="this" image="WT_W_ON_01_r"/>
+            <frame group="this" image="WT_W_ON_02_r"/>
+            <frame group="this" image="WT_W_ON_03_r"/>
+            <frame group="this" image="WT_W_ON_04_r"/>
+            <frame group="this" image="WT_W_ON_05_r"/>
+        </animation>
+    </image>
+    <image id="Watchtower_W_S_OFF_R" width="118" height="97" isometric="true">
+        <layer src_x="414" src_y="373" y="52" width="58" height="30"/>
+        <layer src_x="414" src_y="373" x="30" y="67" width="58" height="30"/>
+        <layer src_x="414" src_y="373" x="60" y="52" width="58" height="30"/>
+        <layer src_x="296" src_y="281" width="118" height="97"/>
+    </image>
+    <image id="Watchtower_W_S_ON_R" width="118" height="97" isometric="true">
+        <layer group="this" image="Watchtower_W_S_OFF_R"/>
+        <animation speed="8">
+            <frame group="this" image="WT_W_ON_01_r"/>
+            <frame group="this" image="WT_W_ON_02_r"/>
+            <frame group="this" image="WT_W_ON_03_r"/>
+            <frame group="this" image="WT_W_ON_04_r"/>
+            <frame group="this" image="WT_W_ON_05_r"/>
+        </animation>
+    </image>
+    <image id="Pal Wall C 01" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall C 02" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="5" y="16" width="14" height="11"/>
+    </image>
+    <image id="Pal Wall C 03" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="21" y="21" width="14" height="11"/>
+    </image>
+    <image id="Pal Wall C 04" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="5" y="16" width="14" height="11"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall C 05" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall C 06" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="454" src_y="280" x="12" y="18" width="28" height="20"/>
+    </image>
+    <image id="Pal Wall C 07" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall C 08" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="39" y="16" width="14" height="11" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall C 09" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="23" y="21" width="14" height="11" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall C 10" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="39" y="16" width="14" height="11" invert="horizontal"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall C 11" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall C 12" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="454" src_y="280" x="18" y="18" width="28" height="20" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall C 13" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="118" src_y="470" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall C 14" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="474" src_y="58" width="42" height="37"/>
+    </image>
+    <image id="Pal Wall C 15" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="373" width="33" height="51" rotate="90"/>
+    </image>
+    <image id="Pal Wall C 16" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="414" src_y="250" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall C 17" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="304" src_y="77" width="51" height="37"/>
+    </image>
+    <image id="Pal Wall C 18" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="178" src_y="484" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall C 19" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="236" src_y="484" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall C 20" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="414" src_y="106" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall C 21" width="58" height="40" isometric="true">
+        <layer src_x="454" src_y="250" y="10" width="58" height="30"/>
+        <layer src_x="474" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall N 01" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall N 02" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="5" y="16" width="14" height="11"/>
+    </image>
+    <image id="Pal Wall N 03" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="21" y="21" width="14" height="11"/>
+    </image>
+    <image id="Pal Wall N 04" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="5" y="16" width="14" height="11"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall N 05" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall N 06" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="454" src_y="280" x="12" y="18" width="28" height="20"/>
+    </image>
+    <image id="Pal Wall N 07" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall N 08" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="39" y="16" width="14" height="11" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall N 09" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="23" y="21" width="14" height="11" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall N 10" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="39" y="16" width="14" height="11" invert="horizontal"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall N 11" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall N 12" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="454" src_y="280" x="18" y="18" width="28" height="20" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall N 13" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="118" src_y="470" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall N 14" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="474" src_y="58" width="42" height="37"/>
+    </image>
+    <image id="Pal Wall N 15" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="373" width="33" height="51" rotate="90"/>
+    </image>
+    <image id="Pal Wall N 16" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="414" src_y="250" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall N 17" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="304" src_y="77" width="51" height="37"/>
+    </image>
+    <image id="Pal Wall N 18" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="178" src_y="484" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall N 19" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="236" src_y="484" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall N 20" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="414" src_y="106" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall N 21" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="403" y="10" width="58" height="30"/>
+        <layer src_x="474" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall S 01" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall S 02" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="5" y="16" width="14" height="11"/>
+    </image>
+    <image id="Pal Wall S 03" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="21" y="21" width="14" height="11"/>
+    </image>
+    <image id="Pal Wall S 04" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="481" src_y="514" x="5" y="16" width="14" height="11"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall S 05" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall S 06" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="356" src_y="106" width="58" height="40"/>
+        <layer src_x="454" src_y="280" x="12" y="18" width="28" height="20"/>
+    </image>
+    <image id="Pal Wall S 07" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall S 08" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="39" y="16" width="14" height="11" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall S 09" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="23" y="21" width="14" height="11" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall S 10" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="481" src_y="514" x="39" y="16" width="14" height="11" invert="horizontal"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall S 11" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="153" src_y="383" x="23" y="21" width="13" height="11"/>
+    </image>
+    <image id="Pal Wall S 12" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="106" width="40" height="58" rotate="90"/>
+        <layer src_x="454" src_y="280" x="18" y="18" width="28" height="20" invert="horizontal"/>
+    </image>
+    <image id="Pal Wall S 13" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="118" src_y="470" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall S 14" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="474" src_y="58" width="42" height="37"/>
+    </image>
+    <image id="Pal Wall S 15" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="472" src_y="373" width="33" height="51" rotate="90"/>
+    </image>
+    <image id="Pal Wall S 16" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="414" src_y="250" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Pal Wall S 17" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="304" src_y="77" width="51" height="37"/>
+    </image>
+    <image id="Pal Wall S 18" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="178" src_y="484" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall S 19" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="236" src_y="484" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall S 20" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="414" src_y="106" width="58" height="40"/>
+    </image>
+    <image id="Pal Wall S 21" width="58" height="40" isometric="true">
+        <layer src_x="414" src_y="373" y="10" width="58" height="30"/>
+        <layer src_x="474" width="40" height="58" rotate="90"/>
+    </image>
+    <image id="Palisade_Gate" width="58" height="75" isometric="true">
+        <layer src_x="414" src_y="433" y="32" width="36" height="40"/>
+        <layer src_x="466" src_y="175" x="6" width="52" height="75"/>
+        <animation speed="1" x="6">
+            <frame src_x="466" src_y="175" width="52" height="75"/>
+        </animation>
+    </image>
+    <image id="Palisade_Gate_R" width="58" height="75" isometric="true">
+        <layer src_x="414" src_y="473" x="22" y="32" width="36" height="40"/>
+        <layer src_x="414" src_y="175" width="52" height="75"/>
+        <animation speed="1">
+            <frame src_x="414" src_y="175" width="52" height="75"/>
+        </animation>
+    </image>
+    <image id="Palisade_Tower_C" width="58" height="75" isometric="true">
+        <layer src_x="454" src_y="250" y="45" width="58" height="30"/>
+        <layer src_x="118" src_y="395" width="58" height="75"/>
+    </image>
+    <image id="Palisade_Tower_C_R" width="58" height="75" isometric="true">
+        <layer src_x="454" src_y="250" y="45" width="58" height="30"/>
+        <layer src_x="118" src_y="395" width="58" height="75"/>
+        <layer src_x="118" src_y="510" x="12" y="41" width="33" height="15"/>
+    </image>
+    <image id="Palisade_Tower_N" width="58" height="75" isometric="true">
+        <layer src_x="414" src_y="403" y="45" width="58" height="30"/>
+        <layer src_x="118" src_y="395" width="58" height="75"/>
+    </image>
+    <image id="Palisade_Tower_N_R" width="58" height="75" isometric="true">
+        <layer src_x="414" src_y="403" y="45" width="58" height="30"/>
+        <layer src_x="118" src_y="395" width="58" height="75"/>
+        <layer src_x="118" src_y="510" x="12" y="41" width="33" height="15"/>
+    </image>
+    <image id="Palisade_Tower_S" width="58" height="75" isometric="true">
+        <layer src_x="414" src_y="373" y="45" width="58" height="30"/>
+        <layer src_x="118" src_y="395" width="58" height="75"/>
+    </image>
+    <image id="Palisade_Tower_S_R" width="58" height="75" isometric="true">
+        <layer src_x="414" src_y="373" y="45" width="58" height="30"/>
+        <layer src_x="118" src_y="395" width="58" height="75"/>
+        <layer src_x="118" src_y="510" x="12" y="41" width="33" height="15"/>
+    </image>
+    <image id="Fort_Main_Central" isometric="true">
+        <layer group="66" image="0"/>
+        <layer src_x="178" width="178" height="77"/>
+    </image>
+    <image id="Fort_Main_South" isometric="true">
+        <layer group="this" image="Fort_Main_Central"/>
+        <layer src_y="121" y="72" width="178" height="54"/>
+    </image>
+    <image id="Fort_Main_North" isometric="true">
+        <layer group="this" image="Fort_Main_Central"/>
+        <layer src_x="178" src_y="121" y="72" width="178" height="54"/>
+    </image>
+    <image id="Fort_Jav_Flag_Central">
+        <layer group="66" image="2"/>
+    </image>
+    <image id="Fort_Cav_Flag_Central">
+        <layer group="66" image="3"/>
+    </image>
+    <image id="Fort_Leg_Flag_Central">
+        <layer group="66" image="4"/>
+    </image>
+    <image id="Fort_Jav_Flag_South">
+        <layer group="66" image="2"/>
+        <layer src_x="450" src_y="433" width="35" height="40"/>
+    </image>
+    <image id="Fort_Cav_Flag_South">
+        <layer group="66" image="3"/>
+        <layer src_x="450" src_y="433" width="35" height="40"/>
+    </image>
+    <image id="Fort_Leg_Flag_South">
+        <layer group="66" image="4"/>
+        <layer src_x="450" src_y="433" width="35" height="40"/>
+    </image>
+    <image id="Fort_Jav_Flag_North">
+        <layer group="66" image="2"/>
+        <layer src_x="485" src_y="433" width="35" height="40"/>
+    </image>
+    <image id="Fort_Cav_Flag_North">
+        <layer group="66" image="3"/>
+        <layer src_x="485" src_y="433" width="35" height="40"/>
+    </image>
+    <image id="Fort_Leg_Flag_North">
+        <layer group="66" image="4"/>
+        <layer src_x="485" src_y="433" width="35" height="40"/>
+    </image>
+    <image id="Armoury_OFF_C" isometric="true">
+        <layer src_x="296" src_y="378" width="118" height="83"/>
+    </image>
+    <image id="Armoury_OFF_N" isometric="true">
+        <layer group="this" image="Armoury_OFF_C"/>
+        <layer src_y="489" y="48" width="118" height="35"/>
+    </image>
+    <image id="Armoury_OFF_S" isometric="true">
+        <layer group="this" image="Armoury_OFF_C"/>
+        <layer src_x="118" src_y="277" y="48" width="35" height="118" rotate="90"/>
+    </image>
+    <image id="Armoury_Anim_01" width="118" height="83">
+        <layer src_x="296" src_y="461" x="1" y="25" width="109" height="44"/>
+        <layer src_x="505" src_y="373" x="44" y="35" width="18" height="41"/>
+        <layer src_x="151" src_y="510" x="102" y="15" width="8" height="13"/>
+    </image>
+    <image id="Armoury_Anim_02" width="118" height="83">
+        <layer src_x="296" src_y="461" x="1" y="25" width="109" height="44"/>
+        <layer src_x="153" src_y="342" x="44" y="35" width="18" height="41"/>
+        <layer src_x="513" src_y="414" x="102" y="15" width="8" height="13"/>
+    </image>
+    <image id="Armoury_Anim_03" width="118" height="83">
+        <layer src_x="296" src_y="461" x="1" y="25" width="109" height="44"/>
+        <layer src_x="481" src_y="473" x="44" y="35" width="18" height="41"/>
+        <layer src_x="505" src_y="414" x="102" y="15" width="8" height="13"/>
+    </image>
+    <image id="Armoury_Anim_04" width="118" height="83">
+        <layer src_x="296" src_y="461" x="1" y="25" width="109" height="44"/>
+        <layer src_x="153" src_y="342" x="44" y="35" width="18" height="41"/>
+        <layer src_x="159" src_y="510" x="102" y="15" width="8" height="13"/>
+    </image>
+    <image id="Armoury_Anim_05" width="118" height="83">
+        <layer src_x="296" src_y="461" x="1" y="25" width="109" height="44"/>
+        <layer src_x="505" src_y="373" x="44" y="35" width="18" height="41"/>
+        <layer src_x="167" src_y="510" x="102" y="15" width="8" height="13"/>
+    </image>
+    <image id="Armoury_ON_C" isometric="true">
+        <layer group="this" image="Armoury_OFF_C"/>
+        <animation speed="6">
+            <frame group="this" image="Armoury_Anim_01"/>
+            <frame group="this" image="Armoury_Anim_02"/>
+            <frame group="this" image="Armoury_Anim_03"/>
+            <frame group="this" image="Armoury_Anim_04"/>
+            <frame group="this" image="Armoury_Anim_05"/>
+        </animation>
+    </image>
+    <image id="Armoury_ON_N" isometric="true">
+        <layer group="this" image="Armoury_OFF_N"/>
+        <animation speed="6">
+            <frame group="this" image="Armoury_Anim_01"/>
+            <frame group="this" image="Armoury_Anim_02"/>
+            <frame group="this" image="Armoury_Anim_03"/>
+            <frame group="this" image="Armoury_Anim_04"/>
+            <frame group="this" image="Armoury_Anim_05"/>
+        </animation>
+    </image>
+    <image id="Armoury_ON_S" isometric="true">
+        <layer group="this" image="Armoury_OFF_S"/>
+        <animation speed="6">
+            <frame group="this" image="Armoury_Anim_01"/>
+            <frame group="this" image="Armoury_Anim_02"/>
+            <frame group="this" image="Armoury_Anim_03"/>
+            <frame group="this" image="Armoury_Anim_04"/>
+            <frame group="this" image="Armoury_Anim_05"/>
+        </animation>
+    </image>
+</assetlist>
