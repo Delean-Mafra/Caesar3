@@ -1,0 +1,758 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Industry">
+    <image id="Brickworks_On_01" width="86" height="26">
+        <layer src_x="262" src_y="287" width="40" height="26"/>
+        <layer src_x="458" src_y="448" x="69" width="17" height="13"/>
+    </image>
+    <image id="Brickworks_On_02" width="86" height="26">
+        <layer src_x="262" src_y="287" width="40" height="26"/>
+        <layer src_x="475" src_y="448" x="69" width="17" height="13"/>
+    </image>
+    <image id="Brickworks_On_03" width="86" height="26">
+        <layer src_x="262" src_y="287" width="40" height="26"/>
+        <layer src_x="302" src_y="484" x="69" width="17" height="13"/>
+    </image>
+    <image id="Brickworks_On_04" width="86" height="26">
+        <layer src_x="262" src_y="287" width="40" height="26"/>
+        <layer src_x="458" src_y="461" x="69" width="17" height="13"/>
+    </image>
+    <image id="Brickworks_On_05" width="86" height="26">
+        <layer src_x="262" src_y="287" width="40" height="26"/>
+        <layer src_x="387" src_y="484" x="69" width="17" height="13"/>
+    </image>
+    <image id="Brickworks_On_06" width="86" height="26">
+        <layer src_x="262" src_y="287" width="40" height="26"/>
+        <layer src_x="387" src_y="471" x="69" width="17" height="13"/>
+    </image>
+    <image id="Brickworks_C_OFF" width="118" height="80" isometric="true">
+        <layer width="118" height="80"/>
+    </image>
+    <image id="Brickworks_N_OFF" width="118" height="80" isometric="true">
+        <layer group="this" image="Brickworks_C_OFF"/>
+        <layer src_x="236" src_y="80" y="32" width="118" height="48"/>
+    </image>
+    <image id="Brickworks_S_OFF" width="118" height="80" isometric="true">
+        <layer group="this" image="Brickworks_C_OFF"/>
+        <layer src_y="447" y="32" width="118" height="48"/>
+    </image>
+    <image id="Brickworks_C_ON" width="118" height="80" isometric="true">
+        <layer group="this" image="Brickworks_C_OFF"/>
+        <animation speed="6" x="10" y="35">
+            <frame group="this" image="Brickworks_On_01"/>
+            <frame group="this" image="Brickworks_On_02"/>
+            <frame group="this" image="Brickworks_On_03"/>
+            <frame group="this" image="Brickworks_On_04"/>
+            <frame group="this" image="Brickworks_On_05"/>
+            <frame group="this" image="Brickworks_On_06"/>
+        </animation>
+    </image>
+    <image id="Brickworks_N_ON" width="118" height="80" isometric="true">
+        <layer group="this" image="Brickworks_N_OFF"/>
+        <animation speed="6" x="10" y="35">
+            <frame group="this" image="Brickworks_On_01"/>
+            <frame group="this" image="Brickworks_On_02"/>
+            <frame group="this" image="Brickworks_On_03"/>
+            <frame group="this" image="Brickworks_On_04"/>
+            <frame group="this" image="Brickworks_On_05"/>
+            <frame group="this" image="Brickworks_On_06"/>
+        </animation>
+    </image>
+    <image id="Brickworks_S_ON" width="118" height="80" isometric="true">
+        <layer group="this" image="Brickworks_S_OFF"/>
+        <animation speed="6" x="10" y="35">
+            <frame group="this" image="Brickworks_On_01"/>
+            <frame group="this" image="Brickworks_On_02"/>
+            <frame group="this" image="Brickworks_On_03"/>
+            <frame group="this" image="Brickworks_On_04"/>
+            <frame group="this" image="Brickworks_On_05"/>
+            <frame group="this" image="Brickworks_On_06"/>
+        </animation>
+    </image>
+    <image id="Brick_Cart_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="428" src_y="310" width="31" height="21"/>
+    </image>
+    <image id="Brick_Cart_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="397" src_y="310" width="31" height="22"/>
+    </image>
+    <image id="Brick_Cart_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="470" src_y="248" width="31" height="23"/>
+    </image>
+    <image id="Brick_Cart_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="387" src_y="419" width="21" height="26" rotate="90"/>
+    </image>
+    <image id="Brick_Cart_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="302" src_y="461" width="27" height="23"/>
+    </image>
+    <image id="Brick_Cart_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="412" src_y="371" width="25" height="22"/>
+    </image>
+    <image id="Brick_Cart_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="472" src_y="110" width="27" height="22"/>
+    </image>
+    <image id="Brick_Cart_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="408" src_y="393" width="26" height="18"/>
+    </image>
+    <image id="Brick_Cart_Getting_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="363" src_y="332" width="31" height="20"/>
+    </image>
+    <image id="Brick_Cart_Getting_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="302" src_y="310" width="31" height="22"/>
+    </image>
+    <image id="Brick_Cart_Getting_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="366" src_y="287" width="31" height="23"/>
+    </image>
+    <image id="Brick_Cart_Getting_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="332" src_y="396" width="27" height="21"/>
+    </image>
+    <image id="Brick_Cart_Getting_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="302" src_y="439" width="28" height="22"/>
+    </image>
+    <image id="Brick_Cart_Getting_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="359" src_y="477" width="25" height="22"/>
+    </image>
+    <image id="Brick_Cart_Getting_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="472" src_y="88" width="27" height="22"/>
+    </image>
+    <image id="Brick_Cart_Getting_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="408" src_y="467" width="26" height="18"/>
+    </image>
+    <image id="Warehouse_Bricks_01" width="58" height="46" isometric="true">
+        <layer group="83" image="0" y="5"/>
+        <layer src_x="389" src_y="352" x="27" y="12" width="31" height="17"/>
+    </image>
+    <image id="Warehouse_Bricks_02" width="58" height="46" isometric="true">
+        <layer group="83" image="0" y="5"/>
+        <layer src_x="449" src_y="174" x="14" width="44" height="29"/>
+    </image>
+    <image id="Warehouse_Bricks_03" width="58" height="46" isometric="true">
+        <layer group="83" image="0" y="5"/>
+        <layer src_x="394" src_y="174" x="3" width="55" height="29"/>
+    </image>
+    <image id="Warehouse_Bricks_04" width="58" height="46" isometric="true">
+        <layer group="83" image="0" y="5"/>
+        <layer src_x="236" src_y="140" x="3" width="55" height="33"/>
+    </image>
+    <image id="Concrete_Maker_C_OFF" width="118" height="75" isometric="true">
+        <layer src_x="118" width="118" height="75"/>
+    </image>
+    <image id="Concrete_Maker_N_OFF" width="118" height="75" isometric="true">
+        <layer group="this" image="Concrete_Maker_C_OFF"/>
+        <layer src_x="118" src_y="140" y="41" width="118" height="34"/>
+    </image>
+    <image id="Concrete_Maker_S_OFF" width="118" height="75" isometric="true">
+        <layer group="this" image="Concrete_Maker_C_OFF"/>
+        <layer src_x="354" src_y="80" y="41" width="118" height="34"/>
+    </image>
+    <image id="Concrete_Maker_C_ON" width="118" height="75" isometric="true">
+        <layer group="this" image="Concrete_Maker_C_OFF"/>
+        <animation speed="6" x="16" y="16">
+            <frame src_x="118" src_y="250" width="62" height="38"/>
+            <frame src_x="118" src_y="174" width="62" height="38"/>
+            <frame src_x="118" src_y="326" width="62" height="38"/>
+            <frame src_x="118" src_y="288" width="62" height="38"/>
+            <frame src_x="118" src_y="364" width="62" height="38"/>
+            <frame src_x="118" src_y="212" width="62" height="38"/>
+        </animation>
+    </image>
+    <image id="Concrete_Maker_N_ON" width="118" height="75" isometric="true">
+        <layer group="this" image="Concrete_Maker_N_OFF"/>
+        <animation speed="6" x="16" y="16">
+            <frame src_x="118" src_y="250" width="62" height="38"/>
+            <frame src_x="118" src_y="174" width="62" height="38"/>
+            <frame src_x="118" src_y="326" width="62" height="38"/>
+            <frame src_x="118" src_y="288" width="62" height="38"/>
+            <frame src_x="118" src_y="364" width="62" height="38"/>
+            <frame src_x="118" src_y="212" width="62" height="38"/>
+        </animation>
+    </image>
+    <image id="Concrete_Maker_S_ON" width="118" height="75" isometric="true">
+        <layer group="this" image="Concrete_Maker_S_OFF"/>
+        <animation speed="6" x="16" y="16">
+            <frame src_x="118" src_y="250" width="62" height="38"/>
+            <frame src_x="118" src_y="174" width="62" height="38"/>
+            <frame src_x="118" src_y="326" width="62" height="38"/>
+            <frame src_x="118" src_y="288" width="62" height="38"/>
+            <frame src_x="118" src_y="364" width="62" height="38"/>
+            <frame src_x="118" src_y="212" width="62" height="38"/>
+        </animation>
+    </image>
+    <image id="Concrete_Cart_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="223" src_y="209" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="262" src_y="209" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="301" src_y="209" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="340" src_y="209" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="379" src_y="209" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="418" src_y="209" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="457" src_y="209" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="223" src_y="248" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="223" src_y="287" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="223" src_y="326" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="223" src_y="365" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="223" src_y="404" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="223" src_y="443" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="262" src_y="248" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="301" src_y="248" width="39" height="39"/>
+    </image>
+    <image id="Concrete_Cart_Getting_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="180" src_y="455" width="39" height="39"/>
+    </image>
+    <image id="Gold_Mine_C_OFF" width="118" height="67" isometric="true">
+        <layer src_y="80" width="118" height="67"/>
+    </image>
+    <image id="Gold_Mine_N_OFF" width="118" height="67" isometric="true">
+        <layer src_x="354" width="118" height="67"/>
+    </image>
+    <image id="Gold_Mine_S_OFF" width="118" height="67" isometric="true">
+        <layer src_x="236" width="118" height="67"/>
+    </image>
+    <image id="Gold_Mine_C_ON" width="118" height="67" isometric="true">
+        <layer group="this" image="Gold_Mine_C_OFF"/>
+        <animation speed="18" x="19" y="32">
+            <frame src_x="340" src_y="174" width="54" height="31"/>
+            <frame src_x="286" src_y="174" width="54" height="31"/>
+            <frame src_x="345" src_y="140" width="54" height="31"/>
+            <frame src_x="399" src_y="140" width="54" height="31"/>
+            <frame src_x="291" src_y="140" width="54" height="31"/>
+        </animation>
+    </image>
+    <image id="Gold_Mine_N_ON" width="118" height="67" isometric="true">
+        <layer group="this" image="Gold_Mine_N_OFF"/>
+        <animation speed="18" x="19" y="32">
+            <frame src_x="340" src_y="174" width="54" height="31"/>
+            <frame src_x="286" src_y="174" width="54" height="31"/>
+            <frame src_x="345" src_y="140" width="54" height="31"/>
+            <frame src_x="399" src_y="140" width="54" height="31"/>
+            <frame src_x="291" src_y="140" width="54" height="31"/>
+        </animation>
+    </image>
+    <image id="Gold_Mine_S_ON" width="118" height="67" isometric="true">
+        <layer group="this" image="Gold_Mine_S_OFF"/>
+        <animation speed="18" x="19" y="32">
+            <frame src_x="340" src_y="174" width="54" height="31"/>
+            <frame src_x="286" src_y="174" width="54" height="31"/>
+            <frame src_x="345" src_y="140" width="54" height="31"/>
+            <frame src_x="399" src_y="140" width="54" height="31"/>
+            <frame src_x="291" src_y="140" width="54" height="31"/>
+        </animation>
+    </image>
+    <image id="Gold_Cart_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="359" src_y="352" width="30" height="19"/>
+    </image>
+    <image id="Gold_Cart_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="472" src_y="132" x="15" y="10" width="15" height="8"/>
+    </image>
+    <image id="Gold_Cart_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="459" src_y="310" width="30" height="21"/>
+    </image>
+    <image id="Gold_Cart_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="359" src_y="456" width="26" height="21"/>
+    </image>
+    <image id="Gold_Cart_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="359" src_y="392" width="27" height="21"/>
+    </image>
+    <image id="Gold_Cart_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="458" src_y="430" width="24" height="18"/>
+    </image>
+    <image id="Gold_Cart_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="433" src_y="411" width="25" height="19"/>
+    </image>
+    <image id="Gold_Cart_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="472" src_y="352" width="26" height="18"/>
+    </image>
+    <image id="Gold_Cart_Getting_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="486" src_y="393" x="15" y="4" width="15" height="15"/>
+    </image>
+    <image id="Gold_Cart_Getting_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="486" src_y="332" x="15" y="5" width="15" height="13"/>
+    </image>
+    <image id="Gold_Cart_Getting_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="302" src_y="396" width="30" height="21"/>
+    </image>
+    <image id="Gold_Cart_Getting_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="488" src_y="371" x="15" y="7" width="11" height="14"/>
+    </image>
+    <image id="Gold_Cart_Getting_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="332" src_y="417" width="27" height="21"/>
+    </image>
+    <image id="Gold_Cart_Getting_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="434" src_y="466" width="24" height="18"/>
+    </image>
+    <image id="Gold_Cart_Getting_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="483" src_y="411" x="9" y="4" width="16" height="15"/>
+    </image>
+    <image id="Gold_Cart_Getting_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="489" src_y="310" x="15" y="4" width="11" height="14"/>
+    </image>
+    <image id="Warehouse_Gold_01" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="408" src_y="485" x="20" y="14" width="23" height="12"/>
+    </image>
+    <image id="Warehouse_Gold_02" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="262" src_y="364" x="20" y="1" width="35" height="25"/>
+    </image>
+    <image id="Warehouse_Gold_03" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="378" src_y="248" x="9" y="1" width="46" height="25"/>
+    </image>
+    <image id="Warehouse_Gold_04" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="424" src_y="248" x="9" y="1" width="46" height="25"/>
+    </image>
+    <image id="Sand_Pit_C_OFF" width="118" height="60" isometric="true">
+        <layer src_y="327" width="118" height="60"/>
+    </image>
+    <image id="Sand_Pit_N_OFF" width="118" height="60" isometric="true">
+        <layer src_y="267" width="118" height="60"/>
+    </image>
+    <image id="Sand_Pit_S_OFF" width="118" height="60" isometric="true">
+        <layer src_y="387" width="118" height="60"/>
+    </image>
+    <image id="Sand_Pit_C_ON" width="118" height="60" isometric="true">
+        <layer group="this" image="Sand_Pit_C_OFF"/>
+        <animation speed="12" x="33" y="4" reversible="true">
+            <frame src_x="180" src_y="332" width="43" height="41"/>
+            <frame src_x="180" src_y="373" width="43" height="41"/>
+            <frame src_x="180" src_y="414" width="43" height="41"/>
+            <frame src_x="180" src_y="291" width="43" height="41"/>
+            <frame src_x="180" src_y="250" width="43" height="41"/>
+            <frame src_x="180" src_y="209" width="43" height="41"/>
+        </animation>
+    </image>
+    <image id="Sand_Pit_N_ON" width="118" height="60" isometric="true">
+        <layer group="this" image="Sand_Pit_N_OFF"/>
+        <animation speed="12" x="33" y="4" reversible="true">
+            <frame src_x="180" src_y="332" width="43" height="41"/>
+            <frame src_x="180" src_y="373" width="43" height="41"/>
+            <frame src_x="180" src_y="414" width="43" height="41"/>
+            <frame src_x="180" src_y="291" width="43" height="41"/>
+            <frame src_x="180" src_y="250" width="43" height="41"/>
+            <frame src_x="180" src_y="209" width="43" height="41"/>
+        </animation>
+    </image>
+    <image id="Sand_Pit_S_ON" width="118" height="60" isometric="true">
+        <layer group="this" image="Sand_Pit_S_OFF"/>
+        <animation speed="12" x="33" y="4" reversible="true">
+            <frame src_x="180" src_y="332" width="43" height="41"/>
+            <frame src_x="180" src_y="373" width="43" height="41"/>
+            <frame src_x="180" src_y="414" width="43" height="41"/>
+            <frame src_x="180" src_y="291" width="43" height="41"/>
+            <frame src_x="180" src_y="250" width="43" height="41"/>
+            <frame src_x="180" src_y="209" width="43" height="41"/>
+        </animation>
+    </image>
+    <image id="Sand_Cart_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="394" src_y="332" width="31" height="20"/>
+    </image>
+    <image id="Sand_Cart_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="366" src_y="310" width="31" height="22"/>
+    </image>
+    <image id="Sand_Cart_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="461" src_y="287" width="31" height="22"/>
+    </image>
+    <image id="Sand_Cart_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="387" src_y="445" width="21" height="26" rotate="90"/>
+    </image>
+    <image id="Sand_Cart_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="472" width="28" height="22"/>
+    </image>
+    <image id="Sand_Cart_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="359" src_y="434" width="25" height="22"/>
+    </image>
+    <image id="Sand_Cart_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="332" src_y="352" width="27" height="22"/>
+    </image>
+    <image id="Sand_Cart_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="460" src_y="393" width="26" height="18"/>
+    </image>
+    <image id="Sand_Cart_Getting_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="332" src_y="332" width="31" height="20"/>
+    </image>
+    <image id="Sand_Cart_Getting_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="262" src_y="479" width="31" height="22"/>
+    </image>
+    <image id="Sand_Cart_Getting_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="430" src_y="287" width="31" height="22"/>
+    </image>
+    <image id="Sand_Cart_Getting_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="387" src_y="393" width="21" height="26" rotate="90"/>
+    </image>
+    <image id="Sand_Cart_Getting_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="472" src_y="66" width="28" height="22"/>
+    </image>
+    <image id="Sand_Cart_Getting_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="387" src_y="371" width="25" height="22"/>
+    </image>
+    <image id="Sand_Cart_Getting_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="332" src_y="374" width="27" height="22"/>
+    </image>
+    <image id="Sand_Cart_Getting_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="408" src_y="430" width="26" height="18"/>
+    </image>
+    <image id="Warehouse_Sand_01" width="58" height="45" isometric="true">
+        <layer group="83" image="0" y="4"/>
+        <layer src_x="359" src_y="371" x="20" y="12" width="28" height="21"/>
+    </image>
+    <image id="Warehouse_Sand_02" width="58" height="45" isometric="true">
+        <layer group="83" image="0" y="4"/>
+        <layer src_x="262" src_y="313" x="20" y="7" width="36" height="26"/>
+    </image>
+    <image id="Warehouse_Sand_03" width="58" height="45" isometric="true">
+        <layer group="83" image="0" y="4"/>
+        <layer src_x="340" src_y="248" x="18" width="38" height="33"/>
+    </image>
+    <image id="Warehouse_Sand_04" width="58" height="45" isometric="true">
+        <layer group="83" image="0" y="4"/>
+        <layer src_x="234" src_y="174" x="4" width="52" height="33"/>
+    </image>
+    <image id="Sand_Supplied_Workshop" width="25" height="21">
+        <layer src_x="437" src_y="371" width="25" height="21"/>
+    </image>
+    <image id="Silver_Cart_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="456" src_y="332" width="30" height="19"/>
+    </image>
+    <image id="Silver_Cart_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="458" src_y="474" x="15" y="10" width="15" height="8"/>
+    </image>
+    <image id="Silver_Cart_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="302" src_y="353" width="30" height="21"/>
+    </image>
+    <image id="Silver_Cart_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="446" src_y="114" width="26" height="21"/>
+    </image>
+    <image id="Silver_Cart_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="359" src_y="413" width="27" height="21"/>
+    </image>
+    <image id="Silver_Cart_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="434" src_y="430" width="24" height="18"/>
+    </image>
+    <image id="Silver_Cart_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="408" src_y="411" width="25" height="19"/>
+    </image>
+    <image id="Silver_Cart_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="434" src_y="393" width="26" height="18"/>
+    </image>
+    <image id="Silver_Cart_Getting_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="486" src_y="271" x="15" y="4" width="15" height="15"/>
+    </image>
+    <image id="Silver_Cart_Getting_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="475" src_y="461" x="15" y="5" width="15" height="13"/>
+    </image>
+    <image id="Silver_Cart_Getting_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="302" src_y="332" width="30" height="21"/>
+    </image>
+    <image id="Silver_Cart_Getting_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="288" src_y="434" x="15" y="7" width="11" height="14"/>
+    </image>
+    <image id="Silver_Cart_Getting_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="332" src_y="459" width="27" height="21"/>
+    </image>
+    <image id="Silver_Cart_Getting_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="434" src_y="448" width="24" height="18"/>
+    </image>
+    <image id="Silver_Cart_Getting_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="482" src_y="430" x="9" y="4" width="16" height="15"/>
+    </image>
+    <image id="Silver_Cart_Getting_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="319" src_y="484" x="15" y="4" width="11" height="14"/>
+    </image>
+    <image id="Warehouse_Silver_01" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="434" src_y="484" x="20" y="14" width="23" height="12"/>
+    </image>
+    <image id="Warehouse_Silver_02" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="262" src_y="339" x="20" y="1" width="35" height="25"/>
+    </image>
+    <image id="Warehouse_Silver_03" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="354" src_y="114" x="9" y="1" width="46" height="25"/>
+    </image>
+    <image id="Warehouse_Silver_04" isometric="true">
+        <layer group="83" image="0"/>
+        <layer src_x="400" src_y="114" x="9" y="1" width="46" height="25"/>
+    </image>
+    <image id="Stone_Quarry_C_OFF" width="118" height="60" isometric="true">
+        <layer src_x="118" src_y="80" width="118" height="60"/>
+    </image>
+    <image id="Stone_Quarry_N_OFF" width="118" height="60" isometric="true">
+        <layer src_y="207" width="118" height="60"/>
+    </image>
+    <image id="Stone_Quarry_S_OFF" width="118" height="60" isometric="true">
+        <layer src_y="147" width="118" height="60"/>
+    </image>
+    <image id="Stone_Quarry_ON_01" width="48" height="49">
+        <layer src_x="118" src_y="402" width="48" height="49"/>
+        <layer src_x="470" src_y="271" x="32" y="33" width="16" height="14"/>
+    </image>
+    <image id="Stone_Quarry_ON_02" width="48" height="49">
+        <layer src_x="118" src_y="402" width="48" height="49"/>
+        <layer src_x="470" src_y="271" x="32" y="31" width="16" height="14"/>
+    </image>
+    <image id="Stone_Quarry_ON_03" width="48" height="49">
+        <layer src_x="118" src_y="402" width="48" height="49"/>
+        <layer src_x="470" src_y="271" x="32" y="29" width="16" height="14"/>
+    </image>
+    <image id="Stone_Quarry_ON_04" width="48" height="49">
+        <layer src_x="118" src_y="402" width="48" height="49"/>
+        <layer src_x="470" src_y="271" x="32" y="27" width="16" height="14"/>
+    </image>
+    <image id="Stone_Quarry_ON_05" width="48" height="49">
+        <layer src_x="118" src_y="402" width="48" height="49"/>
+        <layer src_x="470" src_y="271" x="32" y="25" width="16" height="14"/>
+    </image>
+    <image id="Stone_Quarry_ON_06" width="48" height="49">
+        <layer src_x="118" src_y="402" width="48" height="49"/>
+        <layer src_x="470" src_y="271" x="32" y="23" width="16" height="14"/>
+    </image>
+    <image id="Stone_Quarry_ON_07" width="48" height="49">
+        <layer src_x="118" src_y="402" width="48" height="49"/>
+        <layer src_x="470" src_y="271" x="32" y="21" width="16" height="14"/>
+    </image>
+    <image id="Stone_Quarry_C_ON" width="118" height="60" isometric="true">
+        <layer group="this" image="Stone_Quarry_C_OFF"/>
+        <animation speed="10" x="18" y="-15" reversible="true">
+            <frame group="this" image="Stone_Quarry_ON_01"/>
+            <frame group="this" image="Stone_Quarry_ON_02"/>
+            <frame group="this" image="Stone_Quarry_ON_03"/>
+            <frame group="this" image="Stone_Quarry_ON_04"/>
+            <frame group="this" image="Stone_Quarry_ON_05"/>
+            <frame group="this" image="Stone_Quarry_ON_06"/>
+            <frame group="this" image="Stone_Quarry_ON_07"/>
+        </animation>
+    </image>
+    <image id="Stone_Quarry_N_ON" width="118" height="60" isometric="true">
+        <layer group="this" image="Stone_Quarry_N_OFF"/>
+        <animation speed="10" x="18" y="-15" reversible="true">
+            <frame group="this" image="Stone_Quarry_ON_01"/>
+            <frame group="this" image="Stone_Quarry_ON_02"/>
+            <frame group="this" image="Stone_Quarry_ON_03"/>
+            <frame group="this" image="Stone_Quarry_ON_04"/>
+            <frame group="this" image="Stone_Quarry_ON_05"/>
+            <frame group="this" image="Stone_Quarry_ON_06"/>
+            <frame group="this" image="Stone_Quarry_ON_07"/>
+        </animation>
+    </image>
+    <image id="Stone_Quarry_S_ON" width="118" height="60" isometric="true">
+        <layer group="this" image="Stone_Quarry_S_OFF"/>
+        <animation speed="10" x="18" y="-15" reversible="true">
+            <frame group="this" image="Stone_Quarry_ON_01"/>
+            <frame group="this" image="Stone_Quarry_ON_02"/>
+            <frame group="this" image="Stone_Quarry_ON_03"/>
+            <frame group="this" image="Stone_Quarry_ON_04"/>
+            <frame group="this" image="Stone_Quarry_ON_05"/>
+            <frame group="this" image="Stone_Quarry_ON_06"/>
+            <frame group="this" image="Stone_Quarry_ON_07"/>
+        </animation>
+    </image>
+    <image id="Stone_Cart_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="333" src_y="310" width="33" height="20"/>
+    </image>
+    <image id="Stone_Cart_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="425" src_y="332" width="31" height="19"/>
+    </image>
+    <image id="Stone_Cart_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="334" src_y="287" width="32" height="23"/>
+    </image>
+    <image id="Stone_Cart_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="332" src_y="480" width="27" height="21"/>
+    </image>
+    <image id="Stone_Cart_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="302" src_y="374" width="29" height="22"/>
+    </image>
+    <image id="Stone_Cart_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="458" src_y="411" width="25" height="19"/>
+    </image>
+    <image id="Stone_Cart_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="472" src_y="44" width="28" height="22"/>
+    </image>
+    <image id="Stone_Cart_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="462" src_y="371" width="26" height="19"/>
+    </image>
+    <image id="Stone_Cart_Getting_NE" width="39" height="39">
+        <layer group="97" image="0"/>
+        <layer src_x="397" src_y="287" width="33" height="20"/>
+    </image>
+    <image id="Stone_Cart_Getting_E" width="39" height="39">
+        <layer group="97" image="1"/>
+        <layer src_x="223" src_y="482" width="31" height="19"/>
+    </image>
+    <image id="Stone_Cart_Getting_SE" width="39" height="39">
+        <layer group="97" image="2"/>
+        <layer src_x="302" src_y="287" width="32" height="23"/>
+    </image>
+    <image id="Stone_Cart_Getting_S" width="39" height="39">
+        <layer group="97" image="3"/>
+        <layer src_x="332" src_y="438" width="27" height="21"/>
+    </image>
+    <image id="Stone_Cart_Getting_SW" width="39" height="39">
+        <layer group="97" image="4"/>
+        <layer src_x="302" src_y="417" width="29" height="22"/>
+    </image>
+    <image id="Stone_Cart_Getting_W" width="39" height="39">
+        <layer group="97" image="5"/>
+        <layer src_x="408" src_y="448" width="25" height="19"/>
+    </image>
+    <image id="Stone_Cart_Getting_NW" width="39" height="39">
+        <layer group="97" image="6"/>
+        <layer src_x="472" src_y="22" width="28" height="22"/>
+    </image>
+    <image id="Stone_Cart_Getting_N" width="39" height="39">
+        <layer group="97" image="7"/>
+        <layer src_x="420" src_y="352" width="26" height="19"/>
+    </image>
+    <image id="Warehouse_Stone_01" width="58" height="53" isometric="true">
+        <layer group="83" image="0" y="12"/>
+        <layer src_x="446" src_y="352" x="32" y="15" width="26" height="19"/>
+    </image>
+    <image id="Warehouse_Stone_02" width="58" height="53" isometric="true">
+        <layer group="83" image="0" y="12"/>
+        <layer src_x="453" src_y="140" x="18" width="40" height="34"/>
+    </image>
+    <image id="Warehouse_Stone_03" width="58" height="53" isometric="true">
+        <layer group="83" image="0" y="12"/>
+        <layer src_x="180" src_y="174" x="4" width="54" height="35"/>
+    </image>
+    <image id="Warehouse_Stone_04" width="58" height="53" isometric="true">
+        <layer group="83" image="0" y="12"/>
+        <layer src_x="118" src_y="451" x="4" width="54" height="41"/>
+    </image>
+    <image id="Smoke_Anim">
+        <layer src_x="288" src_y="389" width="13" height="45"/>
+    </image>
+    <image>
+        <layer src_x="275" src_y="389" width="13" height="45"/>
+    </image>
+    <image>
+        <layer src_x="262" src_y="389" width="13" height="45"/>
+    </image>
+    <image>
+        <layer src_x="262" src_y="434" width="13" height="45"/>
+    </image>
+    <image>
+        <layer src_x="166" src_y="402" width="13" height="45"/>
+    </image>
+    <image>
+        <layer src_x="275" src_y="434" width="13" height="45"/>
+    </image>
+</assetlist>
