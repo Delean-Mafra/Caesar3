@@ -1,0 +1,720 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Religion">
+    <image id="const_base_3x3" isometric="true">
+        <layer src_x="761" src_y="482" width="178" height="99"/>
+    </image>
+    <image id="GT_Cons_Base_r" width="418" height="219" isometric="true">
+        <layer src_y="924" width="418" height="219"/>
+        <layer src_x="178" src_y="1301" x="90" y="141" width="239" height="48"/>
+    </image>
+    <image id="Ceres_LT_0" isometric="true">
+        <layer group="this" image="const_base_3x3"/>
+        <layer src_x="1117" src_y="583" width="178" height="99"/>
+    </image>
+    <image id="Ceres_LT_25" width="178" height="159">
+        <layer group="71" image="1" part="footprint"/>
+        <layer src_x="1085" src_y="682" y="59" width="165" height="80"/>
+    </image>
+    <image id="Ceres_LT_50" width="178" height="159">
+        <layer group="71" image="1" part="footprint"/>
+        <layer src_x="418" src_y="604" y="26" width="165" height="113"/>
+    </image>
+    <image id="Ceres_LT_75" width="178" height="159">
+        <layer group="this" image="Ceres_LT_50"/>
+        <layer src_x="1254" x="44" y="8" width="98" height="129"/>
+    </image>
+    <image id="Ceres Complex Const 01" width="418" height="234" isometric="true">
+        <layer src_y="924" y="15" width="418" height="219"/>
+        <layer group="this" image="Ceres_LT_0" x="90" y="60"/>
+    </image>
+    <image id="Ceres Complex Const 02" width="418" height="234" isometric="true">
+        <layer src_y="924" y="15" width="418" height="219"/>
+        <layer src_x="1295" src_y="587" x="166" y="41" width="77" height="54"/>
+        <layer group="this" image="Ceres_LT_25" x="90"/>
+    </image>
+    <image id="Ceres Complex Const 03" width="418" height="234" isometric="true">
+        <layer src_y="924" y="15" width="418" height="219"/>
+        <layer src_x="1295" src_y="587" x="166" y="41" width="77" height="54"/>
+        <layer group="this" image="Ceres_LT_50" x="90"/>
+    </image>
+    <image id="Ceres Complex Const 04" width="418" height="234" isometric="true">
+        <layer src_y="924" y="15" width="418" height="219"/>
+        <layer src_x="1300" src_y="373" x="166" y="41" width="54" height="77" rotate="90"/>
+        <layer group="this" image="Ceres_LT_75" x="90"/>
+    </image>
+    <image id="Ceres Complex Const 05" width="418" height="234" isometric="true">
+        <layer src_y="924" y="15" width="418" height="219"/>
+        <layer src_x="1300" src_y="373" x="166" y="41" width="54" height="77" rotate="90"/>
+        <layer group="71" image="1" x="90"/>
+    </image>
+    <image id="Ceres Complex Off" width="418" height="234" isometric="true">
+        <layer src_y="693" y="3" width="418" height="231"/>
+        <layer group="71" image="1" x="90"/>
+        <layer src_x="1130" src_y="373" x="59" y="87" width="170" height="109"/>
+    </image>
+    <image id="Ceres Complex On" width="418" height="234" isometric="true">
+        <layer src_y="693" y="3" width="418" height="231"/>
+        <layer group="71" image="1" x="90"/>
+        <layer src_x="494" src_y="1322" x="199" y="125" width="75" height="45"/>
+        <layer src_x="1130" src_y="373" x="59" y="87" width="170" height="109"/>
+    </image>
+    <image id="Ceres Complex Module" width="418" height="234" isometric="true">
+        <layer group="this" image="Ceres Complex Off"/>
+        <animation speed="6" x="230" y="110">
+            <frame src_x="1167" src_y="1248" width="39" height="39"/>
+            <frame src_x="1167" src_y="1287" width="39" height="39"/>
+            <frame src_x="1167" src_y="1326" width="39" height="39"/>
+            <frame src_x="139" src_y="1304" width="39" height="39"/>
+            <frame src_x="1206" src_y="1209" width="39" height="39"/>
+            <frame src_x="536" src_y="1280" width="39" height="39"/>
+            <frame src_x="1265" src_y="1167" width="39" height="39"/>
+            <frame src_x="1304" src_y="1167" width="39" height="39"/>
+            <frame src_x="1167" src_y="1209" width="39" height="39"/>
+            <frame src_x="1206" src_y="1248" width="39" height="39"/>
+            <frame src_x="1295" src_y="641" width="39" height="39"/>
+        </animation>
+    </image>
+    <image id="Ceres Module 1 Crop">
+        <layer src_x="418" src_y="1104" width="146" height="95"/>
+    </image>
+    <image>
+        <layer src_x="418" src_y="1104" width="146" height="95"/>
+        <layer src_x="356" src_y="1143" x="6" y="23" width="62" height="121" rotate="90"/>
+    </image>
+    <image>
+        <layer src_x="418" src_y="1104" width="146" height="95"/>
+        <layer src_x="1240" src_y="872" x="5" y="17" width="122" height="68"/>
+    </image>
+    <image>
+        <layer src_x="418" src_y="1104" width="146" height="95"/>
+        <layer src_x="761" src_y="1258" x="5" y="5" width="122" height="80"/>
+    </image>
+    <image>
+        <layer src_x="418" src_y="1104" width="146" height="95"/>
+        <layer src_x="1250" src_y="682" x="5" y="5" width="122" height="80"/>
+    </image>
+    <image id="Ceres_Temple_Complex_Module2_01" width="146" height="95">
+        <layer src_x="761" src_y="777" width="146" height="95"/>
+        <layer src_x="862" src_y="1065" x="45" y="24" width="21" height="32"/>
+    </image>
+    <image id="Ceres_Temple_Complex_Module2_02" width="146" height="95">
+        <layer src_x="761" src_y="777" width="146" height="95"/>
+        <layer src_x="731" src_y="922" x="45" y="24" width="21" height="32"/>
+    </image>
+    <image id="Ceres_Temple_Complex_Module2_03" width="146" height="95">
+        <layer src_x="761" src_y="777" width="146" height="95"/>
+        <layer src_x="803" src_y="1338" x="45" y="24" width="21" height="32"/>
+    </image>
+    <image id="Ceres Complex Module2" width="418" height="234" isometric="true">
+        <layer group="this" image="Ceres Complex Off"/>
+        <animation speed="6" x="190" y="95" reversible="true">
+            <frame group="this" image="Ceres_Temple_Complex_Module2_01"/>
+            <frame group="this" image="Ceres_Temple_Complex_Module2_02"/>
+            <frame group="this" image="Ceres_Temple_Complex_Module2_03"/>
+        </animation>
+    </image>
+    <image id="Mars_LT_0" isometric="true">
+        <layer group="this" image="const_base_3x3"/>
+        <layer src_x="583" src_y="682" width="178" height="99"/>
+    </image>
+    <image id="Mars_LT_25" width="178" height="148">
+        <layer group="74" image="1" part="footprint"/>
+        <layer src_x="583" src_y="1110" y="44" width="178" height="90"/>
+    </image>
+    <image id="Mars_LT_50" width="178" height="148">
+        <layer group="74" image="1" part="footprint"/>
+        <layer src_x="952" src_y="373" y="27" width="178" height="107"/>
+    </image>
+    <image id="Mars_LT_75" width="178" height="148">
+        <layer group="this" image="Mars_LT_50"/>
+        <layer src_x="1295" src_y="482" x="27" y="7" width="77" height="105" rotate="90"/>
+    </image>
+    <image id="Mars Complex Const 01" width="418" height="223" isometric="true">
+        <layer src_y="924" y="4" width="418" height="219"/>
+        <layer group="this" image="Mars_LT_0" x="90" y="49"/>
+    </image>
+    <image id="Mars Complex Const 02" width="418" height="223" isometric="true">
+        <layer src_y="924" y="4" width="418" height="219"/>
+        <layer src_x="1168" src_y="956" x="163" y="22" width="93" height="72"/>
+        <layer group="this" image="Mars_LT_25" x="90"/>
+    </image>
+    <image id="Mars Complex Const 03" width="418" height="223" isometric="true">
+        <layer src_y="924" y="4" width="418" height="219"/>
+        <layer src_x="1261" src_y="956" x="163" y="22" width="92" height="71"/>
+        <layer group="this" image="Mars_LT_50" x="90"/>
+    </image>
+    <image id="Mars Complex Const 04" width="418" height="223" isometric="true">
+        <layer src_y="924" y="4" width="418" height="219"/>
+        <layer src_x="1261" src_y="956" x="163" y="22" width="92" height="71"/>
+        <layer group="this" image="Mars_LT_75" x="90"/>
+    </image>
+    <image id="Mars Complex Const 05" width="418" height="223" isometric="true">
+        <layer src_y="924" y="4" width="418" height="219"/>
+        <layer src_x="890" src_y="872" x="163" y="22" width="114" height="84"/>
+        <layer group="74" image="1" x="90"/>
+    </image>
+    <image id="Mars Complex Off" width="418" height="231" isometric="true">
+        <layer src_x="418" width="418" height="231"/>
+        <layer group="74" image="1" x="90" y="8"/>
+        <layer src_x="1130" src_y="373" x="59" y="83" width="170" height="109"/>
+        <layer src_x="1360" src_y="1086" x="213" y="153" width="11" height="36"/>
+    </image>
+    <image id="Mars Complex On" width="418" height="231" isometric="true">
+        <layer group="this" image="Mars Complex Off"/>
+        <layer src_x="1068" src_y="1086" x="199" y="121" width="75" height="45"/>
+    </image>
+    <image id="Mars_Temple_Complex_Module2_01" width="140" height="80">
+        <layer src_x="907" src_y="777" width="140" height="80"/>
+        <layer src_x="955" src_y="1248" x="40" y="19" width="25" height="31"/>
+    </image>
+    <image id="Mars_Temple_Complex_Module2_02" width="140" height="80">
+        <layer src_x="907" src_y="777" width="140" height="80"/>
+        <layer src_x="1206" src_y="1327" x="40" y="19" width="25" height="31"/>
+    </image>
+    <image id="Mars_Temple_Complex_Module2_03" width="140" height="80">
+        <layer src_x="907" src_y="777" width="140" height="80"/>
+        <layer src_x="1343" src_y="1167" x="40" y="19" width="25" height="31"/>
+    </image>
+    <image id="Mars Complex Module" width="418" height="231" isometric="true">
+        <layer group="this" image="Mars Complex Off"/>
+        <animation speed="6" x="191" y="97" reversible="true">
+            <frame group="this" image="Mars_Temple_Complex_Module2_01"/>
+            <frame group="this" image="Mars_Temple_Complex_Module2_02"/>
+            <frame group="this" image="Mars_Temple_Complex_Module2_03"/>
+        </animation>
+    </image>
+    <image id="Mars_Temple_Complex_Module_01" width="100" height="73">
+        <layer src_x="1068" src_y="956" width="100" height="73"/>
+        <layer src_x="1105" src_y="1301" x="22" width="49" height="42"/>
+    </image>
+    <image id="Mars_Temple_Complex_Module_02" width="100" height="73">
+        <layer src_x="1068" src_y="956" width="100" height="73"/>
+        <layer src_x="1167" src_y="1167" x="22" width="49" height="42"/>
+    </image>
+    <image id="Mars_Temple_Complex_Module_03" width="100" height="73">
+        <layer src_x="1068" src_y="956" width="100" height="73"/>
+        <layer src_x="1216" src_y="1167" x="22" width="49" height="42"/>
+    </image>
+    <image id="Mars_Temple_Complex_Module_04" width="100" height="73">
+        <layer src_x="1068" src_y="956" width="100" height="73"/>
+        <layer src_x="1105" src_y="1259" x="22" width="49" height="42"/>
+    </image>
+    <image id="Mars_Temple_Complex_Module_05" width="100" height="73">
+        <layer src_x="1068" src_y="956" width="100" height="73"/>
+        <layer src_x="1105" src_y="1217" x="22" width="49" height="42"/>
+    </image>
+    <image id="Mars Complex Module2" width="418" height="231" isometric="true">
+        <layer group="this" image="Mars Complex Off"/>
+        <animation speed="6" x="211" y="105">
+            <frame group="this" image="Mars_Temple_Complex_Module_01"/>
+            <frame group="this" image="Mars_Temple_Complex_Module_02"/>
+            <frame group="this" image="Mars_Temple_Complex_Module_03"/>
+            <frame group="this" image="Mars_Temple_Complex_Module_04"/>
+            <frame group="this" image="Mars_Temple_Complex_Module_05"/>
+        </animation>
+    </image>
+    <image id="Mercury_LT_0" isometric="true">
+        <layer group="this" image="const_base_3x3"/>
+        <layer src_x="583" src_y="583" width="178" height="99"/>
+    </image>
+    <image id="Mercury_LT_25" width="178" height="148">
+        <layer group="73" image="1" part="footprint"/>
+        <layer src_x="583" src_y="1017" y="41" width="178" height="93"/>
+    </image>
+    <image id="Mercury_LT_50" width="178" height="148">
+        <layer group="73" image="1" part="footprint"/>
+        <layer src_x="941" src_y="231" y="16" width="178" height="118"/>
+    </image>
+    <image id="Mercury_LT_75" width="178" height="148">
+        <layer group="this" image="Mercury_LT_50"/>
+        <layer src_x="761" src_y="1065" x="51" y="8" width="101" height="113"/>
+    </image>
+    <image id="Mercury Complex Const 01" width="418" height="223" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="4"/>
+        <layer group="this" image="Mercury_LT_0" x="150" y="49"/>
+    </image>
+    <image id="Mercury Complex Const 02" width="418" height="223" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="4"/>
+        <layer src_x="890" src_y="1284" x="237" y="37" width="106" height="68"/>
+        <layer group="this" image="Mercury_LT_25" x="150"/>
+    </image>
+    <image id="Mercury Complex Const 03" width="418" height="223" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="4"/>
+        <layer src_x="1206" src_y="1287" x="311" y="65" width="32" height="40"/>
+        <layer group="this" image="Mercury_LT_50" x="150"/>
+    </image>
+    <image id="Mercury Complex Const 04" width="418" height="223" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="4"/>
+        <layer src_x="1206" src_y="1287" x="311" y="65" width="32" height="40"/>
+        <layer group="this" image="Mercury_LT_75" x="150"/>
+    </image>
+    <image id="Mercury Complex Const 05" width="418" height="223" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="4"/>
+        <layer src_x="1206" src_y="1287" x="311" y="65" width="32" height="40"/>
+        <layer group="73" image="1" x="150"/>
+    </image>
+    <image id="Mercury Complex Off" width="418" height="231" isometric="true">
+        <layer src_x="836" width="418" height="231"/>
+        <layer group="73" image="1" x="150" y="8"/>
+        <layer src_x="418" src_y="717" x="199" y="79" width="146" height="114"/>
+    </image>
+    <image id="Mercury Complex On" width="418" height="231" isometric="true">
+        <layer group="this" image="Mercury Complex Off"/>
+        <layer src_x="1105" src_y="1167" x="135" y="117" width="62" height="50"/>
+    </image>
+    <image id="Mercury_Temple_Complex_Module_01" width="118" height="77">
+        <layer src_x="1004" src_y="872" width="118" height="77"/>
+        <layer src_x="1300" src_y="450" x="49" y="5" width="22" height="32"/>
+    </image>
+    <image id="Mercury_Temple_Complex_Module_02" width="118" height="77">
+        <layer src_x="1004" src_y="872" width="118" height="77"/>
+        <layer src_x="1344" src_y="450" x="49" y="5" width="22" height="32"/>
+    </image>
+    <image id="Mercury_Temple_Complex_Module_03" width="118" height="77">
+        <layer src_x="1004" src_y="872" width="118" height="77"/>
+        <layer src_x="1322" src_y="450" x="49" y="5" width="22" height="32"/>
+    </image>
+    <image id="Mercury Complex Module" width="418" height="231" isometric="true">
+        <layer group="this" image="Mercury Complex Off"/>
+        <animation speed="5" x="115" y="105" reversible="true">
+            <frame group="this" image="Mercury_Temple_Complex_Module_01"/>
+            <frame group="this" image="Mercury_Temple_Complex_Module_02"/>
+            <frame group="this" image="Mercury_Temple_Complex_Module_03"/>
+        </animation>
+    </image>
+    <image id="Mercury_Temple_Complex_Module2_01" width="137" height="76">
+        <layer src_x="1192" src_y="777" width="137" height="76"/>
+        <layer src_x="1300" src_y="450" x="67" y="15" width="22" height="32"/>
+    </image>
+    <image id="Mercury_Temple_Complex_Module2_02" width="137" height="76">
+        <layer src_x="1192" src_y="777" width="137" height="76"/>
+        <layer src_x="1344" src_y="450" x="67" y="15" width="22" height="32"/>
+    </image>
+    <image id="Mercury_Temple_Complex_Module2_03" width="137" height="76">
+        <layer src_x="1192" src_y="777" width="137" height="76"/>
+        <layer src_x="1322" src_y="450" x="67" y="15" width="22" height="32"/>
+    </image>
+    <image id="Mercury Complex Module2" width="418" height="231" isometric="true">
+        <layer group="this" image="Mercury Complex Off"/>
+        <animation speed="5" x="94" y="103" reversible="true">
+            <frame group="this" image="Mercury_Temple_Complex_Module2_01"/>
+            <frame group="this" image="Mercury_Temple_Complex_Module2_02"/>
+            <frame group="this" image="Mercury_Temple_Complex_Module2_03"/>
+        </animation>
+    </image>
+    <image id="Neptune_LT_0" isometric="true">
+        <layer group="this" image="const_base_3x3"/>
+        <layer src_x="761" src_y="583" width="178" height="99"/>
+    </image>
+    <image id="Neptune_LT_25" width="178" height="154">
+        <layer group="72" image="1" part="footprint"/>
+        <layer src_x="418" src_y="929" y="50" width="165" height="80"/>
+    </image>
+    <image id="Neptune_LT_50" width="178" height="154">
+        <layer group="72" image="1" part="footprint"/>
+        <layer src_x="583" src_y="1200" y="29" width="165" height="101"/>
+    </image>
+    <image id="Neptune_LT_75" width="178" height="154">
+        <layer group="72" image="1" part="footprint"/>
+        <layer src_x="418" src_y="482" y="8" width="165" height="122"/>
+    </image>
+    <image id="Neptune LTemple Off" width="178" height="154">
+        <layer group="72" image="1"/>
+        <layer src_x="583" src_y="1301" x="21" y="55" width="123" height="67"/>
+    </image>
+    <image id="Neptune Complex Const 01" width="418" height="229" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="10"/>
+        <layer group="this" image="Neptune_LT_0" x="150" y="55"/>
+    </image>
+    <image id="Neptune Complex Const 02" width="418" height="229" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="10"/>
+        <layer src_x="1068" src_y="1029" x="224" y="41" width="94" height="57"/>
+        <layer group="this" image="Neptune_LT_25" x="150"/>
+    </image>
+    <image id="Neptune Complex Const 03" width="418" height="229" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="10"/>
+        <layer src_x="1334" src_y="641" x="284" y="57" width="34" height="39"/>
+        <layer group="this" image="Neptune_LT_50" x="150"/>
+    </image>
+    <image id="Neptune Complex Const 04" width="418" height="229" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="10"/>
+        <layer src_x="1334" src_y="641" x="284" y="57" width="34" height="39"/>
+        <layer group="this" image="Neptune_LT_75" x="150"/>
+    </image>
+    <image id="Neptune Complex Const 05" width="418" height="229" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="10"/>
+        <layer src_x="1334" src_y="641" x="284" y="57" width="34" height="39"/>
+        <layer group="this" image="Neptune LTemple Off" x="150"/>
+    </image>
+    <image id="Neptune Complex Off" width="418" height="231" isometric="true">
+        <layer width="418" height="231"/>
+        <layer group="this" image="Neptune LTemple Off" x="150" y="2"/>
+        <layer src_x="1130" src_y="373" x="189" y="84" width="170" height="109" invert="horizontal"/>
+    </image>
+    <image id="Neptune Complex On" width="418" height="231" isometric="true">
+        <layer width="418" height="231"/>
+        <layer group="72" image="1" x="150" y="2"/>
+        <layer src_x="1105" src_y="1167" x="135" y="117" width="62" height="50"/>
+        <layer src_x="1305" src_y="1086" x="135" y="117" width="55" height="44"/>
+        <layer src_x="1130" src_y="373" x="189" y="84" width="170" height="109" invert="horizontal"/>
+    </image>
+    <image id="Neptune_Temple_Complex_Module2_01" width="125" height="80">
+        <layer src_x="761" src_y="1178" width="125" height="80"/>
+        <layer src_x="862" src_y="1097" x="57" y="13" width="21" height="32"/>
+    </image>
+    <image id="Neptune_Temple_Complex_Module2_02" width="125" height="80">
+        <layer src_x="761" src_y="1178" width="125" height="80"/>
+        <layer src_x="862" src_y="1129" x="57" y="13" width="21" height="32"/>
+    </image>
+    <image id="Neptune_Temple_Complex_Module2_03" width="125" height="80">
+        <layer src_x="761" src_y="1178" width="125" height="80"/>
+        <layer src_x="731" src_y="890" x="57" y="13" width="21" height="32"/>
+    </image>
+    <image id="Neptune Complex Module" width="418" height="231" isometric="true">
+        <layer group="this" image="Neptune Complex On"/>
+        <animation speed="6" x="102" y="98" reversible="true">
+            <frame group="this" image="Neptune_Temple_Complex_Module2_01"/>
+            <frame group="this" image="Neptune_Temple_Complex_Module2_02"/>
+            <frame group="this" image="Neptune_Temple_Complex_Module2_03"/>
+        </animation>
+    </image>
+    <image id="Neptune Complex Module2" width="418" height="231" isometric="true">
+        <layer group="this" image="Neptune Complex On"/>
+        <animation speed="5" x="143" y="57">
+            <frame group="206" image="0"/>
+            <frame group="206" image="1"/>
+            <frame group="206" image="2"/>
+            <frame group="206" image="3"/>
+            <frame group="206" image="4"/>
+            <frame group="206" image="5"/>
+            <frame group="206" image="6"/>
+            <frame group="206" image="7"/>
+            <frame group="206" image="8"/>
+            <frame group="206" image="9"/>
+            <frame group="206" image="10"/>
+            <frame group="206" image="11"/>
+            <frame group="206" image="12"/>
+            <frame group="206" image="13"/>
+            <frame group="206" image="14"/>
+            <frame group="206" image="15"/>
+            <frame group="206" image="16"/>
+            <frame group="206" image="17"/>
+        </animation>
+    </image>
+    <image id="Neptune Module 2 Fountain">
+        <layer src_x="761" src_y="872" width="129" height="96"/>
+        <layer src_x="706" src_y="1345" x="39" y="47" width="54" height="22"/>
+    </image>
+    <image>
+        <layer src_x="761" src_y="872" width="129" height="96"/>
+        <layer src_x="706" src_y="1345" x="39" y="47" width="54" height="22"/>
+        <layer src_x="139" src_y="1343" x="50" y="47" width="8" height="22"/>
+    </image>
+    <image>
+        <layer src_x="761" src_y="872" width="129" height="96"/>
+        <layer src_x="706" src_y="1345" x="39" y="47" width="54" height="22"/>
+        <layer src_x="147" src_y="1343" x="50" y="47" width="8" height="22"/>
+    </image>
+    <image>
+        <layer src_x="761" src_y="872" width="129" height="96"/>
+        <layer src_x="706" src_y="1345" x="39" y="47" width="54" height="22"/>
+        <layer src_x="1361" src_y="1060" x="50" y="47" width="8" height="22"/>
+    </image>
+    <image>
+        <layer src_x="761" src_y="872" width="129" height="96"/>
+        <layer src_x="706" src_y="1345" x="39" y="47" width="54" height="22"/>
+        <layer src_x="575" src_y="1280" x="50" y="47" width="8" height="22"/>
+    </image>
+    <image id="Neptune Complex Off" width="418" height="231" isometric="true">
+        <layer group="this" image="Neptune Complex Off"/>
+        <layer src_x="761" src_y="872" x="98" y="27" width="129" height="96"/>
+    </image>
+    <image id="Pantheon_Const_00" isometric="true">
+        <layer group="this" image="const_base_3x3"/>
+        <layer src_x="1117" src_y="482" width="178" height="99"/>
+    </image>
+    <image id="Pantheon Const 01" width="418" height="231" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="12"/>
+        <layer group="this" image="Pantheon_Const_00" x="150" y="57"/>
+    </image>
+    <image id="Pantheon Const 02" width="418" height="231" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="12"/>
+        <layer src_x="1324" src_y="1029" x="309" y="71" width="37" height="47"/>
+        <layer src_x="583" src_y="482" x="150" y="55" width="178" height="101"/>
+        <layer src_y="1304" x="178" y="53" width="139" height="55"/>
+    </image>
+    <image id="Pantheon Const 03" width="418" height="231" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="12"/>
+        <layer src_x="1324" src_y="1029" x="309" y="71" width="37" height="47"/>
+        <layer src_x="583" src_y="482" x="150" y="55" width="178" height="101"/>
+        <layer src_x="418" src_y="831" x="169" y="27" width="152" height="98"/>
+    </image>
+    <image id="Pantheon Const 04" width="418" height="231" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="12"/>
+        <layer src_x="1324" src_y="1029" x="309" y="71" width="37" height="47"/>
+        <layer src_x="583" src_y="482" x="150" y="55" width="178" height="101"/>
+        <layer src_x="583" src_y="890" x="172" y="14" width="148" height="127"/>
+    </image>
+    <image id="Pantheon Const 05" width="418" height="231" isometric="true">
+        <layer group="this" image="GT_Cons_Base_r" y="12"/>
+        <layer src_x="1324" src_y="1029" x="309" y="71" width="37" height="47"/>
+        <layer src_x="418" src_y="231" x="150" y="14" width="178" height="142"/>
+    </image>
+    <image id="Pantheon Off" width="418" height="231" isometric="true">
+        <layer src_y="231" width="418" height="231"/>
+        <layer src_x="418" src_y="231" x="150" y="14" width="178" height="142"/>
+        <layer src_x="418" src_y="717" x="201" y="79" width="146" height="114"/>
+    </image>
+    <image id="Pantheon On" width="418" height="231" isometric="true">
+        <layer group="this" image="Pantheon Off"/>
+        <layer src_x="1105" src_y="1167" x="138" y="120" width="62" height="50"/>
+        <layer src_x="706" src_y="1301" x="138" y="120" width="55" height="44"/>
+    </image>
+    <image id="Pantheon_Temple_Complex_Module_01" width="118" height="123">
+        <layer src_x="418" src_y="1199" width="118" height="123"/>
+        <layer src_x="1046" src_y="1269" x="30" y="57" width="22" height="33"/>
+        <layer src_x="1046" src_y="1269" x="71" y="77" width="22" height="33"/>
+    </image>
+    <image id="Pantheon_Temple_Complex_Module_02" width="118" height="123">
+        <layer src_x="418" src_y="1199" width="118" height="123"/>
+        <layer src_x="1046" src_y="1236" x="30" y="57" width="22" height="33"/>
+        <layer src_x="1046" src_y="1236" x="71" y="77" width="22" height="33"/>
+    </image>
+    <image id="Pantheon_Temple_Complex_Module_03" width="118" height="123">
+        <layer src_x="418" src_y="1199" width="118" height="123"/>
+        <layer src_x="980" src_y="1248" x="30" y="57" width="22" height="33"/>
+        <layer src_x="980" src_y="1248" x="71" y="77" width="22" height="33"/>
+    </image>
+    <image id="Pantheon Module" width="418" height="231" isometric="true">
+        <layer group="this" image="Pantheon Off"/>
+        <animation speed="5" x="105" y="53" reversible="true">
+            <frame group="this" image="Pantheon_Temple_Complex_Module_01"/>
+            <frame group="this" image="Pantheon_Temple_Complex_Module_02"/>
+            <frame group="this" image="Pantheon_Temple_Complex_Module_03"/>
+        </animation>
+    </image>
+    <image id="Pantheon_Temple_Complex_Module2_01" width="145" height="72">
+        <layer src_x="1047" src_y="777" width="145" height="72"/>
+        <layer src_x="1046" src_y="1269" x="64" y="17" width="22" height="33"/>
+    </image>
+    <image id="Pantheon_Temple_Complex_Module2_02" width="145" height="72">
+        <layer src_x="1047" src_y="777" width="145" height="72"/>
+        <layer src_x="1046" src_y="1236" x="64" y="17" width="22" height="33"/>
+    </image>
+    <image id="Pantheon_Temple_Complex_Module2_03" width="145" height="72">
+        <layer src_x="1047" src_y="777" width="145" height="72"/>
+        <layer src_x="980" src_y="1248" x="64" y="17" width="22" height="33"/>
+    </image>
+    <image id="Pantheon Module2" width="418" height="231" isometric="true">
+        <layer group="this" image="Pantheon Off"/>
+        <animation speed="5" x="86" y="104" reversible="true">
+            <frame group="this" image="Pantheon_Temple_Complex_Module2_01"/>
+            <frame group="this" image="Pantheon_Temple_Complex_Module2_02"/>
+            <frame group="this" image="Pantheon_Temple_Complex_Module2_03"/>
+        </animation>
+    </image>
+    <image id="Venus_LT_0" isometric="true">
+        <layer group="this" image="const_base_3x3"/>
+        <layer src_x="939" src_y="583" width="178" height="99"/>
+    </image>
+    <image id="Venus_LT_25" width="178" height="142">
+        <layer group="75" image="1" part="footprint"/>
+        <layer src_x="761" src_y="682" y="34" width="167" height="95"/>
+    </image>
+    <image id="Venus_LT_50" width="178" height="142">
+        <layer group="75" image="1" part="footprint"/>
+        <layer src_x="583" src_y="781" y="20" width="167" height="109"/>
+    </image>
+    <image id="Venus_LT_75" width="178" height="142">
+        <layer group="75" image="1" part="footprint"/>
+        <layer src_x="774" src_y="231" width="167" height="129"/>
+    </image>
+    <image id="Venus Complex Const 01" width="418" height="219" isometric="true">
+        <layer src_y="924" width="418" height="219"/>
+        <layer group="this" image="Venus_LT_0" x="90" y="45"/>
+    </image>
+    <image id="Venus Complex Const 02" width="418" height="219" isometric="true">
+        <layer src_y="924" width="418" height="219"/>
+        <layer src_x="1162" src_y="1029" x="172" y="28" width="81" height="57"/>
+        <layer group="this" image="Venus_LT_25" x="90" y="2"/>
+    </image>
+    <image id="Venus Complex Const 03" width="418" height="219" isometric="true">
+        <layer src_y="924" width="418" height="219"/>
+        <layer src_x="1162" src_y="1029" x="172" y="28" width="81" height="57"/>
+        <layer group="this" image="Venus_LT_50" x="90" y="2"/>
+    </image>
+    <image id="Venus Complex Const 04" width="418" height="219" isometric="true">
+        <layer src_y="924" width="418" height="219"/>
+        <layer src_x="1243" src_y="1029" x="172" y="28" width="81" height="56"/>
+        <layer group="this" image="Venus_LT_75" x="90" y="2"/>
+    </image>
+    <image id="Venus Complex Const 05" width="418" height="219" isometric="true">
+        <layer src_y="924" width="418" height="219"/>
+        <layer src_x="1243" src_y="1029" x="172" y="28" width="81" height="56"/>
+        <layer group="75" image="1" x="90" y="2"/>
+    </image>
+    <image id="Venus Complex Off" width="418" height="231" isometric="true">
+        <layer src_y="462" width="418" height="231"/>
+        <layer group="75" image="1" x="90" y="14"/>
+        <layer src_x="418" src_y="717" x="71" y="79" width="146" height="114" invert="horizontal"/>
+    </image>
+    <image id="Venus Complex On" width="418" height="231" isometric="true">
+        <layer group="this" image="Venus Complex Off"/>
+        <layer src_x="418" src_y="1322" x="198" y="121" width="76" height="46"/>
+    </image>
+    <image id="Venus Complex Module" width="418" height="231" isometric="true">
+        <layer group="this" image="Venus Complex Off"/>
+        <layer src_x="928" src_y="682" x="185" y="92" width="157" height="94"/>
+        <animation speed="8" x="225" y="114">
+            <frame group="105"/>
+            <frame group="105" image="1"/>
+            <frame group="105" image="10"/>
+            <frame group="105" image="11"/>
+            <frame group="105" image="19"/>
+            <frame group="105" image="20"/>
+            <frame group="105" image="28"/>
+            <frame group="105" image="29"/>
+            <frame group="105" image="37"/>
+            <frame group="105" image="38"/>
+            <frame group="105" image="46"/>
+            <frame group="105" image="47"/>
+            <frame group="105" image="55"/>
+            <frame group="105" image="64"/>
+            <frame group="105" image="65"/>
+        </animation>
+    </image>
+    <image id="Venus_Temple_Complex_Module2_01" width="150" height="95">
+        <layer src_x="418" src_y="1009" width="150" height="95"/>
+        <layer src_x="761" src_y="1338" x="54" y="22" width="21" height="32"/>
+    </image>
+    <image id="Venus_Temple_Complex_Module2_02" width="150" height="95">
+        <layer src_x="418" src_y="1009" width="150" height="95"/>
+        <layer src_x="782" src_y="1338" x="54" y="22" width="21" height="32"/>
+    </image>
+    <image id="Venus_Temple_Complex_Module2_03" width="150" height="95">
+        <layer src_x="418" src_y="1009" width="150" height="95"/>
+        <layer src_x="731" src_y="954" x="54" y="22" width="21" height="32"/>
+    </image>
+    <image id="Venus Complex Module2" width="418" height="231" isometric="true">
+        <layer group="this" image="Venus Complex Off"/>
+        <animation speed="6" x="184" y="92" reversible="true">
+            <frame group="this" image="Venus_Temple_Complex_Module2_01"/>
+            <frame group="this" image="Venus_Temple_Complex_Module2_02"/>
+            <frame group="this" image="Venus_Temple_Complex_Module2_03"/>
+        </animation>
+    </image>
+    <image id="Oracle_Construction_01" width="118" height="69" isometric="true">
+        <layer src_x="1008" src_y="956" y="9" width="60" height="118" rotate="90"/>
+        <layer src_x="890" src_y="1098" width="118" height="69"/>
+    </image>
+    <image id="Oracle_Construction_02" width="118" height="77" isometric="true">
+        <layer group="76" image="0" y="-10" part="footprint"/>
+        <layer src_x="1122" src_y="872" width="118" height="77"/>
+    </image>
+    <image id="Lararium 01" isometric="true">
+        <layer src_x="1008" src_y="1317" width="58" height="53"/>
+    </image>
+    <image id="Nymphaeum_Construction_02" isometric="true">
+        <layer src_x="1119" src_y="231" width="178" height="113"/>
+    </image>
+    <image id="Nymphaeum OFF" isometric="true">
+        <layer src_x="178" src_y="1143" width="178" height="158"/>
+    </image>
+    <image id="Nymphaeum ON" width="178" height="158" isometric="true">
+        <layer group="this" image="Nymphaeum OFF"/>
+        <animation speed="5" x="84" y="96">
+            <frame src_x="1361" src_y="1029" width="10" height="31"/>
+            <frame src_x="751" src_y="986" width="10" height="31"/>
+            <frame src_x="741" src_y="986" width="10" height="31"/>
+            <frame src_x="1231" src_y="1327" width="10" height="31"/>
+            <frame src_x="731" src_y="986" width="10" height="31"/>
+            <frame src_x="569" src_y="1322" width="10" height="31"/>
+        </animation>
+    </image>
+    <image id="Mausoleum L Cons" isometric="true">
+        <layer group="this" image="const_base_3x3"/>
+        <layer src_x="939" src_y="482" width="178" height="99"/>
+    </image>
+    <image id="Mausoleum_Large_Construction_02" isometric="true">
+        <layer src_x="418" src_y="373" width="178" height="109"/>
+    </image>
+    <image id="Mausoleum_Large_Alt_Construction_02" isometric="true">
+        <layer src_x="774" src_y="373" width="178" height="109"/>
+    </image>
+    <image id="Mausoleum_Large_Alt_Construction_02_R" isometric="true">
+        <layer src_x="596" src_y="373" width="178" height="109"/>
+    </image>
+    <image id="Mausoleum L" isometric="true">
+        <layer src_x="596" src_y="231" width="178" height="140"/>
+    </image>
+    <image id="Mausoleum_L_Alt" isometric="true">
+        <layer src_y="1143" width="178" height="161"/>
+    </image>
+    <image id="Mausoleum_L_Alt_R" isometric="true">
+        <layer src_y="1143" width="178" height="161"/>
+        <layer src_x="890" src_y="1167" x="31" y="87" width="65" height="117" rotate="90"/>
+    </image>
+    <image id="Mausoleum S Cons" width="118" height="69" isometric="true">
+        <layer src_x="1008" src_y="956" y="9" width="60" height="118" rotate="90"/>
+        <layer src_x="1297" src_y="231" width="69" height="118" rotate="90"/>
+    </image>
+    <image id="Mausoleum_Small_Construction_02" width="118" height="71" isometric="true">
+        <layer src_x="1008" src_y="956" y="11" width="60" height="118" rotate="90"/>
+        <layer src_x="890" src_y="956" width="118" height="71"/>
+    </image>
+    <image id="Mausoleum_Small_R_Construction_02" width="118" height="71" isometric="true">
+        <layer src_x="1008" src_y="956" y="11" width="60" height="118" rotate="90"/>
+        <layer src_x="890" src_y="1027" width="118" height="71"/>
+    </image>
+    <image id="Mausoleum S" isometric="true">
+        <layer src_x="1254" src_y="129" width="118" height="97"/>
+    </image>
+    <image id="Mausoleum S R" isometric="true">
+        <layer src_x="1254" src_y="129" width="118" height="97" part="footprint"/>
+        <layer src_x="761" src_y="968" width="118" height="97"/>
+    </image>
+    <image id="Altar_Ceres" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1224" src_y="1086" x="9" width="81" height="36" rotate="90"/>
+    </image>
+    <image id="Altar_Ceres_R" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1008" src_y="1074" x="11" width="41" height="81"/>
+    </image>
+    <image id="Altar_Mars" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1008" src_y="1236" x="9" width="38" height="81"/>
+    </image>
+    <image id="Altar_Mars_R" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1329" src_y="777" x="10" width="42" height="81"/>
+    </image>
+    <image id="Altar_Mercury" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1105" src_y="1131" x="10" width="81" height="36" rotate="90"/>
+    </image>
+    <image id="Altar_Mercury_R" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="955" src_y="1167" x="12" width="41" height="81"/>
+    </image>
+    <image id="Altar_Neptune" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1143" src_y="1086" x="10" width="81" height="36" rotate="90"/>
+    </image>
+    <image id="Altar_Neptune_R" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1008" src_y="1155" x="13" width="40" height="81"/>
+    </image>
+    <image id="Altar_Venus" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="1068" src_y="1131" x="10" width="37" height="81"/>
+    </image>
+    <image id="Altar_Venus_R" width="58" height="89" isometric="true">
+        <layer src_x="356" src_y="1264" y="56" width="58" height="33"/>
+        <layer src_x="536" src_y="1199" x="12" width="41" height="81"/>
+    </image>
+</assetlist>
