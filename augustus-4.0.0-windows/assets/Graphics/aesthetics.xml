@@ -1,0 +1,668 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Aesthetics">
+    <image id="ornamental pine" isometric="true">
+        <layer group="59" image="0"/>
+        <layer src_x="801" src_y="258" x="29" y="38" width="19" height="15"/>
+    </image>
+    <image id="ornamental fir" width="58" height="62" isometric="true">
+        <layer group="59" image="2" y="30"/>
+        <layer src_x="118" src_y="786" width="58" height="62"/>
+    </image>
+    <image id="ornamental oak" width="58" height="55" isometric="true">
+        <layer group="59" image="2" y="23"/>
+        <layer src_x="221" src_y="497" width="58" height="55"/>
+    </image>
+    <image id="ornamental elm" width="58" height="55" isometric="true">
+        <layer group="59" image="2" y="23"/>
+        <layer src_x="221" src_y="442" width="58" height="55"/>
+    </image>
+    <image id="ornamental fig" width="58" height="55" isometric="true">
+        <layer group="59" image="2" y="23"/>
+        <layer src_x="221" src_y="332" width="58" height="55"/>
+    </image>
+    <image id="ornamental plum" width="58" height="55" isometric="true">
+        <layer group="59" image="2" y="23"/>
+        <layer src_x="221" src_y="387" width="58" height="55"/>
+    </image>
+    <image id="ornamental palm" width="58" height="54" isometric="true">
+        <layer group="59" image="2" y="22"/>
+        <layer src_x="221" src_y="728" width="58" height="54"/>
+    </image>
+    <image id="ornamental date" width="58" height="54" isometric="true">
+        <layer group="59" image="2" y="22"/>
+        <layer src_x="221" src_y="552" width="58" height="54"/>
+    </image>
+    <image id="garden path r" width="58" height="32" isometric="true">
+        <layer group="59" image="3" invert="horizontal"/>
+        <layer src_x="176" src_y="642" width="32" height="58" rotate="90"/>
+    </image>
+    <image id="path orn pine" width="58" height="71" isometric="true">
+        <layer group="59" image="3" y="39"/>
+        <layer src_x="279" src_y="202" width="58" height="71"/>
+    </image>
+    <image id="path orn fir" width="58" height="72" isometric="true">
+        <layer group="59" image="3" y="40"/>
+        <layer src_x="118" src_y="714" width="58" height="72"/>
+    </image>
+    <image id="path orn oak" width="58" height="60" isometric="true">
+        <layer group="59" image="3" y="28"/>
+        <layer src_x="743" src_y="202" width="58" height="60"/>
+    </image>
+    <image id="path orn elm" width="58" height="60" isometric="true">
+        <layer group="59" image="3" y="28"/>
+        <layer src_x="685" src_y="202" width="58" height="60"/>
+    </image>
+    <image id="path orn fig" width="58" height="53" isometric="true">
+        <layer group="59" image="3" y="21"/>
+        <layer src_x="446" src_y="273" width="58" height="53"/>
+    </image>
+    <image id="path orn plum" width="58" height="53" isometric="true">
+        <layer group="59" image="3" y="21"/>
+        <layer src_x="504" src_y="273" width="58" height="53"/>
+    </image>
+    <image id="path orn palm" width="58" height="65" isometric="true">
+        <layer group="59" image="3" y="33"/>
+        <layer src_x="453" src_y="202" width="58" height="65"/>
+    </image>
+    <image id="path orn date" width="58" height="60" isometric="true">
+        <layer group="59" image="3" y="28"/>
+        <layer src_x="221" src_y="273" width="58" height="59"/>
+    </image>
+    <image id="pavilion blue" isometric="true">
+        <layer src_x="562" src_y="685" width="58" height="41"/>
+    </image>
+    <image id="pavilion red" isometric="true">
+        <layer group="this" image="pavilion blue"/>
+        <layer src_x="828" src_y="550" x="18" width="22" height="19"/>
+    </image>
+    <image id="pavilion orange" isometric="true">
+        <layer group="this" image="pavilion blue"/>
+        <layer src_x="620" src_y="827" x="18" width="22" height="19"/>
+    </image>
+    <image id="pavilion yellow" isometric="true">
+        <layer group="this" image="pavilion blue"/>
+        <layer src_x="620" src_y="808" x="18" width="22" height="19"/>
+    </image>
+    <image id="pavilion green" isometric="true">
+        <layer group="this" image="pavilion blue"/>
+        <layer src_x="828" src_y="273" x="18" width="22" height="19"/>
+    </image>
+    <image id="pavilion purple" isometric="true">
+        <layer group="this" image="pavilion blue"/>
+        <layer src_x="828" src_y="569" x="18" width="22" height="19"/>
+    </image>
+    <image id="s pond north off" isometric="true">
+        <layer src_y="333" width="118" height="64"/>
+    </image>
+    <image id="s pond north on" isometric="true">
+        <layer group="this" image="s pond north off"/>
+        <layer src_x="780" src_y="634" x="27" y="16" width="32" height="56" rotate="90"/>
+        <animation speed="8" x="27" y="16">
+            <frame src_x="780" src_y="634" width="32" height="56" rotate="90"/>
+            <frame src_x="684" src_y="634" width="32" height="56" rotate="90"/>
+            <frame src_x="812" src_y="634" width="32" height="56" rotate="90"/>
+            <frame src_x="748" src_y="634" width="32" height="56" rotate="90"/>
+            <frame src_x="652" src_y="692" width="32" height="56" rotate="90"/>
+            <frame src_x="744" src_y="690" width="32" height="56" rotate="90"/>
+            <frame src_x="652" src_y="748" width="32" height="56" rotate="90"/>
+            <frame src_x="716" src_y="634" width="32" height="56" rotate="90"/>
+        </animation>
+    </image>
+    <image id="s pond south off" isometric="true">
+        <layer src_y="124" width="118" height="73"/>
+    </image>
+    <image id="s pond south on" isometric="true">
+        <layer group="this" image="s pond south off"/>
+        <layer src_x="279" src_y="334" x="31" y="25" width="32" height="56" rotate="90"/>
+        <animation speed="12" x="31" y="25">
+            <frame src_x="279" src_y="334" width="32" height="56" rotate="90"/>
+            <frame src_x="279" src_y="446" width="32" height="56" rotate="90"/>
+            <frame src_x="279" src_y="558" width="32" height="56" rotate="90"/>
+            <frame src_x="279" src_y="502" width="32" height="56" rotate="90"/>
+            <frame src_x="279" src_y="390" width="32" height="56" rotate="90"/>
+            <frame src_x="776" src_y="690" width="32" height="56" rotate="90"/>
+            <frame src_x="804" src_y="746" width="32" height="56" rotate="90"/>
+            <frame src_x="808" src_y="690" width="32" height="56" rotate="90"/>
+        </animation>
+    </image>
+    <image id="l pond north off" isometric="true">
+        <layer src_x="534" width="178" height="96"/>
+    </image>
+    <image id="l pond north on" isometric="true">
+        <layer group="this" image="l pond north off"/>
+        <layer src_x="118" src_y="124" x="42" width="96" height="78"/>
+        <animation speed="10" x="42">
+            <frame src_x="118" src_y="124" width="96" height="78"/>
+            <frame src_y="767" width="96" height="78"/>
+            <frame src_y="689" width="96" height="78"/>
+            <frame src_y="611" width="96" height="78"/>
+            <frame src_x="406" src_y="124" width="96" height="78"/>
+            <frame src_x="310" src_y="124" width="96" height="78"/>
+            <frame src_x="214" src_y="124" width="96" height="78"/>
+            <frame src_y="533" width="96" height="78"/>
+        </animation>
+    </image>
+    <image id="l pond south off" isometric="true">
+        <layer src_x="356" width="178" height="103"/>
+    </image>
+    <image id="l pond south on" isometric="true">
+        <layer group="this" image="l pond south off"/>
+        <layer src_x="620" src_y="124" x="33" y="29" width="103" height="55"/>
+        <animation speed="10" x="33" y="28">
+            <frame src_x="620" src_y="124" width="103" height="55"/>
+            <frame src_x="118" src_y="257" width="103" height="55"/>
+            <frame src_x="118" src_y="587" width="103" height="55"/>
+            <frame src_x="118" src_y="532" width="103" height="55"/>
+            <frame src_x="118" src_y="477" width="103" height="55"/>
+            <frame src_x="118" src_y="422" width="103" height="55"/>
+            <frame src_x="118" src_y="367" width="103" height="55"/>
+            <frame src_x="118" src_y="312" width="103" height="55"/>
+            <frame src_x="118" src_y="202" width="103" height="55"/>
+            <frame src_x="723" src_y="124" width="103" height="55"/>
+            <frame src_x="118" src_y="202" width="103" height="55"/>
+            <frame src_x="118" src_y="312" width="103" height="55"/>
+            <frame src_x="118" src_y="367" width="103" height="55"/>
+            <frame src_x="118" src_y="422" width="103" height="55"/>
+            <frame src_x="118" src_y="477" width="103" height="55"/>
+            <frame src_x="118" src_y="532" width="103" height="55"/>
+            <frame src_x="118" src_y="587" width="103" height="55"/>
+            <frame src_x="118" src_y="257" width="103" height="55"/>
+            <frame src_x="620" src_y="124" width="103" height="55"/>
+        </animation>
+    </image>
+    <image id="sml statue 2" isometric="true">
+        <layer src_x="620" src_y="273" width="58" height="48"/>
+    </image>
+    <image id="sml statue 3" isometric="true">
+        <layer src_x="678" src_y="273" width="58" height="48"/>
+    </image>
+    <image id="obelisk" width="118" height="128" isometric="true">
+        <layer src_y="397" y="66" width="118" height="62"/>
+        <layer group="213" image="3" x="52"/>
+        <layer src_x="828" src_y="292" x="57" y="63" width="16" height="21"/>
+    </image>
+    <image id="path pine r" width="58" height="71" isometric="true">
+        <layer group="59" image="3" y="39" invert="horizontal"/>
+        <layer src_x="337" src_y="202" width="58" height="71"/>
+    </image>
+    <image id="path fir r" width="58" height="72" isometric="true">
+        <layer group="this" image="garden path r" y="40"/>
+        <layer src_x="118" src_y="642" width="58" height="72"/>
+    </image>
+    <image id="path oak r" width="58" height="60" isometric="true">
+        <layer group="59" image="3" y="28" invert="horizontal"/>
+        <layer src_x="569" src_y="202" width="58" height="60"/>
+    </image>
+    <image id="path elm r" width="58" height="60" isometric="true">
+        <layer group="59" image="3" y="28" invert="horizontal"/>
+        <layer src_x="511" src_y="202" width="58" height="60"/>
+    </image>
+    <image id="path fig r" width="58" height="53" isometric="true">
+        <layer group="59" image="3" y="21" invert="horizontal"/>
+        <layer src_x="330" src_y="273" width="58" height="53"/>
+    </image>
+    <image id="path plum r" width="58" height="53" isometric="true">
+        <layer group="59" image="3" y="21" invert="horizontal"/>
+        <layer src_x="388" src_y="273" width="58" height="53"/>
+    </image>
+    <image id="path palm r" width="58" height="65" isometric="true">
+        <layer group="59" image="3" y="32" invert="horizontal"/>
+        <layer src_x="395" src_y="202" width="58" height="65"/>
+    </image>
+    <image id="path date r" width="58" height="60" isometric="true">
+        <layer group="59" image="3" y="28" invert="horizontal"/>
+        <layer src_x="627" src_y="202" width="58" height="60"/>
+    </image>
+    <image id="legio statue" isometric="true">
+        <layer src_x="712" width="118" height="80"/>
+    </image>
+    <image id="legio statue R" width="118" height="80" isometric="true">
+        <layer group="this" image="legio statue" part="footprint"/>
+        <layer src_x="502" src_y="124" width="118" height="49"/>
+    </image>
+    <image id="sml statue 2 R" isometric="true">
+        <layer src_x="330" src_y="574" width="58" height="48"/>
+    </image>
+    <image id="sml statue 3 R" isometric="true">
+        <layer group="this" image="sml statue 2 R" part="footprint"/>
+        <layer src_x="330" src_y="814" width="58" height="34"/>
+    </image>
+    <image id="sml col B" width="58" height="83" isometric="true">
+        <layer src_x="221" src_y="202" y="12" width="58" height="71"/>
+        <layer src_x="828" src_y="588" x="21" width="17" height="13"/>
+        <layer src_x="845" src_y="690" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col B R" width="58" height="83" isometric="true">
+        <layer src_x="221" src_y="202" y="12" width="58" height="71"/>
+        <layer src_x="828" src_y="313" x="14" y="61" width="22" height="12"/>
+        <layer src_x="820" src_y="258" x="20" width="17" height="13"/>
+        <layer src_x="845" src_y="690" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col G" isometric="true">
+        <layer group="this" image="sml col B"/>
+        <layer src_x="844" src_y="634" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col G R" isometric="true">
+        <layer group="this" image="sml col B R"/>
+        <layer src_x="844" src_y="634" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col O" isometric="true">
+        <layer group="this" image="sml col B"/>
+        <layer src_x="272" src_y="782" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col O R" isometric="true">
+        <layer group="this" image="sml col B R"/>
+        <layer src_x="272" src_y="782" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col R" isometric="true">
+        <layer group="this" image="sml col B"/>
+        <layer src_x="845" src_y="202" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col R R" isometric="true">
+        <layer group="this" image="sml col B R"/>
+        <layer src_x="845" src_y="202" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col Y" isometric="true">
+        <layer group="this" image="sml col B"/>
+        <layer src_x="828" src_y="80" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col Y R" isometric="true">
+        <layer group="this" image="sml col B R"/>
+        <layer src_x="828" src_y="80" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col P" isometric="true">
+        <layer group="this" image="sml col B"/>
+        <layer src_x="840" src_y="690" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="sml col Y P" isometric="true">
+        <layer group="this" image="sml col B R"/>
+        <layer src_x="840" src_y="690" x="27" y="21" width="5" height="37"/>
+    </image>
+    <image id="L Hedge 01" isometric="true">
+        <layer src_x="620" src_y="560" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 02" isometric="true">
+        <layer src_x="562" src_y="560" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 03" isometric="true">
+        <layer src_x="562" src_y="602" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 04" isometric="true">
+        <layer src_x="504" src_y="770" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 05" isometric="true">
+        <layer src_x="504" src_y="728" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 06" isometric="true">
+        <layer src_x="504" src_y="686" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 07" isometric="true">
+        <layer src_x="504" src_y="644" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 08" isometric="true">
+        <layer src_x="504" src_y="602" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 09" isometric="true">
+        <layer src_x="504" src_y="560" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 10" isometric="true">
+        <layer src_x="736" src_y="518" width="58" height="42"/>
+    </image>
+    <image id="L Hedge 11" isometric="true">
+        <layer src_x="678" src_y="518" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 01" isometric="true">
+        <layer src_x="620" src_y="518" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 02" isometric="true">
+        <layer src_x="562" src_y="518" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 03" isometric="true">
+        <layer src_x="504" src_y="518" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 04" isometric="true">
+        <layer src_x="736" src_y="476" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 05" isometric="true">
+        <layer src_x="678" src_y="476" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 06" isometric="true">
+        <layer src_x="504" src_y="476" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 07" isometric="true">
+        <layer src_x="770" src_y="80" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 08" isometric="true">
+        <layer src_x="712" src_y="80" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 09" isometric="true">
+        <layer src_x="562" src_y="476" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 10" isometric="true">
+        <layer src_x="620" src_y="476" width="58" height="42"/>
+    </image>
+    <image id="D Hedge 11" isometric="true">
+        <layer src_x="736" src_y="560" width="58" height="42"/>
+    </image>
+    <image id="L Hedge Gate" width="58" height="56" isometric="true">
+        <layer src_x="794" src_y="273" y="8" width="34" height="45"/>
+        <layer src_x="794" src_y="438" x="15" width="43" height="56"/>
+        <animation speed="1" x="15">
+            <frame src_x="794" src_y="438" width="43" height="56"/>
+        </animation>
+    </image>
+    <image id="L Hedge Gate R" width="58" height="56" isometric="true">
+        <layer src_x="744" src_y="804" x="24" y="8" width="34" height="45"/>
+        <layer src_x="801" src_y="202" width="44" height="56"/>
+        <animation speed="1">
+            <frame src_x="801" src_y="202" width="44" height="56"/>
+        </animation>
+    </image>
+    <image id="D Hedge Gate" width="58" height="56" isometric="true">
+        <layer src_x="778" src_y="804" y="8" width="34" height="45"/>
+        <layer src_x="794" src_y="494" x="15" width="43" height="56"/>
+        <animation speed="1" x="15">
+            <frame src_x="794" src_y="494" width="43" height="56"/>
+        </animation>
+    </image>
+    <image id="D Hedge Gate R" width="58" height="56" isometric="true">
+        <layer src_x="794" src_y="550" x="24" y="8" width="34" height="45"/>
+        <layer src_x="794" src_y="382" width="44" height="56"/>
+        <animation speed="1">
+            <frame src_x="794" src_y="382" width="44" height="56"/>
+        </animation>
+    </image>
+    <image id="Garden Path 01" isometric="true">
+        <layer src_x="620" src_y="692" width="32" height="58" rotate="90"/>
+    </image>
+    <image id="Garden Path 02" isometric="true">
+        <layer src_x="620" src_y="750" width="32" height="58" rotate="90"/>
+    </image>
+    <image id="Garden Path 03" isometric="true">
+        <layer src_x="176" src_y="758" width="32" height="58" rotate="90"/>
+    </image>
+    <image id="Garden Path 04" isometric="true">
+        <layer src_x="176" src_y="700" width="32" height="58" rotate="90"/>
+    </image>
+    <image id="Garden Path 05" isometric="true">
+        <layer src_x="678" src_y="602" width="58" height="32"/>
+    </image>
+    <image id="Garden Path 06" isometric="true">
+        <layer src_x="562" src_y="791" width="58" height="32"/>
+    </image>
+    <image id="Garden Path 07" isometric="true">
+        <layer src_x="562" src_y="759" width="58" height="32"/>
+    </image>
+    <image id="Garden Path 08" isometric="true">
+        <layer src_x="620" src_y="634" width="32" height="58" rotate="90"/>
+    </image>
+    <image id="Garden Path 09" isometric="true">
+        <layer src_x="652" src_y="634" width="32" height="58" rotate="90"/>
+    </image>
+    <image id="Eque Statue" isometric="true">
+        <layer width="178" height="124"/>
+    </image>
+    <image id="Eque Statue R" isometric="true">
+        <layer src_x="178" width="178" height="124"/>
+    </image>
+    <image id="l statue anim" isometric="true">
+        <layer group="61" image="2"/>
+        <animation speed="7" x="69" y="43">
+            <frame src_x="502" src_y="173" width="52" height="22"/>
+            <frame src_x="562" src_y="823" width="52" height="22"/>
+            <frame src_x="736" src_y="602" width="52" height="22"/>
+            <frame src_x="788" src_y="602" width="52" height="22"/>
+            <frame src_x="554" src_y="173" width="52" height="22"/>
+        </animation>
+    </image>
+    <image id="garden path" isometric="true">
+        <layer group="59" image="3"/>
+    </image>
+    <image id="C Garden Wall 01" isometric="true">
+        <layer src_x="446" src_y="660" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 02" isometric="true">
+        <layer src_x="388" src_y="522" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 03" isometric="true">
+        <layer src_x="446" src_y="706" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 04" isometric="true">
+        <layer src_x="388" src_y="430" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 05" isometric="true">
+        <layer src_x="388" src_y="476" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 06" isometric="true">
+        <layer src_x="388" src_y="568" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 07" isometric="true">
+        <layer src_x="388" src_y="614" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 08" isometric="true">
+        <layer src_x="388" src_y="752" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 09" isometric="true">
+        <layer src_x="388" src_y="798" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 10" isometric="true">
+        <layer src_x="446" src_y="430" width="58" height="46"/>
+    </image>
+    <image id="C Garden Wall 11" isometric="true">
+        <layer src_x="504" src_y="430" width="58" height="46"/>
+    </image>
+    <image id="Garden_Gate_A" width="58" height="61" isometric="true">
+        <layer src_x="279" src_y="614" y="17" width="35" height="43"/>
+        <layer src_x="221" src_y="606" x="7" width="51" height="61"/>
+        <animation speed="1" x="7">
+            <frame src_x="221" src_y="606" width="51" height="61"/>
+        </animation>
+    </image>
+    <image id="Garden_Gate_A_R" width="58" height="61" isometric="true">
+        <layer src_x="279" src_y="657" x="23" y="17" width="35" height="43"/>
+        <layer src_x="221" src_y="667" width="51" height="61"/>
+        <animation speed="1">
+            <frame src_x="221" src_y="667" width="51" height="61"/>
+        </animation>
+    </image>
+    <image id="R Garden Wall 01" isometric="true">
+        <layer src_x="736" src_y="273" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 02" isometric="true">
+        <layer src_x="608" src_y="326" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 03" isometric="true">
+        <layer src_x="666" src_y="326" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 04" isometric="true">
+        <layer src_x="446" src_y="796" width="58" height="43"/>
+    </image>
+    <image id="R Garden Wall 05" isometric="true">
+        <layer src_x="724" src_y="326" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 06" isometric="true">
+        <layer src_x="782" src_y="326" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 07" isometric="true">
+        <layer src_x="330" src_y="382" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 08" isometric="true">
+        <layer src_x="330" src_y="430" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 09" isometric="true">
+        <layer src_x="678" src_y="382" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 10" isometric="true">
+        <layer src_x="562" src_y="273" width="58" height="48"/>
+    </image>
+    <image id="R Garden Wall 11" isometric="true">
+        <layer src_x="550" src_y="326" width="58" height="48"/>
+    </image>
+    <image id="Garden_Gate_B" width="58" height="56" isometric="true">
+        <layer src_x="279" src_y="614" y="12" width="35" height="43"/>
+        <layer src_x="330" src_y="326" x="6" width="52" height="56"/>
+        <animation speed="1" x="6">
+            <frame src_x="330" src_y="326" width="52" height="56"/>
+        </animation>
+    </image>
+    <image id="Garden_Gate_B_R" width="58" height="56" isometric="true">
+        <layer src_x="279" src_y="657" x="23" y="12" width="35" height="43"/>
+        <layer src_x="382" src_y="326" width="52" height="56"/>
+        <animation speed="1">
+            <frame src_x="382" src_y="326" width="52" height="56"/>
+        </animation>
+    </image>
+    <image id="Garden_Wall_C_01" isometric="true">
+        <layer src_x="504" src_y="382" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_02" isometric="true">
+        <layer src_x="446" src_y="382" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_03" isometric="true">
+        <layer src_x="388" src_y="382" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_04" isometric="true">
+        <layer src_x="330" src_y="766" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_05" isometric="true">
+        <layer src_x="330" src_y="718" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_06" isometric="true">
+        <layer src_x="330" src_y="622" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_07" isometric="true">
+        <layer src_x="434" src_y="326" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_08" isometric="true">
+        <layer src_x="620" src_y="382" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_09" isometric="true">
+        <layer src_x="330" src_y="670" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_10" isometric="true">
+        <layer src_x="330" src_y="526" width="58" height="48"/>
+    </image>
+    <image id="Garden_Wall_C_11" isometric="true">
+        <layer src_x="330" src_y="478" width="58" height="48"/>
+    </image>
+    <image id="Garden_Gate_C" width="58" height="61" isometric="true">
+        <layer src_x="812" src_y="804" y="17" width="35" height="44"/>
+        <layer src_x="279" src_y="273" x="7" width="51" height="61"/>
+        <animation speed="1" x="7">
+            <frame src_x="279" src_y="273" width="51" height="61"/>
+        </animation>
+    </image>
+    <image id="Garden_Gate_C_R" width="58" height="61" isometric="true">
+        <layer src_x="279" src_y="700" x="23" y="17" width="35" height="43"/>
+        <layer src_x="221" src_y="782" width="51" height="61"/>
+        <animation speed="1">
+            <frame src_x="221" src_y="782" width="51" height="61"/>
+        </animation>
+    </image>
+    <image id="V Small Statue R" width="58" height="53" isometric="true">
+        <layer group="61" image="0" part="footprint"/>
+        <layer src_x="446" src_y="752" width="58" height="44"/>
+    </image>
+    <image id="G Colonnade 01" isometric="true">
+        <layer src_x="446" src_y="614" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 02" isometric="true">
+        <layer src_x="446" src_y="568" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 03" isometric="true">
+        <layer src_x="446" src_y="522" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 04" isometric="true">
+        <layer src_x="446" src_y="476" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 05" isometric="true">
+        <layer src_x="736" src_y="430" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 06" isometric="true">
+        <layer src_x="678" src_y="430" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 07" isometric="true">
+        <layer src_x="620" src_y="430" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 08" isometric="true">
+        <layer src_x="562" src_y="430" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 09" isometric="true">
+        <layer src_x="388" src_y="706" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 10" isometric="true">
+        <layer src_x="388" src_y="660" width="58" height="46"/>
+    </image>
+    <image id="G Colonnade 11" isometric="true">
+        <layer src_x="736" src_y="382" width="58" height="46"/>
+    </image>
+    <image id="V Small Statue" isometric="true">
+        <layer group="61" image="0"/>
+    </image>
+    <image id="Plazas" isometric="true">
+        <layer group="58"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="714" src_y="690" width="30" height="58" rotate="90"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="684" src_y="748" width="30" height="58" rotate="90"/>
+    </image>
+    <image isometric="true">
+        <layer group="58" image="1"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="684" src_y="690" width="30" height="58" rotate="90"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="774" src_y="746" width="30" height="58" rotate="90"/>
+    </image>
+    <image isometric="true">
+        <layer group="58" image="2"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="744" src_y="746" width="30" height="58" rotate="90"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="714" src_y="748" width="30" height="58" rotate="90"/>
+    </image>
+    <image id="Med_Statue_R" width="118" height="79" isometric="true">
+        <layer group="61 " image="1" invert="horizontal" part="footprint"/>
+        <layer src_y="459" x="10" width="103" height="74"/>
+    </image>
+    <image id="Gladiator_Statue" isometric="true">
+        <layer src_x="562" src_y="382" width="58" height="48"/>
+    </image>
+    <image id="Gladiator_Statue_R" isometric="true">
+        <layer src_x="492" src_y="326" width="58" height="48"/>
+    </image>
+    <image id="Garden_Alt_01" isometric="true">
+        <layer src_x="562" src_y="726" width="58" height="33"/>
+    </image>
+    <image id="Garden_Alt_02" width="58" height="32" isometric="true">
+        <layer group="59" image="3"/>
+        <layer src_x="684" src_y="806" width="54" height="29"/>
+    </image>
+    <image id="Overgrown_Garden_01" isometric="true">
+        <layer src_x="504" src_y="812" width="58" height="38"/>
+    </image>
+    <image id="Overgrown_Garden_02" isometric="true">
+        <layer src_x="620" src_y="602" width="58" height="32"/>
+    </image>
+    <image id="Overgrown_Garden_03" isometric="true">
+        <layer src_x="562" src_y="644" width="58" height="41"/>
+    </image>
+    <image id="Overgrown_Garden_04" isometric="true">
+        <layer src_x="678" src_y="560" width="58" height="42"/>
+    </image>
+    <image id="Overgrown_Garden_M_01" isometric="true">
+        <layer src_y="197" width="118" height="68"/>
+    </image>
+    <image id="Overgrown_Garden_M_02" isometric="true">
+        <layer src_y="265" width="118" height="68"/>
+    </image>
+</assetlist>
