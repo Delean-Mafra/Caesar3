@@ -1,0 +1,30 @@
+{
+    "versao_manifesto": 4,
+    "arquivo_original": "video.avi",
+    "caminho_relativo_original": "video.avi",
+    "tamanho_original_bytes": 62316544,
+    "sha256_original": "8ab270bee63717c44d890717d7d3e0e69c988788ff69395a55f28205ad38b949",
+    "tamanho_maximo_parte_bytes": 25165824,
+    "tamanho_minimo_fragmentacao_bytes": 26214400,
+    "quantidade_partes_esperada": 3,
+    "partes": [
+        {
+            "numero": 1,
+            "arquivo": "video.avi.part0001",
+            "tamanho_bytes": 25165824,
+            "sha256": "85990ae87d3f6130d26125dcd64e65a0893bc39575ef504e1a2823a82b9d6c94"
+        },
+        {
+            "numero": 2,
+            "arquivo": "video.avi.part0002",
+            "tamanho_bytes": 25165824,
+            "sha256": "1e7c561acad47246fa65981f66285d5f2b89711f2cde300c7a4d0e22fdc83eef"
+        },
+        {
+            "numero": 3,
+            "arquivo": "video.avi.part0003",
+            "tamanho_bytes": 11984896,
+            "sha256": "d2d8831597df67da2a68252973f270cd266b7b771d6968d4d94241064836da04"
+        }
+    ]
+}
