@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Logistics">
+    <image id="roadblock" isometric="true">
+        <layer src_x="321" src_y="630" width="58" height="30"/>
+    </image>
+    <image id="roadblock_blue" isometric="true">
+        <layer group="this" image="roadblock"/>
+        <layer src_x="654" src_y="251" x="10" y="4" width="38" height="20"/>
+    </image>
+    <image id="roadblock_purple" isometric="true">
+        <layer group="this" image="roadblock"/>
+        <layer src_x="654" src_y="123" x="10" y="4" width="38" height="20"/>
+    </image>
+    <image id="roadblock_green" isometric="true">
+        <layer group="this" image="roadblock"/>
+        <layer src_x="616" src_y="251" x="10" y="4" width="38" height="20"/>
+    </image>
+    <image id="roadblock_yellow" isometric="true">
+        <layer group="this" image="roadblock"/>
+        <layer src_x="118" src_y="696" x="10" y="4" width="38" height="20"/>
+    </image>
+    <image id="roadblock_orange" isometric="true">
+        <layer group="this" image="roadblock"/>
+        <layer src_x="675" src_y="344" x="10" y="4" width="38" height="20"/>
+    </image>
+    <image id="Architect 01">
+        <layer src_x="459" src_y="509" width="39" height="39"/>
+    </image>
+    <image id="Architect 02">
+        <layer src_x="459" src_y="548" width="39" height="39"/>
+    </image>
+    <image id="Architect 03">
+        <layer src_x="459" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Architect 04">
+        <layer src_x="459" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Architect 05">
+        <layer src_x="459" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Architect 06">
+        <layer src_x="498" src_y="509" width="39" height="39"/>
+    </image>
+    <image id="Architect 07">
+        <layer src_x="498" src_y="548" width="39" height="39"/>
+    </image>
+    <image id="Architect 08">
+        <layer src_x="498" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Architect 09">
+        <layer src_x="498" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Architect 10">
+        <layer src_x="498" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Architect 11">
+        <layer src_x="537" src_y="509" width="39" height="39"/>
+    </image>
+    <image id="Architect 12">
+        <layer src_x="654" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Architects_Guild_On_01" width="75" height="48">
+        <layer src_x="596" src_y="494" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 01" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_02" width="75" height="48">
+        <layer src_x="713" src_y="344" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 02" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_03" width="75" height="48">
+        <layer src_x="607" src_y="494" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 03" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_04" width="75" height="48">
+        <layer src_x="585" src_y="494" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 04" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_05" width="75" height="48">
+        <layer src_x="310" src_y="673" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 05" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_06" width="75" height="48">
+        <layer src_x="310" src_y="687" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 06" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_07" width="75" height="48">
+        <layer src_x="585" src_y="494" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 07" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_08" width="75" height="48">
+        <layer src_x="713" src_y="344" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 08" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_09" width="75" height="48">
+        <layer src_x="596" src_y="494" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 09" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_10" width="75" height="48">
+        <layer src_x="607" src_y="494" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 10" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_11" width="75" height="48">
+        <layer src_x="310" src_y="673" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 11" x="36" y="1"/>
+    </image>
+    <image id="Architects_Guild_On_12" width="75" height="48">
+        <layer src_x="585" src_y="494" x="2" y="1" width="11" height="14"/>
+        <layer group="this" image="Architect 12" x="36" y="1"/>
+    </image>
+    <image id="Arch Guild OFF" width="118" height="105" isometric="true">
+        <layer src_x="381" src_y="272" width="118" height="105"/>
+    </image>
+    <image id="Arch Guild ON" width="118" height="105" isometric="true">
+        <layer group="this" image="Arch Guild OFF"/>
+        <animation speed="6" y="57">
+            <frame group="this" image="Architects_Guild_On_01"/>
+            <frame group="this" image="Architects_Guild_On_02"/>
+            <frame group="this" image="Architects_Guild_On_03"/>
+            <frame group="this" image="Architects_Guild_On_04"/>
+            <frame group="this" image="Architects_Guild_On_05"/>
+            <frame group="this" image="Architects_Guild_On_06"/>
+            <frame group="this" image="Architects_Guild_On_07"/>
+            <frame group="this" image="Architects_Guild_On_08"/>
+            <frame group="this" image="Architects_Guild_On_09"/>
+            <frame group="this" image="Architects_Guild_On_10"/>
+            <frame group="this" image="Architects_Guild_On_11"/>
+            <frame group="this" image="Architects_Guild_On_12"/>
+        </animation>
+    </image>
+    <image id="Workcamp Central" isometric="true">
+        <layer src_y="207" width="178" height="113"/>
+    </image>
+    <image id="Workcamp North" width="178" height="113" isometric="true">
+        <layer group="this" image="Workcamp Central"/>
+        <layer src_y="524" y="57" width="178" height="56"/>
+    </image>
+    <image id="Workcamp South" width="178" height="113" isometric="true">
+        <layer group="this" image="Workcamp Central"/>
+        <layer src_y="580" y="57" width="178" height="56"/>
+    </image>
+    <image id="Caravanserai_CN_On_01" width="238" height="155">
+        <layer src_x="178" src_y="673" x="47" y="55" width="132" height="49"/>
+        <layer src_x="381" src_y="449" x="86" y="46" width="78" height="62"/>
+    </image>
+    <image id="Caravanserai_CN_On_02" width="238" height="155">
+        <layer src_x="178" src_y="673" x="47" y="55" width="132" height="49"/>
+        <layer src_x="641" src_y="377" x="86" y="46" width="78" height="62"/>
+    </image>
+    <image id="Caravanserai_CN_On_03" width="238" height="155">
+        <layer src_x="178" src_y="673" x="47" y="55" width="132" height="49"/>
+        <layer src_x="563" src_y="377" x="86" y="46" width="78" height="62"/>
+    </image>
+    <image id="Caravanserai_S_On_01" width="238" height="155">
+        <layer src_x="178" src_y="673" x="47" y="55" width="132" height="49"/>
+        <layer src_x="381" src_y="377" x="79" y="37" width="91" height="72"/>
+    </image>
+    <image id="Caravanserai_S_On_02" width="238" height="155">
+        <layer src_x="178" src_y="673" x="47" y="55" width="132" height="49"/>
+        <layer src_x="472" src_y="377" x="79" y="37" width="91" height="72"/>
+    </image>
+    <image id="Caravanserai_S_On_03" width="238" height="155">
+        <layer src_x="178" src_y="673" x="47" y="55" width="132" height="49"/>
+        <layer src_x="617" src_y="272" x="79" y="37" width="91" height="72"/>
+    </image>
+    <image id="Caravanserai_C_OFF" width="238" height="155" isometric="true">
+        <layer src_x="178" y="12" width="238" height="143"/>
+        <layer src_x="178" src_y="391" x="18" y="7" width="193" height="119"/>
+    </image>
+    <image id="Caravanserai_N_OFF" width="238" height="155" isometric="true">
+        <layer src_x="178" y="12" width="238" height="143"/>
+        <layer src_x="416" src_y="143" x="18" width="200" height="124"/>
+    </image>
+    <image id="Caravanserai_S_OFF" width="238" height="155" isometric="true">
+        <layer src_x="178" y="12" width="238" height="143"/>
+        <layer src_x="178" src_y="272" x="15" y="7" width="203" height="119"/>
+    </image>
+    <image id="Caravanserai_C_ON" width="238" height="155" isometric="true">
+        <layer group="this" image="Caravanserai_C_OFF"/>
+        <animation speed="8" reversible="true">
+            <frame group="this" image="Caravanserai_CN_On_01"/>
+            <frame group="this" image="Caravanserai_CN_On_02"/>
+            <frame group="this" image="Caravanserai_CN_On_03"/>
+        </animation>
+    </image>
+    <image id="Caravanserai_N_ON" width="238" height="155" isometric="true">
+        <layer group="this" image="Caravanserai_N_OFF"/>
+        <animation speed="8" reversible="true">
+            <frame group="this" image="Caravanserai_CN_On_01"/>
+            <frame group="this" image="Caravanserai_CN_On_02"/>
+            <frame group="this" image="Caravanserai_CN_On_03"/>
+        </animation>
+    </image>
+    <image id="Caravanserai_S_ON" width="238" height="155" isometric="true">
+        <layer group="this" image="Caravanserai_S_OFF"/>
+        <animation speed="8" reversible="true">
+            <frame group="this" image="Caravanserai_S_On_01"/>
+            <frame group="this" image="Caravanserai_S_On_02"/>
+            <frame group="this" image="Caravanserai_S_On_03"/>
+        </animation>
+    </image>
+    <image id="Caravanserai_Construction_01" isometric="true">
+        <layer src_x="178" src_y="143" width="238" height="129"/>
+    </image>
+    <image id="Caravanserai_Construction_02" isometric="true">
+        <layer src_x="416" width="238" height="143"/>
+    </image>
+    <image id="Cart Depot C OFF" isometric="true">
+        <layer src_y="636" width="118" height="84"/>
+    </image>
+    <image id="Cart Depot N OFF" isometric="true">
+        <layer group="this" image="Cart Depot C OFF"/>
+        <layer src_x="499" src_y="320" y="36" width="118" height="48"/>
+    </image>
+    <image id="Cart Depot S OFF" isometric="true">
+        <layer group="this" image="Cart Depot C OFF"/>
+        <layer src_x="499" src_y="272" y="36" width="118" height="48"/>
+    </image>
+    <image id="Cart Depot N ON" isometric="true">
+        <layer group="this" image="Cart Depot N OFF"/>
+        <animation speed="6" x="47" y="31">
+            <frame src_x="381" src_y="511" width="66" height="41"/>
+            <frame src_x="654" src_y="41" width="66" height="41"/>
+            <frame src_x="654" src_y="82" width="66" height="41"/>
+            <frame src_x="654" width="66" height="41"/>
+            <frame src_x="381" src_y="552" width="66" height="41"/>
+        </animation>
+    </image>
+    <image id="Cart Depot C ON" isometric="true">
+        <layer group="this" image="Cart Depot C OFF"/>
+        <animation speed="6" x="47" y="31">
+            <frame src_x="381" src_y="511" width="66" height="41"/>
+            <frame src_x="654" src_y="41" width="66" height="41"/>
+            <frame src_x="654" src_y="82" width="66" height="41"/>
+            <frame src_x="654" width="66" height="41"/>
+            <frame src_x="381" src_y="552" width="66" height="41"/>
+        </animation>
+    </image>
+    <image id="Cart Depot S ON" isometric="true">
+        <layer group="this" image="Cart Depot S OFF"/>
+        <animation speed="6" x="47" y="31">
+            <frame src_x="381" src_y="511" width="66" height="41"/>
+            <frame src_x="654" src_y="41" width="66" height="41"/>
+            <frame src_x="654" src_y="82" width="66" height="41"/>
+            <frame src_x="654" width="66" height="41"/>
+            <frame src_x="381" src_y="552" width="66" height="41"/>
+        </animation>
+    </image>
+    <image id="Lighthouse Const 01" isometric="true">
+        <layer src_y="425" width="178" height="99"/>
+    </image>
+    <image id="Lighthouse Const 02" isometric="true">
+        <layer src_y="320" width="178" height="105"/>
+    </image>
+    <image id="Lighthouse Const 03" width="178" height="139" isometric="true">
+        <layer group="this" image="Lighthouse Const 02" y="34"/>
+        <layer src_x="616" src_y="143" x="55" width="84" height="108"/>
+    </image>
+    <image id="Lighthouse Const 04" width="178" height="198" isometric="true">
+        <layer group="this" image="Lighthouse Const 03" y="59"/>
+        <layer src_x="178" src_y="510" x="18" width="143" height="163"/>
+    </image>
+    <image id="Lighthouse OFF" isometric="true">
+        <layer width="178" height="207"/>
+    </image>
+    <image id="Lighthouse ON" isometric="true">
+        <layer group="this" image="Lighthouse OFF"/>
+        <animation speed="5" x="78" y="17">
+            <frame src_x="708" src_y="293" width="16" height="21"/>
+            <frame src_x="708" src_y="314" width="16" height="21"/>
+            <frame src_x="156" src_y="696" width="16" height="21"/>
+            <frame src_x="708" src_y="272" width="16" height="21"/>
+            <frame src_x="622" src_y="479" width="16" height="21"/>
+        </animation>
+    </image>
+    <image id="Frame_Flickering_Fix">
+        <layer group="53" image="7"/>
+        <layer src_x="585" src_y="479" x="3" y="23" width="37" height="15"/>
+    </image>
+    <image id="Fountain_Desert_Fix" isometric="true">
+        <layer group="53"/>
+        <animation speed="4" x="9" y="-17">
+            <frame group="53" image="1"/>
+            <frame group="53" image="2"/>
+            <frame group="53" image="3"/>
+            <frame group="53" image="4"/>
+            <frame group="53" image="5"/>
+            <frame group="53" image="6"/>
+            <frame group="this" image="Frame_Flickering_Fix"/>
+        </animation>
+    </image>
+    <image id="Builder_01">
+        <layer src_x="576" src_y="509" width="39" height="39"/>
+    </image>
+    <image id="Builder_02">
+        <layer src_x="615" src_y="509" width="39" height="39"/>
+    </image>
+    <image id="Builder_03">
+        <layer src_x="654" src_y="509" width="39" height="39"/>
+    </image>
+    <image id="Builder_04">
+        <layer src_x="537" src_y="548" width="39" height="39"/>
+    </image>
+    <image id="Builder_05">
+        <layer src_x="537" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Builder_06">
+        <layer src_x="537" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Builder_07">
+        <layer src_x="537" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Builder_08">
+        <layer src_x="576" src_y="548" width="39" height="39"/>
+    </image>
+    <image id="Builder_09">
+        <layer src_x="615" src_y="548" width="39" height="39"/>
+    </image>
+    <image id="Builder_10">
+        <layer src_x="654" src_y="548" width="39" height="39"/>
+    </image>
+    <image id="Builder_11">
+        <layer src_x="576" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Builder_12">
+        <layer src_x="576" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_01">
+        <layer src_x="576" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_02">
+        <layer src_x="615" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_03">
+        <layer src_x="654" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_04">
+        <layer src_x="615" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_05">
+        <layer src_x="615" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_06">
+        <layer src_x="654" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_07">
+        <layer src_x="654" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_08">
+        <layer src_x="615" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_09">
+        <layer src_x="615" src_y="626" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_10">
+        <layer src_x="654" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_11">
+        <layer src_x="615" src_y="587" width="39" height="39"/>
+    </image>
+    <image id="Chisel_NE_12">
+        <layer src_x="576" src_y="665" width="39" height="39"/>
+    </image>
+    <image id="Highway_Placement" width="118" height="60" isometric="true">
+        <layer src_x="459" src_y="449" x="30" width="58" height="30"/>
+        <layer src_x="517" src_y="449" y="15" width="58" height="30"/>
+        <layer src_x="575" src_y="449" x="60" y="15" width="58" height="30"/>
+        <layer src_x="633" src_y="449" x="30" y="30" width="58" height="30"/>
+    </image>
+    <image id="Highway_Base_Start" isometric="true">
+        <layer src_x="459" src_y="449" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="517" src_y="449" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="575" src_y="449" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="633" src_y="449" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="321" src_y="690" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="321" src_y="660" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="381" src_y="623" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="381" src_y="593" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="118" src_y="666" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="118" src_y="636" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="617" src_y="344" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="381" src_y="653" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="381" src_y="683" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="321" src_y="510" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="321" src_y="540" width="58" height="30"/>
+    </image>
+    <image isometric="true">
+        <layer src_x="321" src_y="570" width="58" height="30"/>
+    </image>
+    <image id="Highway_Barrier_Start" width="58" height="30" isometric="true">
+        <layer src_x="517" src_y="479" x="24" y="11" width="34" height="19"/>
+    </image>
+    <image width="58" height="30" isometric="true">
+        <layer src_x="691" src_y="449" x="28" width="30" height="17"/>
+    </image>
+    <image width="58" height="30" isometric="true">
+        <layer src_x="692" src_y="123" width="31" height="19"/>
+    </image>
+    <image width="58" height="30" isometric="true">
+        <layer src_x="551" src_y="479" y="12" width="34" height="18"/>
+    </image>
+    <image width="58" height="30" isometric="true">
+        <layer src_x="691" src_y="449" x="28" width="30" height="17"/>
+        <layer src_x="517" src_y="479" x="22" y="12" width="34" height="19"/>
+    </image>
+    <image width="58" height="30" isometric="true">
+        <layer src_x="691" src_y="449" x="28" width="30" height="17"/>
+        <layer src_x="692" src_y="123" width="31" height="19"/>
+    </image>
+    <image width="58" height="30" isometric="true">
+        <layer src_x="692" src_y="123" width="31" height="19"/>
+        <layer src_x="551" src_y="479" x="2" y="13" width="34" height="18"/>
+    </image>
+    <image width="58" height="30" isometric="true">
+        <layer src_x="551" src_y="479" y="12" width="34" height="18"/>
+        <layer src_x="517" src_y="479" x="26" y="10" width="34" height="19"/>
+    </image>
+    <image id="Aqueduct_Bridge_Left_Water" width="58" height="58" isometric="true">
+        <layer group="19"/>
+        <layer src_x="321" src_y="600" y="28" width="58" height="30" mask="alpha"/>
+    </image>
+    <image id="Aqueduct_Bridge_Right_Water" width="58" height="57" isometric="true">
+        <layer group="19" image="1"/>
+        <layer src_x="459" src_y="479" y="27" width="58" height="30" mask="alpha"/>
+    </image>
+    <image id="Aqueduct_Bridge_Left_Empty" width="58" height="58" isometric="true">
+        <layer group="19" image="15"/>
+        <layer src_x="321" src_y="600" y="28" width="58" height="30" mask="alpha"/>
+    </image>
+    <image id="Aqueduct_Bridge_Right_Empty" width="58" height="57" isometric="true">
+        <layer group="19" image="16"/>
+        <layer src_x="459" src_y="479" y="27" width="58" height="30" mask="alpha"/>
+    </image>
+</assetlist>
