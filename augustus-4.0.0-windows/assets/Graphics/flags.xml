@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Flags">
+    <image id="Warehouse_Flag_Market_1">
+        <layer width="30" height="24"/>
+    </image>
+    <image id="Warehouse_Flag_Market">
+        <layer group="this" image="Warehouse_Flag_Market_1"/>
+        <animation speed="6">
+            <frame src_x="30" width="30" height="24"/>
+            <frame src_x="60" width="30" height="24"/>
+            <frame src_x="90" width="30" height="24"/>
+            <frame src_x="120" width="30" height="24"/>
+            <frame src_x="150" width="30" height="24"/>
+            <frame src_x="180" width="30" height="24"/>
+            <frame src_x="210" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Warehouse_Flag_Land_1">
+        <layer src_x="240" width="30" height="24"/>
+    </image>
+    <image id="Warehouse_Flag_Land">
+        <layer group="this" image="Warehouse_Flag_Land_1"/>
+        <animation speed="6">
+            <frame src_x="270" width="30" height="24"/>
+            <frame src_y="24" width="30" height="24"/>
+            <frame src_y="48" width="30" height="24"/>
+            <frame src_y="72" width="30" height="24"/>
+            <frame src_y="96" width="30" height="24"/>
+            <frame src_y="120" width="30" height="24"/>
+            <frame src_y="144" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Warehouse_Flag_Market_Land_1">
+        <layer src_y="168" width="30" height="24"/>
+    </image>
+    <image id="Warehouse_Flag_Market_Land">
+        <layer group="this" image="Warehouse_Flag_Market_Land_1"/>
+        <animation speed="6">
+            <frame src_y="192" width="30" height="24"/>
+            <frame src_y="216" width="30" height="24"/>
+            <frame src_y="240" width="30" height="24"/>
+            <frame src_y="264" width="30" height="24"/>
+            <frame src_x="30" src_y="24" width="30" height="24"/>
+            <frame src_x="60" src_y="24" width="30" height="24"/>
+            <frame src_x="90" src_y="24" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Warehouse_Flag_Sea_1">
+        <layer src_x="120" src_y="24" width="30" height="24"/>
+    </image>
+    <image id="Warehouse_Flag_Sea">
+        <layer group="this" image="Warehouse_Flag_Sea_1"/>
+        <animation speed="6">
+            <frame src_x="150" src_y="24" width="30" height="24"/>
+            <frame src_x="180" src_y="24" width="30" height="24"/>
+            <frame src_x="210" src_y="24" width="30" height="24"/>
+            <frame src_x="240" src_y="24" width="30" height="24"/>
+            <frame src_x="270" src_y="24" width="30" height="24"/>
+            <frame src_x="30" src_y="48" width="30" height="24"/>
+            <frame src_x="30" src_y="72" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Warehouse_Flag_Market_Sea_1">
+        <layer src_x="30" src_y="96" width="30" height="24"/>
+    </image>
+    <image id="Warehouse_Flag_Market_Sea">
+        <layer group="this" image="Warehouse_Flag_Market_Sea_1"/>
+        <animation speed="6">
+            <frame src_x="30" src_y="120" width="30" height="24"/>
+            <frame src_x="30" src_y="144" width="30" height="24"/>
+            <frame src_x="30" src_y="168" width="30" height="24"/>
+            <frame src_x="30" src_y="192" width="30" height="24"/>
+            <frame src_x="30" src_y="216" width="30" height="24"/>
+            <frame src_x="30" src_y="240" width="30" height="24"/>
+            <frame src_x="30" src_y="264" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Warehouse_Flag_Land_Sea_1">
+        <layer src_x="60" src_y="48" width="30" height="24"/>
+    </image>
+    <image id="Warehouse_Flag_Land_Sea">
+        <layer group="this" image="Warehouse_Flag_Land_Sea_1"/>
+        <animation speed="6">
+            <frame src_x="90" src_y="48" width="30" height="24"/>
+            <frame src_x="120" src_y="48" width="30" height="24"/>
+            <frame src_x="150" src_y="48" width="30" height="24"/>
+            <frame src_x="180" src_y="48" width="30" height="24"/>
+            <frame src_x="210" src_y="48" width="30" height="24"/>
+            <frame src_x="240" src_y="48" width="30" height="24"/>
+            <frame src_x="270" src_y="48" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Warehouse_Flag_All_1">
+        <layer src_x="60" src_y="72" width="30" height="24"/>
+    </image>
+    <image id="Warehouse_Flag_All">
+        <layer group="this" image="Warehouse_Flag_All_1"/>
+        <animation speed="6">
+            <frame src_x="60" src_y="96" width="30" height="24"/>
+            <frame src_x="60" src_y="120" width="30" height="24"/>
+            <frame src_x="60" src_y="144" width="30" height="24"/>
+            <frame src_x="60" src_y="168" width="30" height="24"/>
+            <frame src_x="60" src_y="192" width="30" height="24"/>
+            <frame src_x="60" src_y="216" width="30" height="24"/>
+            <frame src_x="60" src_y="240" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Mess_1">
+        <layer src_x="60" src_y="264" width="30" height="24"/>
+    </image>
+    <image id="Granary_Flag_Mess">
+        <layer group="this" image="Granary_Flag_Mess_1"/>
+        <animation speed="6">
+            <frame src_x="90" src_y="72" width="30" height="24"/>
+            <frame src_x="120" src_y="72" width="30" height="24"/>
+            <frame src_x="150" src_y="72" width="30" height="24"/>
+            <frame src_x="180" src_y="72" width="30" height="24"/>
+            <frame src_x="210" src_y="72" width="30" height="24"/>
+            <frame src_x="240" src_y="72" width="30" height="24"/>
+            <frame src_x="270" src_y="72" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Market_Mess_1">
+        <layer src_x="90" src_y="96" width="30" height="24"/>
+    </image>
+    <image id="Granary_Flag_Market_Mess">
+        <layer group="this" image="Granary_Flag_Market_Mess_1"/>
+        <animation speed="6">
+            <frame src_x="120" src_y="96" width="30" height="24"/>
+            <frame src_x="150" src_y="96" width="30" height="24"/>
+            <frame src_x="180" src_y="96" width="30" height="24"/>
+            <frame src_x="210" src_y="96" width="30" height="24"/>
+            <frame src_x="240" src_y="96" width="30" height="24"/>
+            <frame src_x="270" src_y="96" width="30" height="24"/>
+            <frame src_x="90" src_y="120" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Mess_Land_1">
+        <layer src_x="90" src_y="144" width="30" height="24"/>
+    </image>
+    <image id="Granary_Flag_Mess_Land">
+        <layer group="this" image="Granary_Flag_Mess_Land_1"/>
+        <animation speed="6">
+            <frame src_x="90" src_y="168" width="30" height="24"/>
+            <frame src_x="90" src_y="192" width="30" height="24"/>
+            <frame src_x="90" src_y="216" width="30" height="24"/>
+            <frame src_x="90" src_y="240" width="30" height="24"/>
+            <frame src_x="90" src_y="264" width="30" height="24"/>
+            <frame src_x="120" src_y="120" width="30" height="24"/>
+            <frame src_x="150" src_y="120" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Market_Mess_Land_1">
+        <layer src_x="180" src_y="120" width="30" height="24"/>
+    </image>
+    <image id="Granary_Flag_Market_Mess_Land">
+        <layer group="this" image="Granary_Flag_Market_Mess_Land_1"/>
+        <animation speed="6">
+            <frame src_x="210" src_y="120" width="30" height="24"/>
+            <frame src_x="240" src_y="120" width="30" height="24"/>
+            <frame src_x="270" src_y="120" width="30" height="24"/>
+            <frame src_x="120" src_y="144" width="30" height="24"/>
+            <frame src_x="120" src_y="168" width="30" height="24"/>
+            <frame src_x="120" src_y="192" width="30" height="24"/>
+            <frame src_x="120" src_y="216" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Mess_Sea_1">
+        <layer src_x="120" src_y="240" width="30" height="24"/>
+    </image>
+    <image id="Granary_Flag_Mess_Sea">
+        <layer group="this" image="Granary_Flag_Mess_Sea_1"/>
+        <animation speed="6">
+            <frame src_x="120" src_y="264" width="30" height="24"/>
+            <frame src_x="150" src_y="144" width="30" height="24"/>
+            <frame src_x="180" src_y="144" width="30" height="24"/>
+            <frame src_x="210" src_y="144" width="30" height="24"/>
+            <frame src_x="240" src_y="144" width="30" height="24"/>
+            <frame src_x="270" src_y="144" width="30" height="24"/>
+            <frame src_x="150" src_y="168" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Market_Mess_Sea_1">
+        <layer src_x="150" src_y="192" width="30" height="24"/>
+    </image>
+    <image id="Granary_Flag_Market_Mess_Sea">
+        <layer group="this" image="Granary_Flag_Market_Mess_Sea_1"/>
+        <animation speed="6">
+            <frame src_x="150" src_y="216" width="30" height="24"/>
+            <frame src_x="150" src_y="240" width="30" height="24"/>
+            <frame src_x="150" src_y="264" width="30" height="24"/>
+            <frame src_x="180" src_y="168" width="30" height="24"/>
+            <frame src_x="210" src_y="168" width="30" height="24"/>
+            <frame src_x="240" src_y="168" width="30" height="24"/>
+            <frame src_x="270" src_y="168" width="30" height="24"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Mess_Both_Traders_1">
+        <layer src_x="180" src_y="192" width="30" height="24"/>
+    </image>
+    <image id="Granary_Flag_Mess_Both_Traders">
+        <layer group="this" image="Granary_Flag_Mess_Both_Traders_1"/>
+        <animation speed="6">
+            <frame src_x="180" src_y="216" width="30" height="24"/>
+            <frame src_x="180" src_y="240" width="30" height="24"/>
+            <frame src_x="180" src_y="264" width="30" height="24"/>
+            <frame src_x="210" src_y="192" width="24" height="30" rotate="90"/>
+            <frame src_x="234" src_y="192" width="24" height="30" rotate="90"/>
+            <frame src_x="258" src_y="192" width="24" height="30" rotate="90"/>
+            <frame src_x="282" src_y="192" width="24" height="30" rotate="90"/>
+        </animation>
+    </image>
+    <image id="Granary_Flag_Market_Both_Traders_1">
+        <layer src_x="210" src_y="222" width="24" height="30" rotate="90"/>
+    </image>
+    <image id="Granary_Flag_Market_Both_Traders">
+        <layer group="this" image="Granary_Flag_Market_Both_Traders_1"/>
+        <animation speed="6">
+            <frame src_x="210" src_y="252" width="24" height="30" rotate="90"/>
+            <frame src_x="234" src_y="222" width="24" height="30" rotate="90"/>
+            <frame src_x="258" src_y="222" width="24" height="30" rotate="90"/>
+            <frame src_x="282" src_y="222" width="24" height="30" rotate="90"/>
+            <frame src_x="234" src_y="252" width="30" height="24"/>
+            <frame src_x="234" src_y="276" width="30" height="24"/>
+            <frame src_x="264" src_y="252" width="30" height="24"/>
+        </animation>
+    </image>
+</assetlist>
