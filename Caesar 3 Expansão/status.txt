@@ -1,0 +1,41 @@
+OK :Game text loaded.Sun Jan 25
+------------------------------------------------------------
+ 23:35:46   Debug and status report on 
+ 23:35:46   OK :Active.  
+ 23:35:46   OK :DD SetCooperative Level.
+ 23:35:47   OK :DD Set resolution.
+ 23:35:47   OK :GFX DirectDraw enabled.
+ 23:35:47   OK :DD Creating one Vram only.
+ 23:35:47   OK :DD can lock primary surface 
+ 23:35:47   OK :DD Surface created.
+ 23:35:47   OK :DD surface_format is RGB 565.
+ 23:35:47   OK :Direct draw initialised.
+ 23:35:47   OK :Setup loaded army files.
+ 23:35:47   OK :Setup loaded DAT files.
+ 23:35:47   OK :C3 setup.
+ 23:35:47    OK: model loaded
+ 23:35:47   OK :DS Installed.
+ 23:35:48   ERR:Not found file :wavs\prefecture.wav  
+ 23:35:48   ERR:Not found file :wavs\eng_post.wav  
+ 23:35:48   ERR:Not found file :wavs\fountain1.wav  
+ 23:35:48   ERR:Not found file :wavs\well1.wav  
+ 23:35:48   ERR:Not found file :wavs\mission.wav  
+ 23:35:49   OK :Direct sound initialised.
+ 23:35:49   OK :Launching game loop.
+ 23:35:49   OK :SMK starting smack smk\logo.smk  
+ 23:35:49   OK :SMK user ends smk\logo.smk  
+ 23:35:49   MEM:Max alloc after =   
+ 23:35:49   OK :SMK starting smack smk\intro.smk  
+ 23:35:50   OK :SMK user ends smk\intro.smk  
+ 23:35:50   MEM:Max alloc after =   
+ 23:35:50   OK :SMK starting smack smk\credits.smk  
+ 23:35:50   OK :SMK user ends smk\credits.smk  
+ 23:35:50   MEM:Max alloc after =   
+ 23:36:16   OK :Setup loaded army files.
+ 23:36:25   OK :Not active.  
+ 23:36:25   OK :DD Released.
+ 23:36:26   OK :DS was_in_interupt0  
+ 23:36:26   OK :DS was_in_setup0  
+ 23:36:26   OK :DS Released.
+ 23:36:26   OK :removed manmades=0  
+ 23:36:26   OK :Exited Normally  
