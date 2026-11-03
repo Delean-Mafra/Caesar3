@@ -1,0 +1,30 @@
+{
+    "versao_manifesto": 4,
+    "arquivo_original": "intro.smk",
+    "caminho_relativo_original": "intro.smk",
+    "tamanho_original_bytes": 60526420,
+    "sha256_original": "a91a65b7e497f843877d8ef9a33e84089651a6ff855857148d1768b166f8dff1",
+    "tamanho_maximo_parte_bytes": 25165824,
+    "tamanho_minimo_fragmentacao_bytes": 26214400,
+    "quantidade_partes_esperada": 3,
+    "partes": [
+        {
+            "numero": 1,
+            "arquivo": "intro.smk.part0001",
+            "tamanho_bytes": 25165824,
+            "sha256": "fd4eb897d32e1fef85eb31cd6b36d92d5f6244dc5ea64a9d59d186a188d64a37"
+        },
+        {
+            "numero": 2,
+            "arquivo": "intro.smk.part0002",
+            "tamanho_bytes": 25165824,
+            "sha256": "16cf7d9a8a3fda2b9e1a221016df27ea77499f4ca24aff0d5fdd30728eb7a041"
+        },
+        {
+            "numero": 3,
+            "arquivo": "intro.smk.part0003",
+            "tamanho_bytes": 10194772,
+            "sha256": "80e5c296376bf81ab9ecd022acc4bfe7b63534746b1e1ee7f45ab0f0696a0b65"
+        }
+    ]
+}
