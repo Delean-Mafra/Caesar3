@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C63EA"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C63EA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C696E"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C696E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BEED4"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BEED4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BEED4"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BEED4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00567038"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+167038</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BE478"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BE478</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C63EC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C63EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C63EE"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C63EE</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C63F4"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C63F4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C63F6"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C63F6</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C63F8"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C63F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C63F2"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C63F2</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BF0FA"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BF0FA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BF0F2"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BF0F2</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BE1F8"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BE1F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C0E70"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C0E70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C0E7A"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C0E7A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005CCAEC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1CCAEC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BDC72"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BDC72</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C7172"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C7172</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C717A"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C717A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>40</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BEDD4"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BEDD4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C706C"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C706C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C7078"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C7078</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>44</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C707A"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C707A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="0090EC68"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+50EC68</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BEEEA"/>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>2</BitStart>
+      <BitLength>7</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>"Caesar 3 Expanção.exe"+1BEEEA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BEF6A"/>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>2</BitStart>
+      <BitLength>7</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>"Caesar 3 Expanção.exe"+1BEF6A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BDC6C"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BDC6C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BDCEA"/>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>1</BitStart>
+      <BitLength>7</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>"Caesar 3 Expanção.exe"+1BDCEA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>38</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="0" RealAddress="005B3BC8"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3BC8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B3E34"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3E34</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C696C"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C696C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BE46C"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BE46C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B3C84"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3C84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B3CB0"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3CB0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B3CB4"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3CB4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B3CB8"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3CB8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B3CBC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3CBC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B3CC0"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B3CC0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="008F05D4"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+4F05D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>45</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BCFEC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BCFEC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>46</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BCFFA"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BCFFA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005BED54"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1BED54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>50</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="0" RealAddress="005B24E8"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B24E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="0" RealAddress="005B2224"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B2224</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>53</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005CFC70"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1CFC70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005B24F8"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1B24F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>55</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="0" RealAddress="008EAF54"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+4EAF54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>52</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005C5C36"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1C5C36</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>56</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="008F05E4"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+4F05E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>57</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005CA86A"/>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>1</BitStart>
+      <BitLength>7</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>"Caesar 3 Expanção.exe"+1CA86A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>58</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005CA96A"/>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>1</BitStart>
+      <BitLength>7</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>"Caesar 3 Expanção.exe"+1CA96A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>59</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005D2D6A"/>
+      <Color>80000008</Color>
+      <VariableType>Binary</VariableType>
+      <BitStart>1</BitStart>
+      <BitLength>7</BitLength>
+      <ShowAsBinary>0</ShowAsBinary>
+      <Address>"Caesar 3 Expanção.exe"+1D2D6A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>60</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005632EC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1632EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>61</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00567008"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+167008</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>62</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005630D4"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1630D4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>63</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005639BC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1639BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>64</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00563204"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+163204</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>65</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00567000"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+167000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>66</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00563144"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+163144</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>67</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00563A94"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+163A94</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>68</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005656EC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1656EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>69</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00567508"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+167508</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>70</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00563180"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+163180</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="0056320C"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+16320C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>72</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="00563108"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+163108</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="1" RealAddress="005638DC"/>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"Caesar 3 Expanção.exe"+1638DC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
