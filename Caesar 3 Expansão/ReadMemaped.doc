@@ -1,0 +1,799 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff1\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times;}}{\colortbl;\red0\green0\blue0;
+\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;
+\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}{
+\s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 \sbasedon0 \snext15 Body Text 2;}{\*\cs16 \additive \ul\cf2 \sbasedon10 Hyperlink;}{\s17\nowidctlpar\tx360\tx720\adjustright \f4\fs20\cf1\cgrid \snext17 Body text;}{
+\s18\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid \sbasedon0 \snext18 Plain Text;}}{\*\listtable{\list\listtemplateid422615106\listsimple{\listlevel\levelnfc3\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li720\jclisttab\tx720 }{\listname ;}\listid51511756}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid57286680}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid83650652}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid85274717}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid93862447}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid207108847}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid313490908}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid324554432}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid354965586}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid355815797}{\list\listtemplateid-1089453112\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li2160\jclisttab\tx2160 }{\listname ;}\listid391926391}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid419450889}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid453863223}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid543903422}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid578440835}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid593435086}{\list\listtemplateid-1741544186\listsimple{\listlevel\levelnfc3\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li3960\jclisttab\tx3960 }{\listname ;}\listid651059591}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid668869762}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid681056005}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid731537533}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid742337165}{\list\listtemplateid-580349668\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat22\levelspace0\levelindent0{\leveltext
+\'01\'00;}{\levelnumbers\'01;}\fbias0 \fi-720\li720\jclisttab\tx720 }{\listname ;}\listid761603253}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid764958054}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid794374802}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid917986128}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid952173639}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid953366055}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1017273406}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1145774463}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1167982795}{\list\listtemplateid1484282708\listsimple{\listlevel\levelnfc3\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1440\jclisttab\tx1440 }{\listname ;}\listid1172598395}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1239287564}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1249802497}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1345548479}{\list\listtemplateid481359898\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat2\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li720\jclisttab\tx720 }{\listname ;}\listid1353920668}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1428696387}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1437214427}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1446534823}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1508254471}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1561550523}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1575045748}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1595019053}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1626691987}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1631208373}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1799490886}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1810394905}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1848404615}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1886136596}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1920290657}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1924221290}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1964998373}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1978560817}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1983149246}}{\*\listoverridetable{\listoverride\listid93862447\listoverridecount0\ls1}{\listoverride\listid1810394905\listoverridecount0\ls2}
+{\listoverride\listid1561550523\listoverridecount0\ls3}{\listoverride\listid1964998373\listoverridecount0\ls4}{\listoverride\listid1799490886\listoverridecount0\ls5}{\listoverride\listid1920290657\listoverridecount0\ls6}{\listoverride\listid1978560817
+\listoverridecount0\ls7}{\listoverride\listid953366055\listoverridecount0\ls8}{\listoverride\listid1145774463\listoverridecount0\ls9}{\listoverride\listid794374802\listoverridecount0\ls10}{\listoverride\listid1167982795\listoverridecount0\ls11}
+{\listoverride\listid731537533\listoverridecount0\ls12}{\listoverride\listid1446534823\listoverridecount0\ls13}{\listoverride\listid1983149246\listoverridecount0\ls14}{\listoverride\listid1631208373\listoverridecount0\ls15}{\listoverride\listid1017273406
+\listoverridecount0\ls16}{\listoverride\listid83650652\listoverridecount0\ls17}{\listoverride\listid1508254471\listoverridecount0\ls18}{\listoverride\listid1886136596\listoverridecount0\ls19}{\listoverride\listid593435086\listoverridecount0\ls20}
+{\listoverride\listid681056005\listoverridecount0\ls21}{\listoverride\listid1595019053\listoverridecount0\ls22}{\listoverride\listid1924221290\listoverridecount0\ls23}{\listoverride\listid453863223\listoverridecount0\ls24}{\listoverride\listid57286680
+\listoverridecount0\ls25}{\listoverride\listid1626691987\listoverridecount0\ls26}{\listoverride\listid419450889\listoverridecount0\ls27}{\listoverride\listid764958054\listoverridecount0\ls28}{\listoverride\listid1848404615\listoverridecount0\ls29}
+{\listoverride\listid313490908\listoverridecount0\ls30}{\listoverride\listid578440835\listoverridecount0\ls31}{\listoverride\listid1249802497\listoverridecount0\ls32}{\listoverride\listid1575045748\listoverridecount0\ls33}{\listoverride\listid355815797
+\listoverridecount0\ls34}{\listoverride\listid952173639\listoverridecount0\ls35}{\listoverride\listid1239287564\listoverridecount0\ls36}{\listoverride\listid207108847\listoverridecount0\ls37}{\listoverride\listid742337165\listoverridecount0\ls38}
+{\listoverride\listid543903422\listoverridecount0\ls39}{\listoverride\listid324554432\listoverridecount0\ls40}{\listoverride\listid1437214427\listoverridecount0\ls41}{\listoverride\listid1428696387\listoverridecount0\ls42}{\listoverride\listid354965586
+\listoverridecount0\ls43}{\listoverride\listid85274717\listoverridecount0\ls44}{\listoverride\listid761603253\listoverridecount0\ls45}{\listoverride\listid651059591\listoverridecount0\ls46}{\listoverride\listid51511756\listoverridecount0\ls47}
+{\listoverride\listid1353920668\listoverridecount0\ls48}{\listoverride\listid1172598395\listoverridecount0\ls49}{\listoverride\listid391926391\listoverridecount0\ls50}{\listoverride\listid1345548479\listoverridecount0\ls51}{\listoverride\listid668869762
+\listoverridecount0\ls52}{\listoverride\listid917986128\listoverridecount0\ls53}}{\info{\title INTRODUCING THE CAESAR III EDITOR}{\author Ken Parker}{\operator Jim Solomon}{\creatim\yr1998\mo11\dy3\hr9\min3}{\revtim\yr1998\mo11\dy11\hr10\min48}{\version4}
+{\edmins39}{\nofpages16}{\nofwords6243}{\nofchars-32766}{\*\company impressions}{\nofcharsws0}{\vern71}}\widowctrl\ftnbj\aenddoc\hyphcaps0\formshade\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\endnhere\sectdefaultcl {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\tx1800\adjustright \f1\fs20\lang2057\cgrid {\f0 \tab \tab         Caesar 3 Map Editor 
+\par \tab                        Version 1.0.0
+\par \tab                            11/03/08
+\par 
+\par This readme file is for the Caesar 3 map editor.  It provides instruction in the use of the editor and information about the cost of opening trade routes in the forty empire states prepared by the development team.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f0 
+\par _______________________________________________________________________
+\par 
+\par           \tab           TABLE OF CONTENTS
+\par 
+\par }\pard \li2160\nowidctlpar\widctlpar\tx1440\tx2880\adjustright {\f0 \tab I\tab INTRODUCING THE CAESAR 3 MAP EDITOR
+\par {\pntext\pard\plain\fs20\lang2057\cgrid \hich\af0\dbch\af0\loch\f0 A.\tab}}\pard \fi-360\li3960\nowidctlpar\widctlpar\tx1440\tx2880\jclisttab\tx3960{\*\pn \pnlvlbody\ilvl0\ls46\pnrnot0\pnucltr\pnstart1\pnindent3960\pnhang{\pntxta .}}\ls46\adjustright {
+\f0 CREATING A MAP
+\par {\pntext\pard\plain\fs20\lang2057\cgrid \hich\af0\dbch\af0\loch\f0 B.\tab}}\pard \fi-360\li3960\nowidctlpar\widctlpar\tx1440\tx2880\jclisttab\tx3960{\*\pn \pnlvlbody\ilvl0\ls46\pnrnot0\pnucltr\pnstart1\pnindent3960\pnhang{\pntxta .}}\ls46\adjustright {
+\f0 MAP ATTRIBUTES
+\par {\pntext\pard\plain\fs20\lang2057\cgrid \hich\af0\dbch\af0\loch\f0 C.\tab}}\pard \fi-360\li3960\nowidctlpar\widctlpar\tx1440\tx2880\jclisttab\tx3960{\*\pn \pnlvlbody\ilvl0\ls46\pnrnot0\pnucltr\pnstart1\pnindent3960\pnhang{\pntxta .}}\ls46\adjustright {
+\f0 TIPS
+\par }\pard \li2160\nowidctlpar\widctlpar\tx1440\tx2880\adjustright {\f0 \tab II\tab TRADE ROUTE COST
+\par \tab III\tab ADDITIONAL INFORMATION
+\par \tab IV\tab CONTACTING SIERRA 
+\par \tab V\tab END USER LICENSE AGREEMENT
+\par }\pard \nowidctlpar\widctlpar\adjustright {
+\par 
+\par 
+\par 
+\par 
+\par INTRODUCING THE CAESAR III EDITOR
+\par 
+\par Thank you for taking the time to download the Caesar III Editor. We look forward to playing your maps! 
+\par 
+\par ========================================================================= 
+\par 
+\par USING THE CAESAR III EDITOR
+\par 
+\par The instructions that follow are adapted almost verbatim from the online help. Access this information from the Editor\rquote s Help menu, or from this file, whichever you find easier to use.
+\par 
+\par }{\lang1033\cgrid0 I.\tab Creating a map
+\par {\pntext\pard\plain\f1\fs20 \hich\af1\dbch\af0\loch\f1 A.\tab}}\pard \fi-720\li1440\nowidctlpar\widctlpar\jclisttab\tx1440{\*\pn \pnlvlbody\ilvl0\ls49\pnrnot0\pnucltr\pnstart1\pnindent1440\pnhang{\pntxta .}}\ls49\adjustright {\lang1033\cgrid0 
+Learn the controls
+\par {\pntext\pard\plain\f1\fs20 \hich\af1\dbch\af0\loch\f1 1.\tab}}\pard \fi-720\li2160\nowidctlpar\widctlpar\jclisttab\tx2160{\*\pn \pnlvlbody\ilvl0\ls50\pnrnot0\pndec\pnstart1\pnindent2160\pnhang{\pntxta .}}\ls50\adjustright {\lang1033\cgrid0 The menu bar
+
+\par {\pntext\pard\plain\f1\fs20 \hich\af1\dbch\af0\loch\f1 2.\tab}}\pard \fi-720\li2160\nowidctlpar\widctlpar\jclisttab\tx2160{\*\pn \pnlvlbody\ilvl0\ls50\pnrnot0\pndec\pnstart1\pnindent2160\pnhang{\pntxta .}}\ls50\adjustright {\lang1033\cgrid0 The cont
+rol panel
+\par }\pard \fi720\nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 B.\tab Choose the Empire state
+\par C.\tab Create your map
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par II.\tab Map attributes
+\par }\pard \fi720\nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 A.\tab Entry, exit and way points
+\par B.\tab Attributes panel
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par III.\tab Tips
+\par }\pard \fi720\nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 A.\tab General
+\par B.\tab Water
+\par C.\tab Terrain height
+\par D.\tab Farmland
+\par E.\tab Distribute your map}{\f2\lang1033\cgrid0 
+\par 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 =========================================================================
+\par 
+\par I.\tab Creating a map
+\par 
+\par {\pntext\pard\plain\f1\fs20 \hich\af1\dbch\af0\loch\f1 A.\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls47\pnrnot0\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}\ls47\adjustright {\lang1033\cgrid0 
+Learn the controls
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par 1.\tab The menu bar
+\par 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls3\adjustright {\lang1033\cgrid0 
+Use File to start a New map and choose its size; Load an existing map; Save your work or Exit the Editor. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {\lang1033\cgrid0 
+Options: Display lets you choose a screen resolution to work in. Use Sound settings to set music volume, and Speed to adjust your scrolling speed.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls2\adjustright {\lang1033\cgrid0 
+Use the Resets to quickly clear all of the Herds, Fish or Invasion points. If you just want to move one or two points, simply re-place them using the proper placement tool; use Resets only to clear all of them.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls53\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls53\adjustright {\lang1033\cgrid0 
+The Help menu lets you access this document within the Editor. The text of the online help is nearly identical to the file you\rquote re reading now, with a few changes in wording and organization. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls4\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls4\adjustright {\lang1033\cgrid0 
+Empire: Choose one of 40 possible Empire states for your map. This should be your first step.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f1\fs20 \hich\af1\dbch\af0\loch\f1 2.\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls48\pnrnot0\pndec\pnstart2\pnindent720\pnhang{\pntxta .}}\ls48\adjustright {\lang1033\cgrid0 The control panel
+
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par The right side of the screen has a Control Panel similar to the one found in the game. The top window is a radar map that shows you the big picture.
+\par 
+\par Beneath the radar map are two buttons. The one on the left closes an open dialog box (works the same as a right-click). The one on the right opens a panel from which to set attributes.
+\par 
+\par The text window under these buttons shows what tool you have selected.
+\par 
+\par The 15 buttons under the text window are the map builder's main controls. From left to right, and top to bottom, these are:
+\par 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls5\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls5\adjustright {\lang1033\cgrid0 
+Grass: This is the default 'blank' terrain. Use it to remove any other terrain type (except height changes).
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls6\adjustright {\lang1033\cgrid0 
+Trees: Place trees as obstacles or resources for timber.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls7\adjustright {\lang1033\cgrid0 
+Water: Create coastline or rivers. Besides being a crucial terrain feature, water is needed for drinking, for seaborne trade, and as a resource for clay pits. See section III B for tips on water placement.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls8\adjustright {\lang1033\cgrid0 
+Elevation: Choose to Raise or Lower the land, or place an Access ramp. Your map can have multiple levels, which you build one at
+ a time. Hold down the left mouse button and drag the cursor to raise or lower large areas. Read section III C for tips on terrain elevation. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls9\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls9\adjustright {\lang1033\cgrid0 
+Scrub: Just like trees, but provides some graphical variety.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls10\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls10\adjustright {\lang1033\cgrid0 
+Rocks: Place rocks as obstacles or resources for iron and marble.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls11\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls11\adjustright {\lang1033\cgrid0 
+Meadow: This is farmland. Go to section III D for further instruction. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls12\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls12\adjustright {\lang1033\cgrid0 
+Road: You don't technically need a road across your province. Merely designating entry and exit points is enough to create a 'road to Rome.' We recommend 
+that you join these points with a road, to help players see the road to Rome, give them a starting point for their city and add definition to your map. Roads can only be built on grass or meadow.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls13\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls13\adjustright {\lang1033\cgrid0 
+Brush size: This controls how much turf your cursor affects at once. Use large brushes to alter whole swaths of land, and small ones for detailed editing.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls14\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls14\adjustright {\lang1033\cgrid0 
+Earthquake: If your province will have an earthquake, this sets where it will occur. No province may have more than one quake. Earthquakes can block the 
+road to Rome, so don't place the marker within about 20 tiles of the road. Be sure you read section II A, about setting entry, exit and way points, for more about quakes.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls15\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls15\adjustright {\lang1033\cgrid0 
+Invasion points: Set the entry points for enemy armies. These must be on clear, level land. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls16\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls16\adjustright {\lang1033\cgrid0 
+Entry/Exit: This determines where the 'road to Rome' starts and ends. Migrants and caravans enter and exit the map at these points.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls17\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls17\adjustright {\lang1033\cgrid0 
+River Entry/Exit: If your province will include seaborne trade, define where ships enter and exit the map.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls18\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls18\adjustright {\lang1033\cgrid0 
+Natives: Place native huts, centers and fields for provinces that will include them.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls19\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls19\adjustright {\lang1033\cgrid0 
+Fishing/Herd points: If your province will include fishi
+ng, this sets where the boats will go to haul in their catch. If you want to include wild animals, set their locations here. Fishing requires some special conditions to work properly. Go to section III A for a full explanation.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par B.\tab Choose the Empire state
+\par 
+\par Your province's location in the Empire sets many conditions that you should design your map around. The Empire map should be your first stop. Click Empire on the menu bar, then Choose Location.
+\par 
+\par The Editor contains 40 different Empire states. Use the up a
+nd down arrow keys to scroll through the choices. Watch the brief text description at the bottom of the screen for a rough idea of the city's qualities. When one catches your eye, click on the city flying the black and gold eagle standard (the player's ci
+ty) to see what resources it has.
+\par 
+\par When you find a city with the characteristics you want, jot down which resources it can produce. Notice whether its trade routes are all land, all sea, or a mix. Click on each of its trading partners (cities with red stand
+ards) and note what goods they buy and sell.
+\par 
+\par Armed with this information, you are ready to create your province. Click the OK button to confirm the Empire state and return to the map Editor.}{\f2\lang1033\cgrid0 
+\par 
+\par }{\lang1033\cgrid0 C.\tab Create your map
+\par 
+\par First, form a concept for your province. Th
+e Empire state that you chose sets some broad parameters, but you should have some idea of how hard the assignment will be, its central challenges, and how its map should look. Assignments with a clear concept behind them are usually more fun than enormou
+s maps that offer the player everything, then throw out seemingly random obstacles.  
+\par 
+\par Decide how large the province will be. Under File, choose New Map. Choose one of six sizes, ranging from Tiny to Enormous. Map size affects how long the game will last an
+d how complex your terrain can be. Use smaller maps for simple landforms and low population requirements, when you want players to be able to finish your assignment in a single gaming session. Larger maps let you get fancy with elevations and other map fe
+atures, or to require large populations.
+\par 
+\par Now create terrain. Think about where in the Empire your city is, and make the map rough or flat, wet or dry, riverside or coastal, as seems logical. 
+\par 
+\par Rivers and coastlines are usually the biggest features on your map. Create them first. See section III B for more ideas.
+\par 
+\par Once you've divided the land from the waters, elevations are the next-biggest feature. Raise up any land that you want elevated. See section III C for more thoughts about terrain height.
+\par 
+\par Before you go much further, lay out the Road to Rome. This road can be as long and convoluted, or as short and direct, as you want. It must have an entry and an exit point, though.
+\par 
+\par Most players' biggest consideration in starting a new city is the abundance and location of farmland. Read guidelines for meadows in section III D.
+\par 
+\par Now add rocks. If your map offers iron mines or marble, rocks are a resource; their location and abundance depend entirely on how accessible or scarce you want iron and marble to be
+. If neither of those raw materials are available, the rocks are merely an obstacle.
+\par 
+\par Trees and scrub are the last map element. Like rocks, these are resources. If your province has timber yards, place trees carefully, based on abundance and accessibility.
+ Without timber yards, trees are just a removable barrier. (Trees and scrub are both resources for timber; the two types give you some graphical variety. The larger you build a patch of trees, the denser it appears in its center. The same is not true for 
+scrub).
+\par 
+\par II.\tab Map attributes
+\par 
+\par A.\tab Set entry, exit and way points
+\par 
+\par Your map is just a picture of a landscape until you define its attributes. Use the lower buttons on the Editor's control panel to set these characteristics.
+\par 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls21\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls21\adjustright {\lang1033\cgrid0 
+Earthquake: No province can have
+ more than one, and most provinces haven't any. Create an earthquake if your province is in an area that you know to be geologically active, or to give players a different challenge during an interlude free of invasions and requests. To remove a quake mar
+ker, go to the attribute panel and turn off Earthquakes in the special events list.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 The marker defines the quake's epicenter. You will set its size later, in the attribute panel. Earthquakes occur when and where you choose, and affect a radius defined by t
+heir size, but the actual path that the fault lines follow is determined randomly each game. 
+\par 
+\par WARNING: The quake's fault lines can block the road to Rome. Don't place the quake marker within about 20 tiles of the map's entry and exit points, or your map might become unplayable. Always take care when placing earthquakes that you don\rquote 
+t block players\rquote  access to needed resources.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls22\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls22\adjustright {\lang1033\cgrid0 
+Invasion points: Set locations at which enemy armies can appear. Later, in the attribute panel, you will decide wheth
+er invasions take place at particular markers, or randomly. As you place invasion points, be careful not to strand your invaders on the wrong side of a river, or behind an impassible reach of rocks or trees.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Invaders must arrive on clear, flat land. The p
+rogram will not let you place markers on 'illegal' locations. If you define any enemy invasions, you need at least one invasion point. If your assignment has no invasions, you need not place any of these markers.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls23\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls23\adjustright {\lang1033\cgrid0 
+Entry and Exit points: Quite simply, wh
+ere immigrants arrive from, where emigrants depart to, and where caravans enter and exit. There are no restrictions, apart from being on clear, flat land - they can be right next to each other, if you want - but it is customary to place them on opposite s
+ides of the map.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls24\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls24\adjustright {\lang1033\cgrid0 
+River Entry and Exit: These markers define where flotsam enters and leaves the map, and where the navigation channel is. Trading ships, if any, appear and disappear from the river entry point, but players must not bloc
+k the route between the river entry and exit points with low bridges. You don't need these markers in provinces with no seaborne trade.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls25\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls25\adjustright {\lang1033\cgrid0 
+Native Hut/Center/Field: These create indigenous tribes. Native huts produce native walkers, which players must paci
+fy by building mission posts. In order to do so, the missionaries need roads linking the huts and center(s) together. It would be courteous to link your native structures with paths (although you don't need to do so). Native fields are purely for graphica
+l effect, and there\rquote s no reason to run paths to these fields.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0  
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls26\adjustright {\lang1033\cgrid0 
+Fishing/Herd points: If your map includes fishing, place up to eight fishing points offshore. Any number of fishing boats can use one fishing point. The considerations in placing multiple po
+ints are graphical (more fishing points look more abundant), and travel time. Fishing boats sail to the nearest fishing point, so place them near areas that you want to encourage players to settle. Players will tend to seek wharf locations near the points
+ that you place. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par {\pntext\pard\plain\s15 \f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \s15\fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls52\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls52\adjustright \f2\fs20 {\f1 
+Place at least one herd point if you want the province to have animals. Northern provinces will have wolves; central maps have sheep; and southern maps feature zebras. Setting multiple herd points creates more, but smaller, groups of animals.
+\par }\pard \s15\li360\nowidctlpar\widctlpar\adjustright {\f1 
+\par }\pard \s15\nowidctlpar\widctlpar\adjustright {\f1 B.\tab Attributes panel
+\par 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 Click the button on the right, under the radar map, to open the panel from which you set in motion your province's events.
+\par 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls27\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls27\adjustright {\lang1033\cgrid0 
+Starting Conditions: First, enter a brief description for your map. This name will appear on the se
+lection screen for the City Construction Kit. In Caesar III, we used the name of your starting city. To avoid confusion, we recommend that you choose some other name for your map, especially if you expect to trade maps with other players.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Now set the play
+er's rank. Lower ranks earn smaller salaries, and display a lower difficulty level on the map selection screen. The player's rank should reflect the overall difficulty of your map. Citizen, Clerk and Engineer are all for easy assignments; Architect, Quaes
+tor, Procurator and Aedile are for medium maps; and Praetor, Consul and Proconsul should be the most difficult missions.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Start date is, by default, 500 BC. You can choose any date between 999 BC and AD 999.  We suggest that you use earlier dates for smalle
+r Empire states and later dates for larger Empires.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par }\pard\plain \s18\li360\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1 
+Initial Funds are your beginning bankroll. Dangerous provinces should have larger initial funds, especially if you've scheduled early invasions. Consider the total number of trade routes in your Empire s
+tate, whether players need to open the routes early, and how much they'll need to import so their city can thrive. 
+\par }\pard \s18\nowidctlpar\widctlpar\adjustright {\f1 
+\par }\pard \s18\li360\nowidctlpar\widctlpar\adjustright {\f1 The cost to open a trade route ranges all the way from 100 to 5,000 denarii, with the average being about 700 dn. If early trade isn't cruc
+ial to player success, just multiply 700 by the number of trading partners for a rough idea of what the routes will cost. If you'd rather know the exact costs, see the table near the end of this document. 
+\par }\pard \s18\nowidctlpar\widctlpar\adjustright {\f1 
+\par }\pard \s18\li360\nowidctlpar\widctlpar\adjustright {\f1 Rescue Loan is the money Caesar gives you if you 
+run through your Initial Funds. The rescue loan is customarily 1/3 to 1/2 the amount of starting funds, although nothing constrains you from setting any value you want. Set these numbers lower or higher to pressure players into establishing industry and t
+rade early, or to relieve the pressure to do so.}{
+\par }\pard \s18\nowidctlpar\widctlpar\adjustright { 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Should Rome Supply Wheat? If you have a specific reason for taking food concerns off the player, set this to Yes. Farming is often one of a city's larger emplo
+yers. If you do choose to remove food farming from your assignment, think about how you'd like the player to employ those plebes who would otherwise be farming, and design your map with other labor demands in mind.
+\par }{
+\par }{\f1 Turn Flotsam on only if your map has seaborne trade. If you defined a navigation channel by placing River Entry/Exit points, flotsam will drift from the entry to the exit. Turning flotsam On signals to players that seaborne trade is possible.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Finally, set the milestones by which Caesar judges t
+he player's performance. You set time frames for players to accomplish 25, 50 and 75 percent of their defined goals. If players achieve these milestones, their Favor rating rises 5 points; if they fail, it falls by 2.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f2\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls28\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls28\adjustright {\lang1033\cgrid0 
+Terrain Set: Choose Northern, Central or Southern tiles. Your choice should depend upon where on the Empire map your city is located.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0  
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 The terrain set affects more than the map's appearance. If you placed Herd Points on your map, you will get wolves in the north, sheep in the center and z
+ebras in the south. Furthermore, northern maps have no fire risk, while southern maps are highly combustible.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f2\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls29\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls29\adjustright {\lang1033\cgrid0 
+Requests: Requests from Caesar let players raise their Favor rating, which is hard to affect otherwise. They also spur players to develop industry early. You can schedule up to 20 requests for your assignment.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 
+Keep some pressure on players and give them the chance to improve their Favor, but don't ask for too much too soon, or too often. Space the requests out over the time that you expect your
+ assignment to span - but don't be too regular about it, either. The game's Emperor screen can only display five requests at a time, but the Editor lets you make all 20 requests overlap in time, if you so desire. To avoid display problems, don't have more
+ than five Emperor requests active at once.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 
+Make sure you don't ask them for something that isn't in their power to provide! Players will grow quite angry if their Favor falls because Caesar wants something they can neither produce nor import. Vary the commodity that Caesar wants, too.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Keeping these guidelines in mind, the process of creating Emperor requests is simple. Click on a request slot. On the panel that opens, enter:
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls30\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls30\adjustright {\lang1033\cgrid0 
+The number of years from the starting date that the request is made;
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls31\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls31\adjustright {\lang1033\cgrid0 The n
+umber of cartloads Caesar wants;
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls32\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls32\adjustright {\lang1033\cgrid0 
+The commodity that Caesar wants;
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls33\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls33\adjustright {\lang1033\cgrid0 
+The deadline by which he wants them; and
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls34\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls34\adjustright {\lang1033\cgrid0 
+The boost in Favor players receive from success.}{\f2\lang1033\cgrid0 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f2\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls35\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls35\adjustright {\lang1033\cgrid0 
+Invasions: The same considerations that go into scheduling Emperor requests apply to invasions. Assuming that you set Invasion Point markers, you can schedule up to 20 invasions. Give the player time to get the city running before you start the military p
+ressure, then start with a small force and work up gradually to major invasions. Pace the military action in a reasonable manner, but try not to be too predictable. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 The Editor's interface doesn't block you from scheduling invasions very close in time. Exe
+rcise restraint. Too many invasions in too little time not only angers players, but might actually cause some problems with the program. Don't schedule a fourth invasion until the first one has taken place. The easiest way to do this is to schedule invasi
+o
+ns at least one year apart, but if you do plan two for the same year, leave an ensuing year free of military action. Never schedule more than the 120-invader maximum in a given year. If you want to have two invasions in one 12-month period, break them int
+o forces of 60 men each.
+\par 
+\par To see where crossed-sword markers will appear, and to see the paths armies will follow in case of a Distant Battle, press CTRL+A.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0  
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Remember that, as a designer, you are not trying to defeat the player! Your goal is to provide an appropriate level of challenge.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0  
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 The setup panel for invasions looks much like that for requests. You will see fields for:
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls36\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls36\adjustright {\lang1033\cgrid0 
+The number of years from the starting date that enemies invade;
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls37\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls37\adjustright {\lang1033\cgrid0 
+The number of invaders. Like your own legions, one 'full force' of enemies contains 16 fighters; 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls38\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls38\adjustright {\lang1033\cgrid0 
+The invaders' type. Choose an enemy army of the nationality you chose with the 'Enemy' button, local raiders (which are always barbarians), or a Distant Battle (explained below);
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls39\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls39\adjustright {\lang1033\cgrid0 
+The origin of the invasion, according to where you placed Invasion markers. Choose a specific location, or random. Invasions are harder to defend against if you vary your locations; 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlblt\ilvl0\ls40\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls40\adjustright {\lang1033\cgrid0 
+The invaders' target. Have them attack the player's food chain, gold stores, best buildings, troops or a random attack.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {Distant Battles are military actions that 
+occur outside the province. If you define a Distant Battle, Caesar will ask the player to contribute troops for the defense of a city elsewhere in the Empire (chosen by the program). }{\lang1033\cgrid0 
+If the player doesn't send an army, Favor falls by 50; if he sends an arm
+y that arrives too late, Favor drops 25; if his army loses the battle, Favor falls 10 points; and if the player's army defeats the invaders, Favor rises by 25 -- and, Caesar lets him build a triumphal arch. 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 
+\par Combat calculations for Distant Battles depend 
+upon the number of soldiers the player sends, their type, and whether they were trained at a military academy. If players send non-academy auxiliaries, they need at least one soldier per invader to prevail. Academy-trained auxiliaries or untrained legiona
+r
+ies can prevail against 2:1 odds, and trained legionaries can handle 3:1 odds. Caesar asks the player for a small army if your invasion force has fewer than 46 soldiers. Define 47 to 89 units to prompt a medium army request, or more than 90 units to spur 
+a large army request.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f2\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls41\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls41\adjustright {\lang1033\cgrid0 
+Buildings allowed: Until you highlight particular buildings here, players can build anything and everything in the game (subject to the resource restrictions imposed by your Empire state). 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Restrict players' options according to y
+our assignment design. If it is a small province early in the Empire, you might want to withhold the hippodrome and chariot maker. If no marble is available through mining or trade, don't dangle oracles and large temples before the player. If there's no f
+ishing, turn off the shipyard and wharf. (See section III A for more about fishing). In the absence of native tribes, take away mission posts. If yours is a peaceful province, disallow the military structures.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Remember that the allowed resources are determined by the Empire state. Any structures you disallow through this panel should reflect your province's pre-defined resources. You don
+\rquote t need to specify which farms and workshops are available. If your Empire state gives the player wheat and vegetables, but not fruit or meat, then allowing Farms automatically offers only wheat and vegetable farms.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f2\lang1033\cgrid0   
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls42\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls42\adjustright {\lang1033\cgrid0 
+Win Criteria: Caesar normally expects targets in Culture, Prosperity, Peace and Favor, although you can specify that one or more ratings won't count toward victory. If the city must reach a minimum population, enter that here.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s18\li360\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1 
+Impose a Time Limit if you want the game to end after a certain time. This option lets you design 'race the clock' assignments, giving a player low ratings goals, but little time to reach them. 
+\par }\pard \s18\nowidctlpar\widctlpar\adjustright {\f1 
+\par }\pard \s18\li360\nowidctlpar\widctlpar\adjustright {\f1 
+Or, if you've designed a province with unattainable goals, define a Survival time - that is, if the player manages to last a given number of years, he wins by virtue of not having lost. Provinces lacking key resources, or experiencing heavy mil
+itary action, or plagued by large native tribes, might fall into this category. 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 
+\par Time Limit and Survival Time are new game options not used in any of Caesar III's original assignments.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f2\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls43\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls43\adjustright {\lang1033\cgrid0 
+Special Events: Simply toggle these on or off, and the program decides randomly when they happen. Earthquakes, Gladiator Revolt and Change of Emperor let you specify when they occur. Set the Earthquake's size here, too. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 A Change of Emperor resets the player's Favor rating to 50 (neutral). Sea and land trade problems de
+lay ships and caravans. Rome's wage rate changes the default (30 denarii) that makes players' plebes happy. Contaminated Water lowers the city's health. Iron mine and clay pit disasters destroy one of these structures. Don't toggle these on unless your pr
+ovince includes clay or iron!
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f2\lang1033\cgrid0 
+\par {\pntext\pard\plain\f3\fs20 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls44\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls44\adjustright {\lang1033\cgrid0 
+Price Changes: Schedule up to 20 fluctuations in the price of commodities. For each change, click its button to specify when it happens, what is affected, whether it rises or falls and by how much.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\lang1033\cgrid0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 Use price changes to sim
+ulate the effects of supply and demand. Generally, if a player is importing a commodity, it should grow more expensive as time goes on and the city demands more of it. Players' exports should earn less money as the city produces more and more. Don't defin
+e price changes for goods that the player cannot trade.
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 
+\par Finally, notice the arrow buttons below the picture on this panel. Use these to select the picture that appears on the Construction Kit's scenario selection screen. The picture should reflect some aspect of your province's design.
+\par 
+\par }\pard\plain \s15\nowidctlpar\widctlpar\adjustright \f2\fs20 {\f1 That's it! Save your work. If you haven\rquote t already jumped down to the Tips section, keep reading.
+\par 
+\par III.\tab Tips
+\par 
+\par }\pard\plain \nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\lang1033\cgrid0 A.\tab General
+\par 
+\par As you design your map, don't assume that people will play it the way you expect. Caesar III accomodates a large variety of playing styles; your map should, to
+o. There should be multiple ways to win, not a single successful design that players have to discover.
+\par 
+\par Save often. Don't risk losing hours of work to a random failure. You should certainly save your map any time you complete a major design step. Saving mu
+ltiple versions of your map, each with a different file name, gives you more flexibility to change your mind if you pursue an idea that doesn\rquote t work out.
+\par 
+\par Save your map with a unique file name, not just the city name. Remember that there are many, many other map designers out there, and people trade maps avidly. Give the file an odd name to lessen the likelihood of conflict with other designers' efforts. 
+
+\par 
+\par The program creates a file in your Caesar III folder called (yourname).map. When you want to share your completed map (see below), this is the file you should transfer.
+\par 
+\par Fishing requires some special care. If your chosen Empire state lists meat as a player city resource, then do not place fishing points or allow shipyards or fishing wharves. Doing so will 
+cause pig farms to grow fish! Allow shipyards and fishing wharves ONLY in provinces that don't have meat.
+\par 
+\par Each Empire state's text description specifies 'no fishing' if meat is available. 'Fishing OK' means you can add it or not, as you like. Instances wh
+ere fishing would allow players to reach the three food types that housing needs to evolve to high levels are also noted. 
+\par 
+\par Of course, saying that fishing is OK doesn't mean it's necessarily desirable. Use common sense. If you are designing an inland province, fishing is a dubious offering. If you include it at all, limit its potential with jagged shorelines.
+\par 
+\par To swap tips with other designers or find help with specific questions not covered by this document, point your browser at }{\field{\*\fldinst {\lang1033\cgrid0  HYPERLINK http://www.caesar3.com }{\lang1033\cgrid0 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000100000007700770077002e0063006100650073006100720033002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b3000000068007400740070003a002f002f007700770077002e0063006100650073006100720033002e0063006f006d002f00
+000000495400000000}}}{\fldrslt {\cs16\ul\cf2 www.caesar3.com}}}{\lang1033\cgrid0 , the Impressions web site.
+\par 
+\par 
+\par B.\tab Water
+\par 
+\par Will your province have seaborne trading? Should drinking water be plentiful or scarce? Is fishing going to be an option? If you are making isl
+ands or carving your landmass into pieces separated by water, where do you want to let players build bridges? Design coastline very carefully.
+\par  
+\par Remember that bridges must connect a straight, piece of one shore to a straight piece of the opposite shore, an
+d that ship bridges must be at least five tiles long. If you expect players to bridge your map's navigation channel, make sure you give them appropriate locations for ship bridges.
+\par 
+\par Remember, too, that docks, shipyards and wharves all need straight diagona
+l segments of coastline. The shape of your coastline or shores determines where these crucial facilities can be built, and goes a long way toward defining the map's character. Sculpt bodies of water very carefully in provinces that have seaborne trade, fi
+shing, or both.
+\par 
+\par Finally, remember that all maps need at least one small body of water for reservoirs, and for clay pits if they can dig clay. If you want to make players transport drinking water through extensive aqueducts and reservoirs, it is fine to res
+trict the water supply to one edge of the map - just don't do that by omission. Unless you want to challenge their water distribution prowess, place bodies of water more or less equally around the map. 
+\par 
+\par As important as it is that you lay out your shorelin
+es precisely, don't take this approach to an extreme. A medium-to-large map that has only one valid location for a dock, or that requires bridges to be built in only very limited places, can tax a player's patience. Players should have strategic choices a
+vailable. Don't just make them hunt for the only alternative you've given them. Only use that level of restriction on small maps.
+\par 
+\par II\tab Trade route costs:
+\par 
+\par Empire State/cost to open trade route and city name
+\par 
+\par }{1\tab 500 Lutetia\tab 700 Mediolanum400 Massilia\tab 500 Narbo
+\par 2\tab 100 Athenae\tab 600 Brundisium\tab 700 Tarentum\tab 1000 Syracusae
+\par 3\tab 350 Lindum\tab 300 Calleva\tab 550 Augusta Tre.450 Lutetia
+\par 4\tab 600 Capua\tab 1000 Brundisium
+\par 5\tab 300 Calleva\tab 350 Londinium\tab 450 Lutetia\tab 550 Augusta Tre.
+\par 6\tab 600 Carthago N.400 Valentia\tab 800 Tarraco
+\par 7\tab 350 Carthago N.450 Tarraco\tab 550 Roma\tab 600 Capua
+\par 8\tab 400 Volubilis\tab 350 Tingis\tab 450 Carhago N.\tab 500 Valentia
+\par 9\tab 450 Caesarea\tab 300 Thamugadi\tab 550 Syracusae
+\par 10\tab 600 Leptis Mag.\tab 1000 Syracusae900 Corinthus\tab 1000 Miletus
+\par 11\tab 350 Carthago N.450 Mediolanum550 Roma\tab 600 Capua
+\par 12\tab 200 Damascus\tab 300 Heliopolis\tab 400 Antiocha\tab 1300 Ephesus
+\par 13\tab 1275 Tarentum\tab 925 Capua\tab 1900 Syracusae800 Massilia950 Narbo\tab 1800 Tingis
+\par 14\tab 1000 Carthago\tab 1050 Roma\tab 850 Capua\tab 950 Tarentum\tab 1150 Brundisium\tab 1400 Corinthus\tab 1750 Athenae
+\par 15\tab 850 Carthago N.1100 Mediolanm1400 Roma\tab 1550 Capua
+\par 16\tab 1275 Alexandria1100 Hierosolum850 Damascus\tab 600 Antiocha\tab 1350 Miletus
+\par 17\tab 650 Volubilis\tab 850 Caesarea\tab 1000 Carthago N.1475 Valentia
+\par 18\tab 750 Londinium\tab 300 Argentorat.\tab 450 Lugdunum\tab 600 Lutetia\tab 1200 Narbo
+\par 19\tab 600 Tingis\tab 500 Toletum\tab 600 Valentia\tab 1200 Caesarea\tab 5000 Roma
+\par 20\tab 350 Thamugadi\tab 600 Carthago\tab 900 Syracusae\tab 850 Athenea
+\par 21\tab 1200 Tarentum\tab 750 Pergamum\tab 600 Ephesus\tab 650 Miletus
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 22\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {400 Capua
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 23\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {400 Tarentum\tab 
+600 Syracusae
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 24\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {600 Syracusae\tab 400 Capua
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 25\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {650 Tarentum\tab 350 Capua
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 26\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {500 Tarentum\tab 500 Capua
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 27\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {600 Athenae\tab 600 Corinthus
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 28\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {400 Capua\tab 600 Massilia
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 29\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {600 Mediolanum400 Massilia
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 30\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {1000 Syracusae300 Thamugadi
+\tab 600 Caesarea
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 31\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {500 Alexandria\tab 
+400 Hierosolyma400 Damascus\tab 500 Miletus
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 32\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {1000 Carthago N.700 Caesarea
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 33\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {600 Tingis\tab 
+500 Carthago N.800 Carthago
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 34\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {500 Mediolanum500 Lugdunum
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 35\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {500 Volubilis\tab 500 Tingis
+\tab 250 Carthago N.500 Valentia
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 36\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {750 Athenae\tab 
+750 Mediolanum
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 37\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {650 Augusta Tre.700 Lutetia
+\tab 500 Lindum\tab 500 Calleva
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 38\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {450 Hierosolyma500 Tarsus
+
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 39\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {500 Valentia\tab 500 Tarraco
+\tab 300 Lugdunum\tab 350 Mediolanum
+\par {\pntext\pard\plain\f1\fs20\lang2057\cgrid \hich\af1\dbch\af0\loch\f1 40\tab}}\pard \fi-720\li720\nowidctlpar\widctlpar\jclisttab\tx720{\*\pn \pnlvlbody\ilvl0\ls45\pnrnot0\pndec\pnstart22\pnindent720\pnhang}\ls45\adjustright {400 Calleva\tab 500 Londinium
+\tab 700 Lutetia\tab 650 Augusta Tre.
+\par }\pard \nowidctlpar\widctlpar\adjustright {
+\par }{\f0 III\tab ADDITIONAL INFORMATION
+\par 
+\par The Sierra website (}{\cs16\f0\ul\cf2 WWW.Sierra.com}{\f0 
+)  contains community message boards, moderated by volunteers, which are frequented by many devotees of Caesar 3.  Gameplay and even technical questions are often answered there by fellow gamers.  Although these boards, with the exception of the technical
+ support board, are not officially monitored by Sierra, you may find that your questions are often answered by people who worked on the project.}{\tab 
+\par 
+\par IV\tab CONTACTING SIERRA
+\par =========================
+\par 
+\par A) Customer Service, Support, and Sales
+\par B) Technical Support
+\par C) Legal Information
+\par 
+\par 
+\par A) Customer Service, Support, and Sales
+\par ----------------------------------
+\par United States\tab 
+\par 
+\par U.S.A. Sales Phone: (800) 757-7707
+\par International Sales:  (425) 746-5771 
+\par Hours: Monday-Saturday 7AM to 11 PM CST,
+\par Sundays 8 AM to 9PM CST 
+\par FAX: (402) 393-3224\tab 
+\par \tab 
+\par Sierra Direct\tab \tab \tab \tab 
+\par 7100 W. Center Rd\tab \tab \tab 
+\par STE 301\tab \tab \tab \tab 
+\par Omaha, NE  68106\tab \tab \tab 
+\par 
+\par United Kingdom
+\par 
+\par Cendant Software International Limited\tab 
+\par Main: (0118) 920-9111
+\par Monday-Friday, 9:00 a.m. - 5:00 p.m.
+\par Fax:   (0118) 987-5603
+\par Disk/CD replacements in the U.K. are \'a36.00,
+\par or \'a37.00 outside the UK. Add "ATTN.: Returns."
+\par 
+\par 2 Beacontree Plaza,\tab \tab \tab 
+\par Gillette Way,\tab \tab \tab \tab 
+\par Reading, Berkshire\tab \tab \tab 
+\par RG2 0BS United Kingdom\tab \tab 
+\par 
+\par 
+\par France
+\par 
+\par Cendant Software International Limited
+\par Phone: (01) 46-01-46-50
+\par Lundi au Vendredi de 9h \'e0 19h 
+\par Fax: (01) 46-30-00-65
+\par 
+\par Parc Tertiaire de Meudon\tab \tab 
+\par Immeuble "Le Newton"\tab \tab 
+\par 25 rue Jeanne Braconnier \tab \tab 
+\par 92366 Meudon La For\'eat Cedex
+\par France
+\par 
+\par 
+\par Germany
+\par 
+\par Cendant Software International Limited \tab 
+\par Tel: (0) 6103-99-40-40
+\par Montag bis Freitag von 9h - 19Uhr
+\par Fax: (0) 6103-99-40-35
+\par 
+\par Robert-Bosh-Str. 32\tab \tab \tab 
+\par D-63303 Dreieich\tab \tab \tab 
+\par Germany
+\par 
+\par 
+\par On-Line Sales
+\par CompuServe United Kingdom:GO UKSIERRA
+\par CompuServe France:\tab   GO FRSIERRA
+\par CompuServe Germany:    GO DESIERRA
+\par Internet USA:\tab \tab   http://www.sierra.com
+\par Internet United Kingdom:  http://www.sierra-online.co.uk
+\par Internet France:  \tab   http://www.sierra.fr
+\par Internet Germany:\tab   http://www.sierra.de
+\par 
+\par B) TECHNICAL SUPPORT
+\par -------------------------
+\par North America
+\par 
+\par Sierra On-Line offers a 24-hour automat
+ed technical support line with recorded answers to the most frequently asked technical questions. To access this service, call (425) 644-4343, and follow the recorded instructions to find your specific topic and resolve the issue. If this fails to solve y
+our problem, you may still write, or fax us with your questions, or contact us via our Web site.
+\par 
+\par Sierra On-Line\tab \tab \tab \tab 
+\par Technical Support
+\par P.O. Box 85006\tab \tab \tab 
+\par Bellevue, WA 98015-8506\tab 
+\par 
+\par Main: (425) 644-4343
+\par Monday-Friday, 10:00 a.m.- 6:45 p.m.  PST 
+\par Fax:   (425) 644-7697
+\par 
+\par http://www.sierra.com
+\par support@sierra.com
+\par 
+\par 
+\par United Kingdom
+\par 
+\par Cendant Software International Limited offers a 24-hour Automated Technical Support line with recorded answers to the most frequently asked technical questions. To access thi
+s service, call (0118) 920-9111, and follow the recorded instructions to find your specific topic and resolve the issue. If this fails to solve your problem, you may still write, or fax us with your questions, or contact us via our Internet or CompuServe 
+sites.
+\par 
+\par Cendant Software International Limited\tab 
+\par 2 Beacontree Plaza,\tab \tab \tab 
+\par Gillette Way,\tab \tab \tab \tab 
+\par Reading, Berkshire\tab \tab \tab 
+\par RG2 0BS United Kingdom\tab 
+\par 
+\par Main: (0118) 920-9111
+\par Monday-Friday, 9:00 a.m. - 5:00 p.m.
+\par Fax:   (0118) 987-5603
+\par 
+\par http://www.sierra-online.co.uk
+\par 
+\par }{\f0 France
+\par 
+\par Cendant Software International Limited
+\par Phone: (01) 46-01-46-50
+\par Lundi au Jeudi de 10h \'e0 19h
+\par Vendredi 10h \'e0 18h 
+\par Fax: (01) 46-30-00-65
+\par 
+\par Parc Tertiaire de Meudon\tab \tab 
+\par Immeuble "Le Newton"\tab \tab 
+\par 25 rue Jeanne Braconnier \tab \tab 
+\par 92366 Meudon La For\'eat Cedex
+\par France
+\par }{
+\par 
+\par Germany
+\par 
+\par Cendant Software International Limited
+\par Robert-Bosh-Str. 32\tab \tab \tab 
+\par D-63303 Dreieich\tab \tab \tab 
+\par Deutschland\tab \tab \tab \tab 
+\par 
+\par Tel: (0) 6103-99-40-40
+\par Montag bis Freitag von 9 - 19Uhr
+\par Fax: (0) 6103-99-40-35
+\par Mailbox: (0) 6103-99-40-35
+\par 
+\par http://www.sierra.de
+\par 
+\par 
+\par Spain
+\par 
+\par Cendant Software International Limited
+\par Avenida de Burgos 9\tab \tab \tab 
+\par 1\'ba-OF2\tab \tab \tab \tab \tab 
+\par 28036 Madrid
+\par Spain
+\par 
+\par Tel\'e9fono: (01) 383-2623
+\par Lunes a Viernes de 9h30 a 14h y de 15h a 18h30
+\par Fax: (01) 381-2437
+\par 
+\par 
+\par Italy
+\par 
+\par Contattare il vostro distribotore.\tab 
+\par 
+\par 
+\par }{\f0 C) Sierra Warranty & Legal Information
+\par -------------------------------------------------
+\par 
+\par V\tab END USER LICENSE AGREEMENT
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\b\f0 
+\par YOU SHOULD CAREFULLY READ THE FOLLOWING END USER LICENSE AGREEMENT BEFORE INSTALLING THIS SOFTWARE PROGRAM. IF YOU DO NOT AGREE WITH THE TERMS OF THIS AGREEMENT, YOU SHOULD NOT INSTALL THE SOFTWARE.
+\par }\pard\plain \s17\qj\sa120\nowidctlpar\tx360\tx720\adjustright \f4\fs20\cf1\cgrid {\f0\cf0 
+\par This software program, any printed materials, any on-line or electronic documentation, and any and all copies and derivative works of such software program and materials }{\f0 (the "Program")}{\f0\cf0 
+ are the copyrighted work of Sierra On-Line, Inc., its subsidiaries, affiliates, licensors and/or its suppliers. All use of the Program is governed by the terms of the End User License Agreement which is provided below ("}{\f0\ul\cf0 License Agreement}{
+\f0\cf0 "). The Program is solely for use by end users according to the terms of the License Agreement. Any use, reproduction or redistribution of the Program not in accordance with the terms of the License Agreement is expressly prohibited.
+\par }\pard\plain \qc\nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f0\ul END USER LICENSE AGREEMENT
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f0\ul 
+\par }\pard\plain \s17\qj\fi360\sa120\nowidctlpar\adjustright \f4\fs20\cf1\cgrid {\f0\cf0 1. }{\f0\ul\cf0 Limited Use License}{\f0\cf0 . Sierra On-Line, Inc. (\ldblquote }{\f0\ul\cf0 Sierra\rdblquote }{\f0\cf0 
+) hereby grants, and by installing the Program you thereby accept, a limited, non-exclusive license and right to install and use one (1) copy of the Progra
+m for your use on either a home or portable computer. The Program may also contain a Level Editor (the \ldblquote }{\f0\ul\cf0 Editor}{\f0\cf0 \rdblquote 
+) that allows you to create custom levels or other materials for your personal use in connection with the Program (\ldblquote }{\f0\ul\cf0 New Materials}{\f0\cf0 \rdblquote ). All use of t
+he Editor or any New Materials is subject to this License Agreement. The Program is licensed, not sold. Your license confers no title or ownership in the Program.
+\par 2. }{\f0\ul\cf0 Ownership}{\f0\cf0 . All title, ownership rights and intellectual property rights in and to the Prog
+ram and any and all copies thereof (including but not limited to any titles, computer code, themes, objects, characters, character names, stories, }{\f0 text,}{\f0\cf0 
+ dialog, catch phrases, locations, concepts, artwork, animations, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, any related documentation, and \ldblquote applets\rdblquote 
+ incorporated into the Program) are owned by Sierra or its licensors. The Program is protected by the copyright laws of the United States, international copyright treaties and conventions and other laws. All rights are reserved. The Program }{\f0 
+may contain}{\f0\cf0  certain licensed materials and Sierra\rquote s licensors may act to protect their rights in the event of any violation of this Agreement.
+\par 3. }{\f0\ul\cf0 Responsibilities of End User}{\f0\cf0 .
+\par }\pard \s17\qj\sa120\nowidctlpar\tx360\tx720\adjustright {\f0\cf0 \tab A. Subject to the }{\f0 grant of license}{\f0\cf0  hereinabove, you may not, in whole or in part, copy, photocopy, reproduce, translate, reverse engineer, derive source code}{\f0  from
+}{\f0\cf0 , modify, disassemble, decompile, }{\f0 or}{\f0\cf0  create derivative works based on the Program, or remove any proprietary notices or labels on the Program without the prior consent, in writing, of Sierra.
+\par \tab B. The Program is licensed to you as a single product. Its component parts may not be separated for use on more than one computer. 
+\par }{\f0 \tab C. You are entitled to use the Program for your own use, but you are not entitled to:
+\par }\pard \s17\qj\fi-540\li1620\sa120\nowidctlpar\tx360\tx720\adjustright {\f0 (i) \tab sell, grant a security interest in or transfer reproductions of the Program to other parties in any way, nor to rent, lease or lice
+nse the Program to others without the prior written consent of Sierra.
+\par (ii) \tab exploit the Program or any of its parts for any commercial purpose including, but not limited to, use at a cyber caf\'e9, computer gaming center or any other location-based site. Sie
+rra may offer a separate Site License Agreement to permit you to make the Program available for commercial use; contact Sierra for details;}{\f0\cf0 
+\par }\pard\plain \s15\li360\nowidctlpar\widctlpar\adjustright \f2\fs20 {\b\f0 (iii) \tab use or allow third parties to use the Editor and the New Materials created thereby for commercial purposes in
+cluding, but not limited to, distribution of New Materials on a stand alone basis or packaged with other software or hardware through any and all distribution channels, including, but not limited to, retail sales and on-line electronic distribution withou
+t the express written consent of Sierra; and
+\par }\pard\plain \fi-270\li1620\nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f0 
+\par }\pard \qj\fi-547\li1627\sa120\nowidctlpar\widctlpar\adjustright {\f0 (iv)\tab }{\f0\cgrid0 
+host or provide matchmaking services for the Program or emulate or redirect the communication protocols used by Sierra in the network feature of the Program, through protocol emulation, tunneling, modifying
+ or adding components to the Program, use of a utility program or any other techniques now known or hereafter developed, for any purpose including, but not limited to network play over the Internet, network play utilizing commercial or non-commercial gami
+ng networks or as part of content aggregation networks without the prior written consent of Sierra.}{\f0 
+\par }\pard\plain \s17\qj\fi360\sa120\nowidctlpar\tx360\tx720\adjustright \f4\fs20\cf1\cgrid {\f0 4. }{\f0\ul Program Transfer}{\f0 . }{\f0\cf0 
+You may permanently transfer all of your rights under this License Agreement, provided the recipient agrees to the terms of this License Agreement and you agree to remove the Program and any New Materials from your home or portable computer.
+\par }\pard \s17\qj\fi360\sa120\nowidctlpar\adjustright {\f0 5. }{\f0\ul Termination}{\f0 . This License Agreement is effective until terminated. You may terminate the License Agreement at any time by destroying the Program an
+d any New Materials. Sierra may, at its discretion, terminate this License Agreement in the event that you fail to comply with the terms and conditions contained herein. In such event, you must immediately destroy the }{\f0\cf0 
+Program and any New Materials.
+\par 6. }{\f0\ul\cf0 Export Controls}{\f0\cf0 . The Program may not be re-exported, downloaded or otherwise exported into (or to a national or resident of) any country to which the U.S. has embargoed goods, or to anyone on the U.S. Treasury Department\rquote 
+s list of Specially Designated Nationals or the U.S. Commerce Department\rquote 
+s Table of Denial Orders. By installing the Program, you are agreeing to the foregoing and you are representing and warranting that you are not located in, under the control of, or a national or resident of any such country or on any such list.
+\par }\pard\plain \qj\fi360\sa120\nowidctlpar\widctlpar\adjustright \f1\fs20\lang2057\cgrid {\f0 7. }{\f0\ul Limited Warranty}{\f0 
+. SIERRA EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE PROGRAM, EDITOR, AND MANUAL(S). THE PROGRAM, EDITOR, AND MANUAL(S) ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT 
+LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. SIERRA FURTHER DISCLAIMS ALL WARRANTIES WITH REGARD TO YEAR 2000 COMPLIANCE OF THE SOFTWARE. SPECIFICALLY, SIERRA MAKES NO WARRANTIES THAT THE PER
+F
+ORMANCE OR FUNCTIONALITY OF THE PROGRAM WILL NOT BE AFFECTED BY DATES PRIOR TO, DURING OR AFTER THE YEAR 2000, OR THAT THE PROGRAM WILL BE CAPABLE OF CORRECTLY PROCESSING, PROVIDING, AND/OR RECEIVING DATE INFORMATION WITHIN AND BETWEEN CENTURIES, INCLUDIN
+G
+ THE PROPER EXCHANGE OF DATE INFORMATION BETWEEN PRODUCTS OR APPLICATIONS. ANY WARRANTY AGAINST INFRINGEMENT THAT MAY BE PROVIDED IN SECTION 2-312(3) OF THE UNIFORM COMMERCIAL CODE AND/OR IN ANY OTHER COMPARABLE STATE STATUTE IS EXPRESSLY DISCLAIMED. The 
+e
+ntire risk arising out of use or performance of the Program and Manual(s) remains with you, however Sierra warrants up to and including 90 days from the date of your purchase of the Program that the master disk on which the Program is furnished shall be f
+r
+ee from defects in material and workmanship. In the event that the master disk proves to be defective during that time period, and upon presentation to Sierra of proof of purchase of the defective Program, Sierra will at its option 1) correct any defect, 
+2) provide you with a product of equal or lesser value, or 3) refund your money.
+\par 8. }{\f0\ul Limitation of Liability}{\f0 . NEITHER SIERRA, ITS PARENT, SUBSIDIARIES, AFFILIATES OR LICENSORS SHALL BE LIABLE IN ANY WAY FOR LOSS OR DAMAGE OF ANY KIND RESULTING FROM THE USE O
+F THE PROGRAM OR EDITOR INCLUDING, BUT NOT LIMITED TO, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES. Some states do not allow the exclusion or limitation of incidental or consequential
+ damages, or allow limitations on how long an implied warranty lasts, so the above limitations may not apply to you.
+\par }\pard \qj\fi360\sa120\nowidctlpar\widctlpar\tx360\adjustright {\f0 9. }{\f0\ul Equitable Remedies}{\f0 . You hereby agree that Sierra would be irreparably damaged if the terms of this License Agreement were not specificall
+y enforced, and therefore you agree that Sierra shall be entitled, without bond, other security, or proof of damages, to appropriate equitable remedies with respect to breaches of this License Agreement, in addition to such other remedies as Sierra may ot
+herwise have available to it under applicable laws.
+\par }\pard \qj\fi360\sa120\nowidctlpar\widctlpar\adjustright {\f0 10. }{\f0\ul Miscellaneous}{\f0 
+. This License Agreement shall be deemed to have been made and executed in the State of California and any dispute arising hereunder shall be resolved in accordance with the law of the Sta
+te of California. You agree that any claim asserted in any legal proceeding by one of the parties against the other shall be commenced and maintained in any state or federal court located in the State of California, County of Los Angeles, having subject m
+a
+tter jurisdiction with respect to the dispute between the parties. This License Agreement may be amended, altered or modified only by an instrument in writing specifying such amendment, alteration or modification, which is executed by both parties. In the
+ 
+event that any provision of this License Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, such provision will be enforced to the maximum extent permissible and the remaining portions of this License Agree
+ment shall remain in full force and effect. 
+\par I hereby acknowledge that I have read and understand the foregoing License Agreement and agree that the action of installing the Program is an acknowledgment of my agreement to be bound by the terms and condition
+s of the License Agreement contained herein. I also acknowledge and agree that this License Agreement is the complete and exclusive statement of the agreement between Sierra and me and that the License Agreement supersedes any prior or contemporaneous agr
+eement, either oral or written, and any other communications between Sierra and me.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f0 
+\par Copyright (1998 Sierra On-Line, Inc.) 
+\par }{
+\par }}
