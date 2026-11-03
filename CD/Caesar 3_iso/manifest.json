@@ -1,0 +1,174 @@
+{
+    "versao_manifesto": 4,
+    "arquivo_original": "Caesar 3.iso",
+    "caminho_relativo_original": "Caesar 3.iso",
+    "tamanho_original_bytes": 655929344,
+    "sha256_original": "b9b17a203bb217a193aabf09f407ff8a3e94e93545e54b49bac1b3926ae3f186",
+    "tamanho_maximo_parte_bytes": 25165824,
+    "tamanho_minimo_fragmentacao_bytes": 26214400,
+    "quantidade_partes_esperada": 27,
+    "partes": [
+        {
+            "numero": 1,
+            "arquivo": "Caesar 3.iso.part0001",
+            "tamanho_bytes": 25165824,
+            "sha256": "ee30474608c4ada572023dd3e78a730336e92be24c8d9bfc0837e81e14fbbe71"
+        },
+        {
+            "numero": 2,
+            "arquivo": "Caesar 3.iso.part0002",
+            "tamanho_bytes": 25165824,
+            "sha256": "dd3867aa50efd407e9e7ecf1af02b855286c3d16d2cd450327ddaaa04ba0dabc"
+        },
+        {
+            "numero": 3,
+            "arquivo": "Caesar 3.iso.part0003",
+            "tamanho_bytes": 25165824,
+            "sha256": "99b828aa82a3b07676d9c3d233e878936a61f2542a90be92e7a35cf07520cae4"
+        },
+        {
+            "numero": 4,
+            "arquivo": "Caesar 3.iso.part0004",
+            "tamanho_bytes": 25165824,
+            "sha256": "ceb794fd7cdf41c4a01a65044858200bfc2b44a2f256eb6d3ebdbd58d86cd2c5"
+        },
+        {
+            "numero": 5,
+            "arquivo": "Caesar 3.iso.part0005",
+            "tamanho_bytes": 25165824,
+            "sha256": "ebbb526465b03924787f846885924e425f7121ff4b9f68bfa7f48a0386f2a53a"
+        },
+        {
+            "numero": 6,
+            "arquivo": "Caesar 3.iso.part0006",
+            "tamanho_bytes": 25165824,
+            "sha256": "3c6fb47ba32b26457fd79c4f5372af7ca066e37a01e5d37a52523ebb9807775e"
+        },
+        {
+            "numero": 7,
+            "arquivo": "Caesar 3.iso.part0007",
+            "tamanho_bytes": 25165824,
+            "sha256": "ab4751d38bc2b44a345d3515aa43bc151acb3f519a9abbddefd3aa8ba288416b"
+        },
+        {
+            "numero": 8,
+            "arquivo": "Caesar 3.iso.part0008",
+            "tamanho_bytes": 25165824,
+            "sha256": "eac9459a67021498dfa6414e271458b9df5b3853bb3edcaf52f84a1b7aeb43c8"
+        },
+        {
+            "numero": 9,
+            "arquivo": "Caesar 3.iso.part0009",
+            "tamanho_bytes": 25165824,
+            "sha256": "e7fd1a9052b92b0a5d6199f2f86c777b3552a32671129618f5067eb7deeec22e"
+        },
+        {
+            "numero": 10,
+            "arquivo": "Caesar 3.iso.part0010",
+            "tamanho_bytes": 25165824,
+            "sha256": "f5dbc76b6b809848a36fbb856ca30bcaf44361d2055f9db4c903c89e0bea9114"
+        },
+        {
+            "numero": 11,
+            "arquivo": "Caesar 3.iso.part0011",
+            "tamanho_bytes": 25165824,
+            "sha256": "d4d7f497bb35cb6475f03b1758293d83bcfa02ad62b4ec64cf49826640c0f498"
+        },
+        {
+            "numero": 12,
+            "arquivo": "Caesar 3.iso.part0012",
+            "tamanho_bytes": 25165824,
+            "sha256": "a54e3d84d0911fac3e949aa25d1109ae0b1c58497c168fdfb7bf0cd120e266aa"
+        },
+        {
+            "numero": 13,
+            "arquivo": "Caesar 3.iso.part0013",
+            "tamanho_bytes": 25165824,
+            "sha256": "9c0c0bf4f95ad7b3fe2786d516547054299f958640c660228afe0f772f46f28d"
+        },
+        {
+            "numero": 14,
+            "arquivo": "Caesar 3.iso.part0014",
+            "tamanho_bytes": 25165824,
+            "sha256": "20db8d2e786b0be29c3fcea39d7a38d6f6fee6d0ec7684666ab8ae7a6a5877e2"
+        },
+        {
+            "numero": 15,
+            "arquivo": "Caesar 3.iso.part0015",
+            "tamanho_bytes": 25165824,
+            "sha256": "81b9db337619b41b817c76e8fb2af7bae1b00a027b4a5161baa55a43027705de"
+        },
+        {
+            "numero": 16,
+            "arquivo": "Caesar 3.iso.part0016",
+            "tamanho_bytes": 25165824,
+            "sha256": "99fb0a1e35b2ffd40006f786a4828f40c56e3ee380f8cff6d5bb2832da045ccd"
+        },
+        {
+            "numero": 17,
+            "arquivo": "Caesar 3.iso.part0017",
+            "tamanho_bytes": 25165824,
+            "sha256": "51f7feb5894389d47e266e6a9bb2077b57d853f7dd310e25d18a64fc7ccaa306"
+        },
+        {
+            "numero": 18,
+            "arquivo": "Caesar 3.iso.part0018",
+            "tamanho_bytes": 25165824,
+            "sha256": "606f4af04342de7c3d328bdc1a348d4f9c182ab0725f7d6c999e6dbecd7746f3"
+        },
+        {
+            "numero": 19,
+            "arquivo": "Caesar 3.iso.part0019",
+            "tamanho_bytes": 25165824,
+            "sha256": "d518f5c3da28a18a0505906c0acd5d74fc6908437096a8704dec0f47a17513d9"
+        },
+        {
+            "numero": 20,
+            "arquivo": "Caesar 3.iso.part0020",
+            "tamanho_bytes": 25165824,
+            "sha256": "c48a7de044ebb99d4c4d3f1b2a444923622f5fda7f211fce2f467fb2d87ac70f"
+        },
+        {
+            "numero": 21,
+            "arquivo": "Caesar 3.iso.part0021",
+            "tamanho_bytes": 25165824,
+            "sha256": "7bb84a9c87d746672f40090bbf6632b07be34a3a0a3dd233154657b3991bcd6e"
+        },
+        {
+            "numero": 22,
+            "arquivo": "Caesar 3.iso.part0022",
+            "tamanho_bytes": 25165824,
+            "sha256": "a67904af4fcccac354e264ae298be61d5d958d9adc3d4b3686a566b2f1316f65"
+        },
+        {
+            "numero": 23,
+            "arquivo": "Caesar 3.iso.part0023",
+            "tamanho_bytes": 25165824,
+            "sha256": "885f1e306b5608a14683acb66ea9b1cc392bb2b925658cbfe8140e9d6e9ca17a"
+        },
+        {
+            "numero": 24,
+            "arquivo": "Caesar 3.iso.part0024",
+            "tamanho_bytes": 25165824,
+            "sha256": "a78eda02531d2f8fa16d52cd31251b6485aa1847b03047346b33726c9210da11"
+        },
+        {
+            "numero": 25,
+            "arquivo": "Caesar 3.iso.part0025",
+            "tamanho_bytes": 25165824,
+            "sha256": "7ed98160deeb59b526cb637f7c741d3747aadfed375a9fb9cfec81586a024c9e"
+        },
+        {
+            "numero": 26,
+            "arquivo": "Caesar 3.iso.part0026",
+            "tamanho_bytes": 25165824,
+            "sha256": "01630dedd2921afdd439efbf7f3c5051d9e9e05108150b8b13125ccacf9e69f4"
+        },
+        {
+            "numero": 27,
+            "arquivo": "Caesar 3.iso.part0027",
+            "tamanho_bytes": 1617920,
+            "sha256": "8a5abe58bd941e96fdef06a76542679574d432b10d9a6409f67c9044672c591f"
+        }
+    ]
+}
