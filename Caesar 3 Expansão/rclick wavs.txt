@@ -1,0 +1,77 @@
+
+
+
+This is the list of sound FX that i am looking for in the right click
+panel. It will also form the basis of the city 'in game' sounds, later on.
+
+If you want to use a sound for multiple types e.g. using park.wav for
+statue.wav as well then let me know and I will change the code to call
+appropriatly.
+
+I have used just one variant for the time being we can go through later and
+see whivh would benefit from extra wavs, once we get them onto the map screen.
+
+
+	"wavs\\empty_land.wav"
+	"wavs\\ampitheatre.wav"
+	"wavs\\theatre.wav"
+	"wavs\\hippodrome.wav"
+	"wavs\\colloseum.wav"
+	"wavs\\glad_pit.wav"
+	"wavs\\lion_pit.wav"
+	"wavs\\art_pit.wav"
+	"wavs\\char_pit.wav"
+	"wavs\\park.wav"
+	"wavs\\statue.wav"
+	"wavs\\clinic.wav"
+	"wavs\\hospital.wav"
+	"wavs\\baths.wav"
+	"wavs\\barber.wav"
+	"wavs\\school.wav"
+	"wavs\\academy.wav"
+	"wavs\\library.wav"
+	"wavs\\prefecture.wav"
+	"wavs\\fort.wav"
+	"wavs\\gatehouse.wav"
+	"wavs\\tower.wav"
+	"wavs\\temple_farm.wav"
+	"wavs\\temple_ship.wav"
+	"wavs\\temple_comm.wav"
+	"wavs\\temple_war.wav"
+	"wavs\\temple_love.wav"
+	"wavs\\market.wav"
+	"wavs\\granary.wav"
+	"wavs\\warehouse.wav"
+	"wavs\\shipyard.wav"
+	"wavs\\dock.wav"
+	"wavs\\wharf.wav"
+	"wavs\\gov_palace.wav"
+	"wavs\\eng_post.wav"
+	"wavs\\senate.wav"
+	"wavs\\forum.wav"
+	"wavs\\resevoir.wav"
+	"wavs\\fountain.wav"
+	"wavs\\well.wav"
+	"wavs\\oracle.wav"
+	"wavs\\ruin.wav"
+	"wavs\\wheat_farm.wav"
+	"wavs\\veg_farm.wav"
+	"wavs\\figs_farm.wav"
+	"wavs\\olives_farm.wav"
+	"wavs\\vines_farm.wav"
+	"wavs\\meat_farm.wav"
+	"wavs\\quarry.wav"
+	"wavs\\mine.wav"
+	"wavs\\timber.wav"
+	"wavs\\clay.wav"
+	"wavs\\wine_workshop.wav"
+	"wavs\\oil_workshop.wav"
+	"wavs\\weapons_workshop.wav"
+	"wavs\\furniture_workshop.wav"
+	"wavs\\pottery_workshop.wav"
+	"wavs\\housing.wav"
+
+
+------>Simon.
+
+
