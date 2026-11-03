@@ -1,0 +1,29 @@
+[Ident]
+ProductID=70558
+Version=1.0.1.0
+PatchVersion=1.0.1.0
+ShortTitle=Caesar3
+UpdateAfter=12-15-2000
+WebPage=http://www.Caesar3.com
+StrippedDemo=0
+Readme=readme101.txt
+
+[Demos]
+pharaoh = Pharaoh
+
+[Bookmarks]
+http://www.sierra.com=The Sierra Web Site
+
+
+[System Test]
+ScreenWidth=640
+ScreenHeight=480
+Colors=65000
+MemKB=15400
+WinVer=395
+Wave=1
+Processor=Pentium-90
+
+[Setup]
+InstallShield=1
+
