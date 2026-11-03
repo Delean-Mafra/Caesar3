@@ -1,0 +1,24 @@
+{
+    "versao_manifesto": 4,
+    "arquivo_original": "Caesar3.sub",
+    "caminho_relativo_original": "Caesar3.sub",
+    "tamanho_original_bytes": 32983200,
+    "sha256_original": "301cff281508d48be1371e7fda7a203c16905bcc6de54f070b1ff24c089ca909",
+    "tamanho_maximo_parte_bytes": 25165824,
+    "tamanho_minimo_fragmentacao_bytes": 26214400,
+    "quantidade_partes_esperada": 2,
+    "partes": [
+        {
+            "numero": 1,
+            "arquivo": "Caesar3.sub.part0001",
+            "tamanho_bytes": 25165824,
+            "sha256": "7c4b7d4108e458154fa2843f764e16958c7bd6ffcb2064ded0b05885ca5b542a"
+        },
+        {
+            "numero": 2,
+            "arquivo": "Caesar3.sub.part0002",
+            "tamanho_bytes": 7817376,
+            "sha256": "5bf33352f39a5fe610927a2f2964aa3d5e3970d7cd704304645c9b1bfebec01a"
+        }
+    ]
+}
