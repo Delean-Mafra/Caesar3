@@ -1,0 +1,210 @@
+{
+    "versao_manifesto": 4,
+    "arquivo_original": "Caesar3.img",
+    "caminho_relativo_original": "Caesar3.img",
+    "tamanho_original_bytes": 808088400,
+    "sha256_original": "0f3517a59867492cf01bec6efca4e95bc93f4c85de8ec48ca7f811942b231bfd",
+    "tamanho_maximo_parte_bytes": 25165824,
+    "tamanho_minimo_fragmentacao_bytes": 26214400,
+    "quantidade_partes_esperada": 33,
+    "partes": [
+        {
+            "numero": 1,
+            "arquivo": "Caesar3.img.part0001",
+            "tamanho_bytes": 25165824,
+            "sha256": "3f4bddf0fb87a84b33e30a336cb9cdcd92ef4fb11158e0f131fc74ea8a8b148d"
+        },
+        {
+            "numero": 2,
+            "arquivo": "Caesar3.img.part0002",
+            "tamanho_bytes": 25165824,
+            "sha256": "a3b1bcba548b6873ac75c9d997c738ae21079d773d6ef16a7e8a2633842fe6ed"
+        },
+        {
+            "numero": 3,
+            "arquivo": "Caesar3.img.part0003",
+            "tamanho_bytes": 25165824,
+            "sha256": "f7866269a40911908df9045d0fafce1709079b1a52d59171794fa171a6d35fb2"
+        },
+        {
+            "numero": 4,
+            "arquivo": "Caesar3.img.part0004",
+            "tamanho_bytes": 25165824,
+            "sha256": "3f07007299074733a97503ea2790177d2bd10c8f954949f1b49785c6949c6e48"
+        },
+        {
+            "numero": 5,
+            "arquivo": "Caesar3.img.part0005",
+            "tamanho_bytes": 25165824,
+            "sha256": "1316aa2051cee1d3c1041d35173fe172e424b02a47cfcbe74f3d065f5b5a7f91"
+        },
+        {
+            "numero": 6,
+            "arquivo": "Caesar3.img.part0006",
+            "tamanho_bytes": 25165824,
+            "sha256": "04278a65d7fa6cae8fd7d47fd8e012458cce5691805b22eba4e30099174ca393"
+        },
+        {
+            "numero": 7,
+            "arquivo": "Caesar3.img.part0007",
+            "tamanho_bytes": 25165824,
+            "sha256": "01aa137e59cd60bcd32607cb8676c8619056510ecbc93c5cd421ef0edcdb0a52"
+        },
+        {
+            "numero": 8,
+            "arquivo": "Caesar3.img.part0008",
+            "tamanho_bytes": 25165824,
+            "sha256": "c100f5fc4df606b465db9b7b7b4d0d1aa5727f233a0e718b197e89022ee4f19a"
+        },
+        {
+            "numero": 9,
+            "arquivo": "Caesar3.img.part0009",
+            "tamanho_bytes": 25165824,
+            "sha256": "ee7a913d3c3e48a2db6f22798905f393ae02e89ca10b84ca79295e35065e1fe3"
+        },
+        {
+            "numero": 10,
+            "arquivo": "Caesar3.img.part0010",
+            "tamanho_bytes": 25165824,
+            "sha256": "e7a5d39993f5ddaf82cb8955ad2bea7180978c3284eb1e391d4d1499cab88934"
+        },
+        {
+            "numero": 11,
+            "arquivo": "Caesar3.img.part0011",
+            "tamanho_bytes": 25165824,
+            "sha256": "00d8f74b5287adac7bbfd38bea6312812ca291c5da09674c873c423002a35ec8"
+        },
+        {
+            "numero": 12,
+            "arquivo": "Caesar3.img.part0012",
+            "tamanho_bytes": 25165824,
+            "sha256": "7ff80eb8e6355b6f81363757204112a494b771d38dd8cb321919f86449916fbe"
+        },
+        {
+            "numero": 13,
+            "arquivo": "Caesar3.img.part0013",
+            "tamanho_bytes": 25165824,
+            "sha256": "b9adabc009ed471fe066a7608cf48709ac094b65c836837c6101372006d971e3"
+        },
+        {
+            "numero": 14,
+            "arquivo": "Caesar3.img.part0014",
+            "tamanho_bytes": 25165824,
+            "sha256": "afe5844d7c445d3afe3144e58738272594501a62fdeabe071bb27bf2dbac5896"
+        },
+        {
+            "numero": 15,
+            "arquivo": "Caesar3.img.part0015",
+            "tamanho_bytes": 25165824,
+            "sha256": "13bf9f195b2cf26e480aeee62b2ce492ce6bf7a7d934bfbf552ef814c0aa9c81"
+        },
+        {
+            "numero": 16,
+            "arquivo": "Caesar3.img.part0016",
+            "tamanho_bytes": 25165824,
+            "sha256": "66a64853f5f7b88b161f2c79545ad2d7c18c818cf97e757d2a2fc2355b4091b9"
+        },
+        {
+            "numero": 17,
+            "arquivo": "Caesar3.img.part0017",
+            "tamanho_bytes": 25165824,
+            "sha256": "a34bdc4145320589449f1465fb923a355b894d10bed01e61417be947c9fb0ca2"
+        },
+        {
+            "numero": 18,
+            "arquivo": "Caesar3.img.part0018",
+            "tamanho_bytes": 25165824,
+            "sha256": "7d4dc53263b499e23c5c19fce58e444fd70a70dd26a44604e3c2d21d24508d03"
+        },
+        {
+            "numero": 19,
+            "arquivo": "Caesar3.img.part0019",
+            "tamanho_bytes": 25165824,
+            "sha256": "add4fb2228c2e7407175a89345e984b6957d530b5ee28862d2d73481c9787e4a"
+        },
+        {
+            "numero": 20,
+            "arquivo": "Caesar3.img.part0020",
+            "tamanho_bytes": 25165824,
+            "sha256": "75b128a45e3cfb847f8cc0403dcd063249487a900b1bf39f95d01f072ea5d3ff"
+        },
+        {
+            "numero": 21,
+            "arquivo": "Caesar3.img.part0021",
+            "tamanho_bytes": 25165824,
+            "sha256": "f5f16d1cf95f657a26c16ebadfb73d1960445dcaf42d13379ebdeefef3963e2b"
+        },
+        {
+            "numero": 22,
+            "arquivo": "Caesar3.img.part0022",
+            "tamanho_bytes": 25165824,
+            "sha256": "f2bd2b9e26e11b1aa626260e741b4fb82427f7753970c335be7e9e145696d04a"
+        },
+        {
+            "numero": 23,
+            "arquivo": "Caesar3.img.part0023",
+            "tamanho_bytes": 25165824,
+            "sha256": "5c9068cc5121f38dd72b9b66d01af08568e74a270adfa8719b2c264ed44c458c"
+        },
+        {
+            "numero": 24,
+            "arquivo": "Caesar3.img.part0024",
+            "tamanho_bytes": 25165824,
+            "sha256": "3421280d3b02cbd5724ed7de3b8f1c69ff13df30901705c8bde10084a0d22815"
+        },
+        {
+            "numero": 25,
+            "arquivo": "Caesar3.img.part0025",
+            "tamanho_bytes": 25165824,
+            "sha256": "8448368d482c34d8976494e9cc16a5188df249a9c8ae17db7f0ce665aecf22a9"
+        },
+        {
+            "numero": 26,
+            "arquivo": "Caesar3.img.part0026",
+            "tamanho_bytes": 25165824,
+            "sha256": "86ea9eb251c8349720642b4f1b9504261aafaeaba259cffa245f6b9415761b0d"
+        },
+        {
+            "numero": 27,
+            "arquivo": "Caesar3.img.part0027",
+            "tamanho_bytes": 25165824,
+            "sha256": "3cbe7a9a63825dd70b39a97b89f9a1e248255155d8876bc7a877cd0b35f83c6e"
+        },
+        {
+            "numero": 28,
+            "arquivo": "Caesar3.img.part0028",
+            "tamanho_bytes": 25165824,
+            "sha256": "f003e33c8d75dede1315cfb6bd0a5049c0a9aeaa7c1d8e9c4a57e68238878dbb"
+        },
+        {
+            "numero": 29,
+            "arquivo": "Caesar3.img.part0029",
+            "tamanho_bytes": 25165824,
+            "sha256": "5e5e442b6ddcc9b8a1e904f3566e0d3c9306f03413a36c5feea4d92b7642228b"
+        },
+        {
+            "numero": 30,
+            "arquivo": "Caesar3.img.part0030",
+            "tamanho_bytes": 25165824,
+            "sha256": "ee3b49a21022ba55a900692906fbc6d088841d381ef6873e9715697107d43f5c"
+        },
+        {
+            "numero": 31,
+            "arquivo": "Caesar3.img.part0031",
+            "tamanho_bytes": 25165824,
+            "sha256": "03d22f3ba5b5b0f04500a8d7efedaac9608c3f9b345f27197ae52b821ef64dd7"
+        },
+        {
+            "numero": 32,
+            "arquivo": "Caesar3.img.part0032",
+            "tamanho_bytes": 25165824,
+            "sha256": "03dad8cbc489135986ce3df7fe148eef0d77bd9c7db59119c669e4dd947c00cf"
+        },
+        {
+            "numero": 33,
+            "arquivo": "Caesar3.img.part0033",
+            "tamanho_bytes": 2782032,
+            "sha256": "b378eecdeb01cebf71d22591cf8fc431650882e577d2be5462a74e7f7eb0cf07"
+        }
+    ]
+}
