@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE assetlist>
+<!-- XML auto packed by asset_packer. DO NOT use as a reference.
+     Use the assets directory from the source code instead. -->
+
+<assetlist name="Health_Education">
+    <image id="Upgraded_School" width="118" height="110" isometric="true">
+        <layer group="41" y="18"/>
+        <layer src_x="356" src_y="404" x="1" width="110" height="103"/>
+    </image>
+    <image id="Library Ref 01" width="118" height="72">
+        <layer group="42" y="-47"/>
+    </image>
+    <image id="Downgraded_Library" width="118" height="101" isometric="true">
+        <layer group="this" image="Library Ref 01" y="29"/>
+        <layer src_x="410" src_y="316" x="22" width="82" height="48"/>
+    </image>
+    <image id="Academy_Fix" isometric="true">
+        <layer group="43" image="0"/>
+        <layer src_x="515" x="150" y="27" width="8" height="21"/>
+    </image>
+    <image id="Upgraded_Academy" isometric="true">
+        <layer group="43" image="0"/>
+        <layer src_x="238" src_y="316" x="6" y="20" width="172" height="88"/>
+    </image>
+    <image id="Doctor heal">
+        <layer src_x="466" src_y="404" width="39" height="39"/>
+    </image>
+    <image>
+        <layer src_x="449" src_y="364" width="39" height="39"/>
+    </image>
+    <image>
+        <layer src_x="410" src_y="364" width="39" height="39"/>
+    </image>
+    <image>
+        <layer src_x="476" width="39" height="39"/>
+    </image>
+    <image>
+        <layer src_x="466" src_y="443" width="39" height="39"/>
+    </image>
+    <image>
+        <layer src_x="466" src_y="482" width="39" height="39"/>
+    </image>
+    <image id="College" isometric="true">
+        <layer src_x="238" src_y="404" width="118" height="112"/>
+    </image>
+    <image id="GLib_Cons_01" isometric="true">
+        <layer src_x="238" src_y="187" width="238" height="129"/>
+    </image>
+    <image id="GLib_Cons_02" isometric="true">
+        <layer src_y="187" width="238" height="150"/>
+    </image>
+    <image id="GLib_Cons_03" isometric="true">
+        <layer src_y="337" width="238" height="150"/>
+    </image>
+    <image id="GLib_Cons_04" isometric="true">
+        <layer src_x="238" width="238" height="172"/>
+    </image>
+    <image id="Great_Library" isometric="true">
+        <layer width="238" height="187"/>
+    </image>
+</assetlist>
